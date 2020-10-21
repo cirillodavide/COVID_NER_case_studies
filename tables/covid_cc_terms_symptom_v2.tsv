@@ -1,0 +1,668 @@
+span_lower	label	doc_freq	doc_perc(%)	term_freq	lemma	snomedid	umls_cui	original_span	span_normalized	filename
+fiebre	SINTOMA	164	82.0	265	fiebre	248425001, 386661006, 64882008	C0015967, C0015967, C0015967	fiebre	fiebre	32360439-B_ES, 32633439_ES, 32614251_ES, 32320556_ES, 32607564_ES, 32359804_ES, 32638347C_ES, 32174057_ES, 32294273_ES, 32222713_ES, 32602610_ES, 32427645_ES, 32583150A_ES, 32401344_ES, 32196627_ES, 32215898_ES, 32399450_ES, 32363351_ES, 32589794_ES, 32265235_ES, 32586676_ES, 32267461_ES, 32282871_ES, 32612465A_ES, 32402687_ES, 32619798_ES, 32266524_ES, 32648092B_ES, 32593478_ES, 32294264_ES, 32637327A_ES, 32363217_ES, 32557532_ES, 32615807A_ES, 32606105_ES, 32637327B_ES, 32399694­­_ES, 32618794_ES, 32594151_ES, 32622819B_ES, 32586778_ES, 32165205_ES, 32427161_ES, 32085846_ES, 32611761B_ES, 32247016_ES, 32563170_ES, 32619736_ES, 32622823_ES, 32651243_ES, 32073161_ES, 32553608­B_ES, 32423738_ES, 32639064_ES, 32554621_ES, 32276139_C_ES, 32418288_ES, 32399449_ES, 32293714_ES, 32636116_ES, 32638347A_ES, 32399950_ES, 32641443_ES, 32602267_ES, 32292904_ES, 32640066_ES, 32412848_ES, 32276139_B_ES, 32267140_ES, 32615807C_ES, 32617903B_ES, 32399449-B_ES, 32635747_ES, 32586752_ES, 32615155_ES, 32247642_ES, 32584431_ES, 32554425_ES, 32282027_ES, 32363336-B_ES, 32292054_ES, 32644205_ES, 32292053_ES, 32617169_ES, 32353183_ES, 32269194_ES, 32119083_ES, 32329981_ES, 32589931_ES, 32588475_ES, 32622483_ES, 32612465B_ES, 32351657_ES, 32245909_ES, 32317275_ES, 32292915_ES, 32277408_ES, 32292867_ES, 32553608­_A_ES, 32208010_ES, 32417987_ES, 32648092A_ES, 32631838_ES, 32399451_ES, 32609542_ES, 32282312_ES, 32605712_ES, 32352486_ES, 32359711_ES, 32617223_ES, 32587121_ES, 32402687-B_ES, 32363336_ES, 32415334_ES, 32168162_ES, 32588185_ES, 32238024_ES, 32318729_ES, 32427774_ES, 32201125_ES, 32623310_ES, 32276139_ES, 32282871_B_ES, 32607304_Es, 32423911_ES, 32283294_ES, 32267483_ES, 32650881_ES, 32246917_ES, 32414534_ES, 32425356_ES, 32637086A_ES, 32428291_ES, 32612465C_ES, 32198834_ES, 32585767_ES, 32232784_ES, 32637437­_ES, 32637086B_ES, 32605766_ES, 32352487_ES, 32612465D_ES, 32631770_ES, 32360439_ES, 32653906_ES, 32294340_ES, 32606044_ES, 32556106_ES, 32631646_ES, 32179908_ES, 32586958_ES, 32250095_ES, 32360384_ES, 32638347B_ES, 32205138_ES, 32593338_ES, 32637266B_ES, 32427774-B_ES, 32426200_ES, 32611659_ES, 32360439-C_ES, 32653960_ES, 3229222_ES, 32161941_ES
+disnea	SINTOMA	91	45.5	127	disnea	267036007, 49233005	C0013404, C0013404, C0553668	disnea	disnea	32633439_ES, 32607564_ES, 32359804_ES, 32174057_ES, 32222713_ES, 32602610_ES, 32267502_ES, 32612465A_ES, 32619798_ES, 32648092B_ES, 32360439-D_ES, 32637327A_ES, 32557532_ES, 32294258_ES, 32637327B_ES, 32618794_ES, 32594151_ES, 32586778_ES, 32353183-B_ES, 32427161_ES, 32085846_ES, 32247016_ES, 32617903A_ES, 32073161_ES, 32554621_ES, 32620682_ES, 32399449_ES, 32602267_ES, 32292904_ES, 32412848_ES, 32276139_B_ES, 32267140_ES, 32615807C_ES, 32617903B_ES, 32635747_ES, 32615155_ES, 32275347_ES, 32282027_ES, 32615807B_ES, 32363336-B_ES, 32644205_ES, 32292053_ES, 32269194_ES, 32278585_ES, 32554811_ES, 32588475_ES, 32612465B_ES, 32351657_ES, 32317275_ES, 32292915_ES, 32553608­_A_ES, 32208010_ES, 32417987_ES, 32631838_ES, 32352486_ES, 32617223_ES, 32587121_ES, 32415334_ES, 32318729_ES, 32427774_ES, 32623310_ES, 32276139_ES, 32282871_B_ES, 32607304_Es, 32423911_ES, 32207255_ES, 32283294_ES, 32650881_ES, 32425356_ES, 32414534_ES, 32637086A_ES, 32612465C_ES, 32232784_ES, 32585767_ES, 32648092C_ES, 32637437­_ES, 32637086B_ES, 32605766_ES, 32352487_ES, 32612465D_ES, 32631770_ES, 32556106_ES, 32631646_ES, 32586958_ES, 32250095_ES, 32360384_ES, 32427774-B_ES, 32611659_ES, 32653960_ES, 3229222_ES, 32590204_ES
+tos	SINTOMA	87	43.5	117	tos	263731006, 49727002	C0010200, C0010200	tos	tos	32633439_ES, 32607564_ES, 32222713_ES, 32602610_ES, 32427645_ES, 32583150A_ES, 32401344_ES, 32196627_ES, 32399450_ES, 32589794_ES, 32265235_ES, 32619798_ES, 32593478_ES, 32294258_ES, 32606105_ES, 32618794_ES, 32594151_ES, 32353183-B_ES, 32427161_ES, 32085846_ES, 32032497_ES, 32247016_ES, 32619736_ES, 32651243_ES, 32073161_ES, 32553608­B_ES, 32423738_ES, 32639064_ES, 32554621_ES, 32418288_ES, 32293714_ES, 32638347A_ES, 32399950_ES, 32602267_ES, 32292904_ES, 32267140_ES, 32617903B_ES, 32586752_ES, 32635747_ES, 32615155_ES, 32247642_ES, 32554425_ES, 32282027_ES, 32292054_ES, 32292053_ES, 32269194_ES, 32588475_ES, 32612465B_ES, 32317275_ES, 32292867_ES, 32208010_ES, 32417987_ES, 32631838_ES, 32609542_ES, 32605712_ES, 32359711_ES, 32617223_ES, 32415334_ES, 32168162_ES, 32238024_ES, 32318729_ES, 32276139_ES, 32207255_ES, 32650881_ES, 32246917_ES, 32637086A_ES, 32414534_ES, 32425356_ES, 32612465C_ES, 32232784_ES, 32585767_ES, 32637086B_ES, 32605766_ES, 32631770_ES, 32606044_ES, 32556106_ES, 32179908_ES, 32586958_ES, 32250095_ES, 32205138_ES, 32637266B_ES, 32427774-B_ES, 32426200_ES, 32611659_ES, 32360439-C_ES, 32590204_ES, 32161941_ES
+tos seca	SINTOMA	35	17.5	36	tos seco	11833005	C0850149	tos seca	tos seca	32617169_ES, 32201125_ES, 32623310_ES, 32359804_ES, 32638347C_ES, 32353183_ES, 32607304_Es, 32423911_ES, 32085846_ES, 32611761B_ES, 32267483_ES, 32246917_ES, 32622483_ES, 32428291_ES, 32245909_ES, 32648092C_ES, 32637437­_ES, 32267461_ES, 32282871_ES, 32294340_ES, 32606044_ES, 32402687_ES, 32641443_ES, 32631646_ES, 32179908_ES, 32360439-D_ES, 32294264_ES, 32412848_ES, 32637327A_ES, 32399449-B_ES, 32615807A_ES, 32587121_ES, 32428291-B_ES, 32399694­­_ES, 32402687-B_ES
+diarrea	SINTOMA	29	14.5	33	diarrea	62315008	C0011991	diarrea	diarrea	32594151_ES, 32292053_ES, 32633439_ES, 32238024_ES, 32222713_ES, 32246917_ES, 32414534_ES, 32351657_ES, 32363351_ES, 32639064_ES, 32585767_ES, 32245909_ES, 32364123_ES, 32637437­_ES, 32292915_ES, 32292904_ES, 32179908_ES, 32640066_ES, 32294264_ES, 32586958_ES, 32267140_ES, 32586752_ES, 32617223_ES, 32584431_ES, 32587121_ES, 32428291-B_ES, 32282027_ES, 32292054_ES, 32161941_ES
+vomitos	SINTOMA	25	12.5	29	vómito			vómitos	vómitos	32594151_ES, 32363336_ES, 32292053_ES, 32353183-B_ES, 32165205_ES, 32427161_ES, 32222713_ES, 32653210_ES, 32423738_ES, 32198834_ES, 32639064_ES, 32424482_ES, 32612465D_ES, 32360439_ES, 32292867_ES, 32208010_ES, 32612465A_ES, 32294340_ES, 32640066_ES, 32639461_ES, 32586752_ES, 32587121_ES, 32426200_ES, 32292054_ES, 32161941_ES
+taquipnea	SINTOMA	20	10.0	23	taquipnea	271823003, 43186005	C0231835, C0231835	taquipnea	taquipnea	32363336_ES, 32320556_ES, 32201125_ES, 32353183_ES, 32622483_ES, 32215898_ES, 32637437­_ES, 32620682_ES, 32265235_ES, 32605766_ES, 32631838_ES, 32648092B_ES, 32640066_ES, 32586958_ES, 32412848_ES, 32617223_ES, 32427774-B_ES, 32426200_ES, 32554425_ES, 32606105_ES
+mialgia	SINTOMA	19	9.5	21	mialgia	68962001	C0231528	mialgia	mialgia	32318729_ES, 32623310_ES, 32611761B_ES, 32283294_ES, 32267483_ES, 32563170_ES, 32588475_ES, 32196627_ES, 32414534_ES, 32232784_ES, 32553608­_A_ES, 32402687_ES, 32292904_ES, 32601756_ES, 32637327A_ES, 32205138_ES, 32635747_ES, 32587121_ES, 32426200_ES
+escalofrios	SINTOMA	18	9.0	20	escalofrío			escalofríos	escalofríos	32593478_ES, 32360439_ES, 32208010_ES, 32238024_ES, 32267461_ES, 32085846_ES, 32650881_ES, 32554425_ES, 32622823_ES, 32427774_ES, 32425356_ES, 32215898_ES, 32617223_ES, 32294273_ES, 32615807A_ES, 32399451_ES, 32266524_ES, 32607304_Es
+nauseas	SINTOMA	16	8.0	18	náusea			náuseas	náuseas	32586958_ES, 32360439_ES, 32292053_ES, 32208010_ES, 32165205_ES, 32427161_ES, 32073161_ES, 32584431_ES, 32587121_ES, 32639064_ES, 32292904_ES, 32607304_Es, 32637437­_ES, 32631646_ES, 32222713_ES, 32161941_ES
+fatiga	SINTOMA	16	8.0	18	fatigar	84229001	C0015672	fatiga	fatiga	32294264_ES, 32267140_ES, 32633439_ES, 32267461_ES, 32612435_ES, 32085846_ES, 32651243_ES, 32246917_ES, 32623310_ES, 32294340_ES, 32073161_ES, 32363351_ES, 32554425_ES, 32399694­­_ES, 32637437­_ES, 32032497_ES
+exantema	SINTOMA	14	7.0	18	exantema	112625008, 271807003	C0015230, C0015230	exantema	exantema	32640066_ES, 32589314_ES, 32602610_ES, 32352487_ES, 32292867_ES, 32639461_ES, 32622819B_ES, 32282312_ES, 32554425_ES, 32636116_ES, 32428291_ES, 32584431_ES, 32641443_ES, 32265235_ES
+sintomas respiratorios	SINTOMA	17	8.5	17	síntoma respiratorio			síntomas respiratorios	síntomas respiratorios	32586676_ES, 32601756_ES, 32415334_ES, 32329981_ES, 32179908_ES, 32588185_ES, 32238024_ES, 32363217_ES, 32318729_ES, 32563170_ES, 32623310_ES, 32215898_ES, 32653906_ES, 32639064_ES, 32427161_ES, 3229222_ES, 32222713_ES
+hipoxemia	SINTOMA	15	7.5	17	hipoxemia	30869003, 389087006	C0242184, C0700292, C0700292	hipoxemia	hipoxemia	32553608­_A_ES, 32617903B_ES, 32612465D_ES, 32360439_ES, 32637266B_ES, 32612465B_ES, 32612465A_ES, 32612465C_ES, 32622819A_ES, 32611659_ES, 32282871_B_ES, 32085846_ES, 32275347_ES, 32292904_ES, 32637086B_ES
+cefalea	SINTOMA	15	7.5	17	cefalea	25064002	C0018681	cefalea	cefalea	32601756_ES, 32605766_ES, 32412848_ES, 32208010_ES, 32639461_ES, 32586958_ES, 32267483_ES, 32247016_ES, 32636116_ES, 32588475_ES, 32611761A_ES, 32196627_ES, 32414534_ES, 32294340_ES, 32292904_ES
+dolor toracico	SINTOMA	16	8.0	16	dolor torácico			dolor torácico	dolor torácico	32399449_ES, 32415334_ES, 32635747_ES, 32593338_ES, 32557532_ES, 32246917_ES, 32556106_ES, 32617223_ES, 32294273_ES, 32584431_ES, 32402687_ES, 32586778_ES, 32073161_ES, 32607304_Es, 3229222_ES, 32631646_ES
+anosmia	SINTOMA	13	6.5	15	anosmia	44169009	C0003126	anosmia	anosmia	32594151_ES, 32294264_ES, 32592761_ES, 32318729_ES, 32605712_ES, 32615155_ES, 32414534_ES, 32606105_ES, 32631838_ES, 32611659_ES, 32618794_ES, 32653960_ES, 32589794_ES
+afebril	SINTOMA	13	6.5	15	afebril			afebril	afebril	32594151_ES, 32640066_ES, 32415334_ES, 32605766_ES, 32633439_ES, 32205138_ES, 32631645_ES, 32294340_ES, 32247642_ES, 32606105_ES, 32639064_ES, 32637327B_ES, 32161941_ES
+rinorrea	SINTOMA	11	5.5	14	rinorrea	397811005, 64531003, 6696001	C1260880, C1260880, C1260880	rinorrea	rinorrea	32601756_ES, 32267483_ES, 32238024_ES, 32294258_ES, 32073161_ES, 32423738_ES, 32276139_ES, 32269194_ES, 32426200_ES, 32265235_ES, 32179908_ES
+desorientacion	SINTOMA	9	4.5	14	desorientación			desorientación	desorientación	32283294_ES, 32292867_ES, 32612435_ES, 32586752_ES, 32563170_ES, 32611761A_ES, 32414534_ES, 32426200_ES, 32418288_ES
+congestion nasal	SINTOMA	13	6.5	14	congestión nasal			congestión nasal	congestión nasal	32294264_ES, 32586958_ES, 32208010_ES, 32586752_ES, 32637266B_ES, 32320556_ES, 32073161_ES, 32606105_ES, 32276139_ES, 32641443_ES, 32292054_ES, 32269194_ES, 32292904_ES
+ageusia	SINTOMA	11	5.5	14	ageusia	36955009	C2364111	ageusia	ageusia	32594151_ES, 32294264_ES, 32318729_ES, 32615155_ES, 32414534_ES, 32638347C_ES, 32606105_ES, 32631838_ES, 32611659_ES, 32585767_ES, 32653960_ES
+leucocitopenia	SINTOMA	10	5.0	13	leucocitopenia			leucocitopenia	leucocitopenia	32601756_ES, 32360439_ES, 32360439-B_ES, 32631770_ES, 32238024_ES, 32427645_ES, 32318729_ES, 32636116_ES, 32363351_ES, 32639064_ES
+dolor abdominal	SINTOMA	12	6.0	13	dolor abdominal	21522001	C0000737	dolor abdominal	dolor abdominal	32640066_ES, 32639461_ES, 32633439_ES, 32583150A_ES, 32622823_ES, 32588475_ES, 32617223_ES, 32402416­_ES, 32353183-B_ES, 32639064_ES, 32427161_ES, 32424482_ES
+hipertermia	SINTOMA	11	5.5	12	hipertermia	50177009	C0015967	hipertermia	hipertermia	32640066_ES, 32593478_ES, 32639461_ES, 32032497_ES, 32201125_ES, 32215898_ES, 32638347A_ES, 32207255_ES, 32648092C_ES, 32648092B_ES, 32637086B_ES
+febricula	SINTOMA	11	5.5	12	febrícula			febrícula	febrícula	32653210_ES, 32363217_ES, 32417987_ES, 32294258_ES, 32637086A_ES, 32631645_ES, 32073161_ES, 32423738_ES, 32399950_ES, 32428291-B_ES, 32222713_ES
+dificultad respiratoria	SINTOMA	11	5.5	12	dificultad respiratorio	49233005	C0013404, C0553668	dificultad respiratoria	dificultad respiratoria	32360439_ES, 32363217_ES, 32318729_ES, 32317275_ES, 32401344_ES, 32399450_ES, 32423738_ES, 32631838_ES, 32587121_ES, 32427161_ES, 32292054_ES
+dificultad respiratoria aguda	SINTOMA	10	5.0	10	dificultad respiratorio agudo	13474005, 111281007	C0264493, C0748355	dificultad respiratoria aguda	dificultad respiratoria aguda	32605766_ES, 32639461_ES, 32222713_ES, 32593338_ES, 32623310_ES, 32359711_ES, 32207255_ES, 32399451_ES, 32607304_Es, 32292915_ES
+cansancio	SINTOMA	10	5.0	10	cansancio	257408008	C0475255	cansancio	cansancio	32427645_ES, 32639461_ES, 32427774_ES, 32425356_ES, 32201125_ES, 32215898_ES, 32352486_ES, 32428291_ES, 32428291-B_ES, 32607304_Es
+astenia	SINTOMA	10	5.0	10	astenia	13791008	C0004093, C3714552	astenia	astenia	32589931_ES, 32401344_ES, 32246917_ES, 32196627_ES, 32638347C_ES, 32631838_ES, 32653960_ES, 32648092B_ES, 32418288_ES, 32402687-B_ES
+malestar general	SINTOMA	9	4.5	9	malestar general	367391008	C0231218	malestar general	malestar general	32399449_ES, 32412848_ES, 32250095_ES, 32612435_ES, 32205138_ES, 32215898_ES, 32353183_ES, 32586778_ES, 32222713_ES
+malestar	SINTOMA	8	4.0	9	malestar	12532009	C0231218	malestar	malestar	32644205_ES, 32622819B_ES, 32557532_ES, 32617223_ES, 32622819A_ES, 32587121_ES, 32637437­_ES, 32292904_ES
+fumador	SINTOMA	9	4.5	9	fumador	77176002	C0337664	fumador	fumador	32617903B_ES, 32267140_ES, 32205138_ES, 32617223_ES, 32073161_ES, 32617903A_ES, 32587121_ES, 32423911_ES, 32292915_ES
+febril	SINTOMA	9	4.5	9	febril	248425001	C0015967	febril	febril	32586958_ES, 32612465D_ES, 32586752_ES, 32414534_ES, 32612465A_ES, 32641443_ES, 32607304_Es, 32620682_ES, 32222713_ES
+mareo	SINTOMA	6	3.0	8	mareo	404640003, 69096003	C0012833, C0012833, C0220870	mareo	mareo	32586958_ES, 32208010_ES, 32563170_ES, 32359711_ES, 32073161_ES, 32265235_ES
+hipotension	SINTOMA	7	3.5	8	hipotensión			hipotensión	hipotensión	32640066_ES, 32427645_ES, 32320556_ES, 32587121_ES, 32427161_ES, 32426200_ES, 32638890_ES
+tos productiva	SINTOMA	6	3.0	7	tos productivo	28743005	C0239134	tos productiva	tos productiva	32205138_ES, 32650881_ES, 32073161_ES, 32363351_ES, 32198834_ES, 32179908_ES
+taquicardia	SINTOMA	7	3.5	7	taquicardia	3424008	C0039231	taquicardia	taquicardia	32363336_ES, 32360384_ES, 32320556_ES, 32353183_ES, 32637086B_ES, 32606105_ES, 32179908_ES
+irritacion de garganta	SINTOMA	7	3.5	7	irritación de garganta			irritación de garganta	irritación de garganta	32250095_ES, 32639461_ES, 32238024_ES, 32586752_ES, 32636116_ES, 32294258_ES, 32073161_ES
+dolor	SINTOMA	6	3.0	7	dolor	22253000	C0030193	dolor	dolor	32602610_ES, 32589931_ES, 32593338_ES, 32631645_ES, 32247642_ES, 32426200_ES
+disfagia	SINTOMA	6	3.0	7	disfagia	40739000, 88275004	C0011168, C0232520	disfagia	disfagia	32588185_ES, 32623310_ES, 32359804_ES, 32414534_ES, 32364123_ES, 32161941_ES
+debilidad	SINTOMA	7	3.5	7	debilidad	248279007, 13791008	C0004093, C0424594, C3714552	debilidad	debilidad	32605766_ES, 32592761_ES, 32653906_ES, 32617903A_ES, 32399450_ES, 32427774-B_ES, 32275347_ES
+leucocitosis	SINTOMA	6	3.0	6	leucocitosis	111583006, 414478003	C0023518, C0750426	leucocitosis	leucocitosis	32622819B_ES, 32412848_ES, 32238024_ES, 32353183_ES, 32584431_ES, 3229222_ES
+expectoracion	SINTOMA	6	3.0	6	expectoración			expectoración	expectoración	32232784_ES, 32292053_ES, 32359711_ES, 32269194_ES, 32282027_ES, 32161941_ES
+aumento de proteina creactiva	SINTOMA	7	3.5	6	aumento de proteína creactiva			aumento de proteína C-reactiva	aumento de proteína creactiva	32640066_ES, 32601756_ES, 32427645_ES, 32414534_ES, 32215898_ES, 32554621_ES, 32602267_ES
+aumento de la proteina creactiva	SINTOMA	6	3.0	6	aumento de el proteína creactiva			aumento de la proteína C-reactiva	aumento de la proteína creactiva	32267140_ES, 32250095_ES, 32594429_ES, 32554621_ES, 32351657_ES, 32423911_ES
+letargia	SINTOMA	5	2.5	5	letargia	52663000	C0023380	letargia	letargia	32293714_ES, 32563170_ES, 32073161_ES, 32282871_B_ES, 32639064_ES
+insomnio	SINTOMA	3	1.5	5	insomnio	62577008, 270478005, 193462001	C0424566, C0917801, C0917801, C0917801	insomnio	insomnio	32605766_ES, 32293714_ES, 32399450_ES
+eritema	SINTOMA	5	2.5	5	eritema	70819003, 247441003	C0041834, C0041834	eritema	eritema	32292867_ES, 32631770_ES, 32584431_ES, 32589314_ES, 32585767_ES
+tos no productiva	SINTOMA	4	2.0	4	tos no productivo	11833005, 409596002	C0850149, C0850149	tos no productiva	tos no productiva	32292904_ES, 32622819A_ES, 32622823_ES, 32611659_ES
+somnoliento	SINTOMA	4	2.0	4	somnoliento	284091004	C0013144	somnoliento	somnoliento	32637266B_ES, 32589794_ES, 32590204_ES, 32554425_ES
+sibilancias	SINTOMA	3	1.5	4	sibilancia	56018004	C0043144, C0392681	sibilancias	sibilancias	32607304_Es, 32292053_ES, 32553608­_A_ES
+orientado	SINTOMA	4	2.0	4	orientar	247663003	C0424013	orientado	orientado	32593478_ES, 32605766_ES, 32293714_ES, 32587121_ES
+opresion toracica	SINTOMA	3	1.5	4	opresión torácico			opresión torácica	opresión torácica	32165205_ES, 32073161_ES, 32207255_ES
+mialgias	SINTOMA	4	2.0	4	mialgia	68962001	C0231528	mialgias	mialgias	32635747_ES, 32294264_ES, 32293714_ES, 32292915_ES
+irritabilidad	SINTOMA	4	2.0	4	irritabilidad	55929007	C0022107	irritabilidad	irritabilidad	32293714_ES, 32423738_ES, 32265235_ES, 32418288_ES
+dolor epigastrico	SINTOMA	4	2.0	4	dolor epigástrico			dolor epigástrico	dolor epigástrico	32562891_ES, 32593478_ES, 32607304_Es, 32622823_ES
+deterioro hemodinamico	SINTOMA	2	1.0	4	deterioro hemodinámico			deterioro hemodinámico	deterioro hemodinámico	3229222_ES, 32586778_ES
+congestion	SINTOMA	4	2.0	4	congestión			congestión	congestión	32606105_ES, 32265235_ES, 32292054_ES, 32426200_ES
+cardiomegalia	SINTOMA	4	2.0	4	cardiomegalia	8186001	C0018800, C1383860, C2733397	cardiomegalia	cardiomegalia	32607304_Es, 32282027_ES, 32636116_ES, 32423738_ES
+artralgia	SINTOMA	4	2.0	4	artralgia	57676002	C0003862	artralgia	artralgia	32294273_ES, 32588475_ES, 32553608­_A_ES, 32587121_ES
+anorexia	SINTOMA	4	2.0	4	anorexia	79890006	C1971624	anorexia	anorexia	32653960_ES, 32276139_B_ES, 32586752_ES, 32282871_ES
+anasarca	SINTOMA	3	1.5	4	anasarca	16740003, 442433009	C0151603, C0151603	anasarca	anasarca	32589931_ES, 32622823_ES, 32622483_ES
+alteraciones electroliticas	SINTOMA	4	2.0	4	alteración electrolítico			alteraciones electrolíticas	alteraciones electrolíticas	32615807A_ES, 32292867_ES, 32615807B_ES, 32615807C_ES
+alteracion del estado mental	SINTOMA	3	1.5	4	alteración de+el estado mental			alteración del estado mental	alteración del estado mental	32554423_ES, 32360439-C_ES, 32360439_ES
+alteracion de la conciencia	SINTOMA	4	2.0	4	alteración de el conciencia			alteración de la conciencia	alteración de la conciencia	32283294_ES, 32637266B_ES, 32418288_ES, 32414534_ES
+trombocitopenia	SINTOMA	3	1.5	3	trombocitopenia	70786006, 302215000, 415116008	C0040034, C0040034, C0040034, C0392386	trombocitopenia	trombocitopenia	32636116_ES, 32651243_ES, 32198834_ES
+sudoracion	SINTOMA	3	1.5	3	sudoración			sudoración	sudoración	32607304_Es, 32617223_ES, 32606105_ES
+sintomas respiratorios leves	SINTOMA	3	1.5	3	síntoma respiratorio leve			síntomas respiratorios leves	síntomas respiratorios leves	32589931_ES, 32554423_ES, 32427161_ES
+sintomas gastrointestinales	SINTOMA	3	1.5	3	síntoma gastrointestinal			síntomas gastrointestinales	síntomas gastrointestinales	32399950_ES, 32222713_ES, 32198834_ES
+ritmo sinusal	SINTOMA	3	1.5	3	ritmo sinusal	251150006, 106067008	C0232201, C0232201	ritmo sinusal	ritmo sinusal	32402687_ES, 32353183-B_ES, 32402687-B_ES
+rigidez	SINTOMA	3	1.5	3	rigidez	271587009	C0427008	rigidez	rigidez	32417987_ES, 32653960_ES, 32414534_ES
+parestesia	SINTOMA	3	1.5	3	parestesia	91019004	C0030554	parestesia	parestesia	32601756_ES, 32586958_ES, 32592761_ES
+oliguria	SINTOMA	3	1.5	3	oliguria	83128009	C0028961	oliguria	oliguria	32427645_ES, 32179908_ES, 32622483_ES
+odinofagia	SINTOMA	3	1.5	3	odinofagia	30233002	C0221150	odinofagia	odinofagia	32601756_ES, 32294273_ES, 32631646_ES
+infiltrados pulmonares	SINTOMA	3	1.5	3	infiltrar pulmonar			infiltrados pulmonares	infiltrados pulmonares	32363336_ES, 32601756_ES, 32247642_ES
+infiltrados alveolares	SINTOMA	2	1.0	3	infiltrar alveolar			infiltrados alveolares	infiltrados alveolares	32586958_ES, 32617903B_ES
+hipertonia	SINTOMA	2	1.0	3	hipertonía			hipertonía	hipertonía	32605766_ES, 32617903A_ES
+hepatomegalia	SINTOMA	2	1.0	3	hepatomegalia	80515008	C0019209	hepatomegalia	hepatomegalia	32427645_ES, 32636116_ES
+fallecio	SINTOMA	3	1.5	3	fallecer			falleció	falleció	32351657_ES, 32282871_ES, 32399451_ES
+dolor toracico pleural	SINTOMA	3	1.5	3	dolor torácico pleural			dolor torácico pleural	dolor torácico pleural	32423911_ES, 32352487_ES, 32317275_ES
+debilidad facial	SINTOMA	2	1.0	3	debilidad facial	95666008	C0427055	debilidad facial	debilidad facial	32586958_ES, 32631770_ES
+aumento de troponina	SINTOMA	2	1.0	3	aumento de troponina			aumento de troponina	aumento de troponina	32607304_Es, 32363351_ES
+alucinaciones auditivas	SINTOMA	2	1.0	3	alucinación auditivo	45150006	C0233762	alucinaciones auditivas	alucinaciones auditivas	32593478_ES, 32639089_ES
+tos persistente	SINTOMA	2	1.0	2	tos persistente	284523002	C0562483	tos persistente	tos persistente	32275347_ES, 32641443_ES
+tabaquismo	SINTOMA	2	1.0	2	tabaquismo	266918002, 89765005	C0040332, C0040336, C0425291, C1306274	tabaquismo	tabaquismo	32601756_ES, 32611659_ES
+sudoracion intensa	SINTOMA	2	1.0	2	sudoración intenso			sudoración intensa	sudoración intensa	32653906_ES, 32605766_ES
+somnolencia	SINTOMA	2	1.0	2	somnolencia	79519003, 271782001	C0013144, C0013144	somnolencia	somnolencia	32318729_ES, 32292054_ES
+sintomas paragripales	SINTOMA	2	1.0	2	síntoma paragripal			síntomas paragripales	síntomas paragripales	32586778_ES, 32637086B_ES
+sintomas abdominales	SINTOMA	2	1.0	2	síntoma abdominal			síntomas abdominales	síntomas abdominales	32179908_ES, 32353183-B_ES
+signos respiratorios	SINTOMA	2	1.0	2	signo respiratorio			signos respiratorios	signos respiratorios	32638347A_ES, 32638347C_ES
+signo de lasegue	SINTOMA	2	1.0	2	signo de lasègue			signo de Lasègue	signo de lasègue	32293714_ES, 32359804_ES
+signo de babinski	SINTOMA	2	1.0	2	signo de babinski	63833001	C0034935	signo de Babinski	signo de babinski	32283294_ES, 32590204_ES
+sensacion distermica	SINTOMA	2	1.0	2	sensación distérmico			sensación distérmica	sensación distérmica	3229222_ES, 32631646_ES
+roncus	SINTOMA	2	1.0	2	roncus			roncus	roncus	32607304_Es, 32363351_ES
+rigidez de nuca	SINTOMA	1	0.5	2	rigidez de nuca	405947006, 4697007	C0151315, C1320474, C1320474	rigidez de nuca	rigidez de nuca	32414534_ES
+retraccion subcostal	SINTOMA	2	1.0	2	retracción subcostal			retracción subcostal	retracción subcostal	32606105_ES, 32265235_ES
+proteinuria	SINTOMA	2	1.0	2	proteinuria	29738008	C0033687	proteinuria	proteinuria	32589931_ES, 32363336_ES
+polipnea	SINTOMA	2	1.0	2	polipnea	63782006	C0220854, C1328799	polipnea	polipnea	32638347C_ES, 32351657_ES
+neutrofilia	SINTOMA	2	1.0	2	neutrofília	165518003, 78341006, 414850009	C0151683, C1282609, C3665444, C3665444	neutrofilia	neutrofilia	32423911_ES, 32417987_ES
+masa tumoral del pulmon	SINTOMA	1	0.5	2	masa tumoral de+el pulmón			masa tumoral del pulmón	masa tumoral del pulmón	32165205_ES
+malestar toracico	SINTOMA	2	1.0	2	malestar torácico			malestar torácico	malestar torácico	32208010_ES, 32232784_ES
+malestar intenso	SINTOMA	2	1.0	2	malestar intenso			malestar intenso	malestar intenso	32606105_ES, 32426200_ES
+malestar agudo	SINTOMA	2	1.0	2	malestar agudo			malestar agudo	malestar agudo	32637266B_ES, 32637266A_ES
+maculas	SINTOMA	1	0.5	2	mácula			máculas	máculas	32352487_ES
+lumbalgia	SINTOMA	2	1.0	2	lumbalgia	40709005, 279039007	C0024031, C0024031	lumbalgia	lumbalgia	32648092B_ES, 32588185_ES
+linfoadenopatia	SINTOMA	2	1.0	2	linfoadenopatía			linfoadenopatía	linfoadenopatía	32640066_ES, 32593338_ES
+incapacidad de andar	SINTOMA	2	1.0	2	incapacidad de andar			incapacidad de andar	incapacidad de andar	32590204_ES, 32414534_ES
+hipotonia	SINTOMA	2	1.0	2	hipotonía			hipotonía	hipotonía	32594151_ES, 32359804_ES
+hiposmia	SINTOMA	2	1.0	2	hiposmia			hiposmia	hiposmia	32585767_ES, 32605712_ES
+hematuria	SINTOMA	2	1.0	2	hematuria	53298000, 34436003	C0018965, C0018965	hematuria	hematuria	32277408_ES, 32292915_ES
+falta de apetito	SINTOMA	2	1.0	2	faltar de apetito			falta de apetito	falta de apetito	32593478_ES, 32631770_ES
+expectoracion hemoptoica	SINTOMA	2	1.0	2	expectoración hemoptoico			expectoración hemoptoica	expectoración hemoptoica	32609542_ES, 32208010_ES
+estertores bibasales	SINTOMA	2	1.0	2	estertor bibasal			estertores bibasales	estertores bibasales	32294340_ES, 32623310_ES
+engrosamiento de la textura de los pulmones sin anormalidades cardiacas	SINTOMA	1	0.5	2	engrosamiento de el textura de el pulmón sin anormalidad cardíaco			engrosamiento de la textura de los pulmones sin anormalidades cardíacas	engrosamiento de la textura de los pulmones sin anormalidades cardíacas	32161941_ES
+empeoramiento del estado respiratorio	SINTOMA	2	1.0	2	empeoramiento de+el estado respiratorio			empeoramiento del estado respiratorio	empeoramiento del estado respiratorio	32179908_ES, 32638347B_ES
+elevacion difusa del segmento ST	SINTOMA	2	1.0	2	elevación difuso de+el segmento ST			elevación difusa del segmento ST	elevación difusa del segmento ST	32607304_Es, 32584431_ES
+edema pulmonar	SINTOMA	2	1.0	2	edema pulmonar	19242006	C0034063	edema pulmonar	edema pulmonar	32363336_ES, 32222713_ES
+edema miocardico difuso	SINTOMA	2	1.0	2	edema miocárdico difuso			edema miocárdico difuso	edema miocárdico difuso	3229222_ES, 32267502_ES
+dorsalgia	SINTOMA	1	0.5	2	dorsalgia	22913005, 419258005	C0004604, C0004604, C0677061	dorsalgia	dorsalgia	32605766_ES
+dolor en fosa lumbar	SINTOMA	2	1.0	2	dolor en fosa lumbar			dolor en fosa lumbar	dolor en fosa lumbar	32292867_ES, 32292915_ES
+dolor de garganta	SINTOMA	2	1.0	2	dolor de garganta	162397003, 51388003	C0242429, C0242429	dolor de garganta	dolor de garganta	32292904_ES, 32269194_ES
+disnea de esfuerzo	SINTOMA	2	1.0	2	disnea de esfuerzo	60845006	C0231807	disnea de esfuerzo	disnea de esfuerzo	32267140_ES, 32208010_ES
+disminucion de la saturacion de oxigeno	SINTOMA	2	1.0	2	disminución de el saturación de oxígeno			disminución de la saturación de oxígeno	disminución de la saturación de oxígeno	32612465B_ES, 32278585_ES
+desorientado	SINTOMA	2	1.0	2	desorientar	62476001	C0233407	desorientado	desorientado	32563170_ES, 32417987_ES
+delirios	SINTOMA	1	0.5	2	delirio	2073000, 2776000	C0011253, C0011206	delirios	delirios	32639089_ES
+delirio	SINTOMA	2	1.0	2	delirio	2073000, 2776000	C0011253, C0011206	delirio	delirio	32639089_ES, 32612435_ES
+debilidad muscular	SINTOMA	2	1.0	2	debilidad muscular	26544005	C0151786	debilidad muscular	debilidad muscular	32399694­­_ES, 32619798_ES
+debilidad general	SINTOMA	2	1.0	2	debilidad general	13791008	C0004093, C3714552	debilidad general	debilidad general	32622819A_ES, 32587121_ES
+cianosis	SINTOMA	1	0.5	2	cianosis	3415004	C0010520	cianosis	cianosis	32359711_ES
+choque	SINTOMA	2	1.0	2	choque	27942005	C0036974	choque	choque	32179908_ES, 32363351_ES
+cefalea frontal	SINTOMA	2	1.0	2	cefalea frontal	267096005	C0239886	cefalea frontal	cefalea frontal	32653906_ES, 32294340_ES
+buen estado general	SINTOMA	2	1.0	2	bueno estado general			buen estado general	buen estado general	32594151_ES, 32653906_ES
+buen estado de salud general	SINTOMA	2	1.0	2	bueno estado de salud general			buen estado de salud general	buen estado de salud general	32267140_ES, 32250095_ES
+bradicardia	SINTOMA	2	1.0	2	bradicardia	48867003	C0428977	bradicardia	bradicardia	32617223_ES, 32636116_ES
+ausencia de reflejos osteotendinosos	SINTOMA	2	1.0	2	ausencia de reflejo osteotendinoso			ausencia de reflejos osteotendinosos	ausencia de reflejos osteotendinosos	32653906_ES, 32619798_ES
+aumento significativo de proteina creactiva	SINTOMA	2	1.0	2	aumento significativo de proteína creactiva			aumento significativo de proteína C-reactiva	aumento significativo de proteína creactiva	32648092C_ES, 32427161_ES
+aumento de la cifra de trombocitos	SINTOMA	2	1.0	2	aumento de el cifra de trombocito			aumento de la cifra de trombocitos	aumento de la cifra de trombocitos	32589931_ES, 32594429_ES
+artromialgia	SINTOMA	2	1.0	2	artromialgia			artromialgia	artromialgia	32556106_ES, 32402687-B_ES
+apirexia	SINTOMA	2	1.0	2	apirexia	86699002	C0277797	apirexia	apirexia	32615155_ES, 32584431_ES
+angustia	SINTOMA	2	1.0	2	angustiar	48694002	C0003467	angustia	angustia	32593478_ES, 32605766_ES
+alucinaciones	SINTOMA	2	1.0	2	alucinación	7011001	C0018524	alucinaciones	alucinaciones	32593478_ES, 32639089_ES
+alerta	SINTOMA	2	1.0	2	alerta			alerta	alerta	32605766_ES, 32292867_ES
+zonas violaceas en el dorso de varios dedos de ambos pies	SINTOMA	1	0.5	1	zona violáceo en el dorso de varios dedo de ambos pie			zonas violáceas en el dorso de varios dedos de ambos pies	zonas violáceas en el dorso de varios dedos de ambos pies	32585767_ES
+vomito	SINTOMA	1	0.5	1	vómito			vómito	vómito	32637437­_ES
+vision borrosa	SINTOMA	1	0.5	1	visión borroso			visión borrosa	visión borrosa	32563170_ES
+urticaria	SINTOMA	1	0.5	1	urticaria	64305001, 126485001	C0042109, C0042109, C0221232	urticaria	urticaria	32294264_ES
+tristeza	SINTOMA	1	0.5	1	tristeza	66446005	C0344315, C3536794	tristeza	tristeza	32605766_ES
+trismo	SINTOMA	1	0.5	1	trismo	87866006, 235108006	C0041105, C0041105	trismo	trismo	32631770_ES
+tos vomica	SINTOMA	1	0.5	1	tos vómico			tos vómica	tos vómica	32623310_ES
+tos seca persistente	SINTOMA	1	0.5	1	tos seco persistente	284523002	C0562483	tos seca persistente	tos seca persistente	32294264_ES
+tos seca intermitente al llorar	SINTOMA	1	0.5	1	tos seco intermitente a+el llorar			tos seca intermitente al llorar	tos seca intermitente al llorar	32318729_ES
+tos seca convulsiva	SINTOMA	1	0.5	1	tos seco convulsivo			tos seca convulsiva	tos seca convulsiva	32276139_B_ES
+tos alergica	SINTOMA	1	0.5	1	tos alérgico			tos alérgica	tos alérgica	32277408_ES
+tetraparesia	SINTOMA	1	0.5	1	tetraparesia	91327001	C0270790	tetraparesia	tetraparesia	32399694­­_ES
+temblor intencional y postural	SINTOMA	1	0.5	1	temblor intencional y postural			temblor intencional y postural	temblor intencional y postural	32586752_ES
+taquicardico	SINTOMA	1	0.5	1	taquicárdico			taquicárdico	taquicárdico	32423911_ES
+subito aplanamiento de la onda arterial y la frigidez	SINTOMA	1	0.5	1	súbito aplanamiento de el onda arterial y el frigidez			súbito aplanamiento de la onda arterial y la frigidez	súbito aplanamiento de la onda arterial y la frigidez	32589931_ES
+subcrepitantes pulmonares bibasales	SINTOMA	1	0.5	1	subcrepitantes pulmonar bibasal			subcrepitantes pulmonares bibasales	subcrepitantes pulmonares bibasales	32423738_ES
+sombras parcheadas en los lobulos inferior y superior del pulmon	SINTOMA	1	0.5	1	sombra parchear en el lóbulo inferior y superior de+el pulmón			sombras parcheadas en los lóbulos inferior y superior del pulmón	sombras parcheadas en los lóbulos inferior y superior del pulmón	32161941_ES
+sintomatologia gastrointestinal	SINTOMA	1	0.5	1	sintomatología gastrointestinal			sintomatología gastrointestinal	sintomatología gastrointestinal	32631646_ES
+sintomas urinarios	SINTOMA	1	0.5	1	síntoma urinario			síntomas urinarios	síntomas urinarios	32587121_ES
+sintomas seudogripales	SINTOMA	1	0.5	1	síntoma seudogripal			síntomas seudogripales	síntomas seudogripales	32399694­­_ES
+sintomas respiratorios progresivos	SINTOMA	1	0.5	1	síntoma respiratorio progresivo			síntomas respiratorios progresivos	síntomas respiratorios progresivos	32592761_ES
+sintomas respiratorios de vias respiratorias	SINTOMA	1	0.5	1	síntoma respiratorio de vía respiratorio			síntomas respiratorios de vías respiratorias	síntomas respiratorios de vías respiratorias	32265235_ES
+sintomas pulmonares	SINTOMA	1	0.5	1	síntoma pulmonar			síntomas pulmonares	síntomas pulmonares	32590204_ES
+sintomas neurologicos	SINTOMA	1	0.5	1	síntoma neurológico			síntomas neurológicos	síntomas neurológicos	32592761_ES
+sintomas gripales	SINTOMA	1	0.5	1	síntoma gripal			síntomas gripales	síntomas gripales	32425356_ES
+sintomas en las vias respiratorias altas	SINTOMA	1	0.5	1	síntoma en el vía respiratorio alto			síntomas en las vías respiratorias altas	síntomas en las vías respiratorias altas	32318729_ES
+sintomas	SINTOMA	1	0.5	1	síntoma			síntomas	síntomas	32639089_ES
+sincope	SINTOMA	1	0.5	1	sincopar			sincope	sincope	32612465A_ES
+signos pulmonares eran normales	SINTOMA	1	0.5	1	signo pulmonar ser normal			signos pulmonares eran normales	signos pulmonares eran normales	32292053_ES
+signos pulmonares	SINTOMA	1	0.5	1	signo pulmonar			signos pulmonares	signos pulmonares	32292053_ES
+signos piramidales y nivel sensorial T10	SINTOMA	1	0.5	1	signo piramidal y nivel sensorial T10			signos piramidales y nivel sensorial T10	signos piramidales y nivel sensorial T10	32601756_ES
+signo de kernig	SINTOMA	1	0.5	1	signo de kernig	39051003	C0234178	signo de Kernig	signo de kernig	32283294_ES
+signo de chaddock	SINTOMA	1	0.5	1	signo de chaddock	413813004	C1531651	signo de Chaddock	signo de chaddock	32293714_ES
+signo de brudzinski	SINTOMA	1	0.5	1	signo de brudzinski	82345001	C0234179	signo de Brudzinski	signo de brudzinski	32283294_ES
+signo de babinski y signo de chaddock	SINTOMA	1	0.5	1	signo de babinski y signo de chaddock			signo de Babinski y signo de Chaddock	signo de babinski y signo de chaddock	32293714_ES
+signo de babinski normal	SINTOMA	1	0.5	1	signo de babinski normal	63833001	C0034935	signo de Babinski normal	signo de babinski normal	32653906_ES
+sibilancias en ambos pulmones y edema periferico	SINTOMA	1	0.5	1	sibilancia en ambos pulmón y edema periférico			sibilancias en ambos pulmones y edema periférico	sibilancias en ambos pulmones y edema periférico	32282871_B_ES
+sibilancias difusas	SINTOMA	1	0.5	1	sibilancia difuso			sibilancias difusas	sibilancias difusas	32637437­_ES
+sibilancia	SINTOMA	1	0.5	1	sibilancia	56018004	C0043144, C0392681	sibilancia	sibilancia	32641443_ES
+serologia de sarscov2 fue positiva	SINTOMA	1	0.5	1	serología de sarscov2 ser positivo			serología de SARS-CoV-2 fue positiva	serología de sarscov2 fue positiva	32653960_ES
+sentirse confuso	SINTOMA	1	0.5	1	sentir+se confuso			sentirse confuso	sentirse confuso	32593478_ES
+sensacion de calor	SINTOMA	1	0.5	1	sensación de calor			sensación de calor	sensación de calor	32399449_ES
+secrecion purulenta exprimible del conducto parotideo	SINTOMA	1	0.5	1	secreción purulento exprimible de+el conducto parotídeo			secreción purulenta exprimible del conducto parotídeo	secreción purulenta exprimible del conducto parotídeo	32631770_ES
+saturacion de oxigeno normal en aire ambiental	SINTOMA	1	0.5	1	saturación de oxígeno normal en aire ambiental			saturación de oxígeno normal en aire ambiental	saturación de oxígeno normal en aire ambiental	32317275_ES
+saturacion de oxigeno en aire ambiental	SINTOMA	1	0.5	1	saturación de oxígeno en aire ambiental			saturación de oxígeno en aire ambiental	saturación de oxígeno en aire ambiental	32637086A_ES
+saturacion de oxigeno del 91 en aire ambiental	SINTOMA	1	0.5	1	saturación de oxígeno de+el 91 en aire ambiental			saturación de oxígeno del 91% en aire ambiental	saturación de oxígeno del 91 en aire ambiental	32247016_ES
+ruidos respiratorios normales	SINTOMA	1	0.5	1	ruido respiratorio normal	48348007	C0231855	ruidos respiratorios normales	ruidos respiratorios normales	32640066_ES
+ruidos respiratorios eran normales	SINTOMA	1	0.5	1	ruido respiratorio ser normal	48348007	C0231855	ruidos respiratorios eran normales	ruidos respiratorios eran normales	32265235_ES
+ruidos respiratorios en todo el hemitorax	SINTOMA	1	0.5	1	ruido respiratorio en todo el hemitórax			ruidos respiratorios en todo el hemitórax	ruidos respiratorios en todo el hemitórax	32423911_ES
+ruidos respiratorios bilaterales normales	SINTOMA	1	0.5	1	ruido respiratorio bilateral normal	48348007	C0231855	ruidos respiratorios bilaterales normales	ruidos respiratorios bilaterales normales	32292904_ES
+ruidos respiratorios bilaterales	SINTOMA	1	0.5	1	ruido respiratorio bilateral			ruidos respiratorios bilaterales	ruidos respiratorios bilaterales	32032497_ES
+rubor	SINTOMA	1	0.5	1	rubor	79642002, 238810007, 20255002	C0005874, C0016382, C0332575	rubor	rubor	32631646_ES
+roncus en la base de los pulmones	SINTOMA	1	0.5	1	roncus en el base de el pulmón			roncus en la base de los pulmones	roncus en la base de los pulmones	32267502_ES
+roncus en el campo pulmonar inferior	SINTOMA	1	0.5	1	roncus en el campo pulmonar inferior			roncus en el campo pulmonar inferior	roncus en el campo pulmonar inferior	32119083_ES
+ronchas	SINTOMA	1	0.5	1	roncha			ronchas	ronchas	32428291_ES
+ritmo sinusal normal	SINTOMA	1	0.5	1	ritmo sinusal normal	64730000	C0232202	ritmo sinusal normal	ritmo sinusal normal	32360439-D_ES
+ritmo sinusal a 160lpm	SINTOMA	1	0.5	1	ritmo sinusal a 160 lpm			ritmo sinusal a 160l.p.m	ritmo sinusal a 160lpm	32423738_ES
+rinorrea clara y mucosas secas	SINTOMA	1	0.5	1	rinorrea claro y mucoso seca			rinorrea clara y mucosas secas	rinorrea clara y mucosas secas	32606105_ES
+rigidez nucal tres dedos por debajo de la mandibula	SINTOMA	1	0.5	1	rigidez nucal 3 dedo por debajo de el mandíbula			rigidez nucal tres dedos por debajo de la mandíbula	rigidez nucal tres dedos por debajo de la mandíbula	32293714_ES
+rigidez nucal	SINTOMA	1	0.5	1	rigidez nucal			rigidez nucal	rigidez nucal	32639461_ES
+rigidez de nuca moderada	SINTOMA	1	0.5	1	rigidez de nuca moderar			rigidez de nuca moderada	rigidez de nuca moderada	32418288_ES
+rigidez de la nuca	SINTOMA	1	0.5	1	rigidez de el nuca	405947006, 4697007	C0151315, C1320474, C1320474	rigidez de la nuca	rigidez de la nuca	32283294_ES
+rigidez bilateral persistente de las extremidades inferiores	SINTOMA	1	0.5	1	rigidez bilateral persistente de el extremidad inferior			rigidez bilateral persistente de las extremidades inferiores	rigidez bilateral persistente de las extremidades inferiores	32617903A_ES
+retraccion intercostal	SINTOMA	1	0.5	1	retracción intercostal			retracción intercostal	retracción intercostal	32363217_ES
+respirar en aire ambiental	SINTOMA	1	0.5	1	respirar en aire ambiental			respirar en aire ambiental	respirar en aire ambiental	32427774-B_ES
+respiracion agonica	SINTOMA	1	0.5	1	respiración agónico			respiración agónica	respiración agónica	32607304_Es
+reduccion de la lactancia	SINTOMA	1	0.5	1	reducción de el lactancia			reducción de la lactancia	reducción de la lactancia	32320556_ES
+reduccion de la ingesta oral	SINTOMA	1	0.5	1	reducción de el ingesta oral			reducción de la ingesta oral	reducción de la ingesta oral	32360439-B_ES
+rechazo de la lactancia	SINTOMA	1	0.5	1	rechazo de el lactancia			rechazo de la lactancia	rechazo de la lactancia	32265235_ES
+realce anomalo bilateral de los nervios facial y abducente	SINTOMA	1	0.5	1	realce anómalo bilateral de el nervio facial y abducente			realce anómalo bilateral de los nervios facial y abducente	realce anómalo bilateral de los nervios facial y abducente	32586958_ES
+reacciones adversas	SINTOMA	1	0.5	1	reacción adverso	281647001	C0559546	reacciones adversas	reacciones adversas	32554811_ES
+puntos purpura	SINTOMA	1	0.5	1	punto púrpura			puntos púrpura	puntos púrpura	32636116_ES
+punopercusion renal levemente dolorosa y ruidos intestinales	SINTOMA	1	0.5	1	puñopercusión renal levemente doloroso y ruido intestinal			puñopercusión renal levemente dolorosa y ruidos intestinales	puñopercusión renal levemente dolorosa y ruidos intestinales	32292867_ES
+psicoticos anteriores	SINTOMA	1	0.5	1	psicótico anterior			psicóticos anteriores	psicóticos anteriores	32639089_ES
+problemas respiratorios	SINTOMA	1	0.5	1	problema respiratorio			problemas respiratorios	problemas respiratorios	32073161_ES
+problemas para dormir	SINTOMA	1	0.5	1	problema para dormir			problemas para dormir	problemas para dormir	32605766_ES
+problemas de esfinteres	SINTOMA	1	0.5	1	problema de esfínter			problemas de esfínteres	problemas de esfínteres	32359804_ES
+presion positiva telespiratoria	SINTOMA	1	0.5	1	presión positivo telespiratoria			presión positiva telespiratoria	presión positiva telespiratoria	32638890_ES
+poliuria	SINTOMA	1	0.5	1	poliuria	28442001, 56574000	C0032617, C0032617	poliuria	poliuria	32653960_ES
+petequias eritematosas que afectaban a las nalgas las fosas popliteas y la parte anterior de los muslos	SINTOMA	1	0.5	1	petequia eritematoso que afectar a el nalga el fosa poplíteo y el parte anterior de el muslo			petequias eritematosas que afectaban a las nalgas, las fosas poplíteas y la parte anterior de los muslos	petequias eritematosas que afectaban a las nalgas las fosas poplíteas y la parte anterior de los muslos	32352487_ES
+petequias en la piel	SINTOMA	1	0.5	1	petequia en el piel			petequias en la piel	petequias en la piel	32636116_ES
+petequias	SINTOMA	1	0.5	1	petequia	271813007	C0031256	petequias	petequias	32425356_ES
+perdida total del olfato y el gusto	SINTOMA	1	0.5	1	pérdida total de+el olfato y el gusto			pérdida total del olfato y el gusto	pérdida total del olfato y el gusto	32605712_ES
+perdida sensorial	SINTOMA	1	0.5	1	pérdida sensorial			pérdida sensorial	pérdida sensorial	32653906_ES
+perdida repentina de sensibilidad	SINTOMA	1	0.5	1	pérdida repentino de sensibilidad			pérdida repentina de sensibilidad	pérdida repentina de sensibilidad	32353183_ES
+perdida de pulso ni otros resultados sensoriales en las extremidades inferiores	SINTOMA	1	0.5	1	pérdida de pulso ni otro resultado sensorial en el extremidad inferior			pérdida de pulso ni otros resultados sensoriales en las extremidades inferiores	pérdida de pulso ni otros resultados sensoriales en las extremidades inferiores	32617903A_ES
+perdida de ondas F	SINTOMA	1	0.5	1	pérdida de onda F			pérdida de ondas F	pérdida de ondas F	32399694­­_ES
+perdida de fuerza muscular	SINTOMA	1	0.5	1	pérdida de fuerza muscular			pérdida de fuerza muscular	pérdida de fuerza muscular	32648092B_ES
+perdida de conciencia	SINTOMA	1	0.5	1	pérdida de conciencia			pérdida de conciencia	pérdida de conciencia	32417987_ES
+paroxismos ritmicos repetitivos a 1 Hz en la region frontal	SINTOMA	1	0.5	1	paroxismo rítmico repetitivo a 1 hz en el región frontal			paroxismos rítmicos repetitivos a 1 Hz en la región frontal	paroxismos rítmicos repetitivos a 1 Hz en la región frontal	32589794_ES
+parosmia nocturna	SINTOMA	1	0.5	1	parosmia nocturno			parosmia nocturna	parosmia nocturna	32605712_ES
+parestesia izquierda y paresia ipsilateral	SINTOMA	1	0.5	1	parestesia izquierdo y paresia ipsilateral			parestesia izquierda y paresia ipsilateral	parestesia izquierda y paresia ipsilateral	32611761A_ES
+parestesia bilateral de las extremidades superiores	SINTOMA	1	0.5	1	parestesia bilateral de el extremidad superior			parestesia bilateral de las extremidades superiores	parestesia bilateral de las extremidades superiores	32586958_ES
+parestesia acra	SINTOMA	1	0.5	1	parestesia acra			parestesia acra	parestesia acra	32399694­­_ES
+paresia moderada predominantemente proximal en las extremidades inferiores	SINTOMA	1	0.5	1	paresia moderar predominantemente proximal en el extremidad inferior			paresia moderada predominantemente proximal en las extremidades inferiores	paresia moderada predominantemente proximal en las extremidades inferiores	32601756_ES
+paresia facial	SINTOMA	1	0.5	1	paresia facial	95666008	C0427055	paresia facial	paresia facial	32364123_ES
+paresia	SINTOMA	1	0.5	1	paresia			paresia	paresia	32601756_ES
+paraparesica	SINTOMA	1	0.5	1	paraparésica			paraparésica	paraparésica	32399950_ES
+papilas gustativas prominentes	SINTOMA	1	0.5	1	papila gustativo prominente			papilas gustativas prominentes	papilas gustativas prominentes	32265235_ES
+palpitaciones	SINTOMA	1	0.5	1	palpitación	80313002	C0030252	palpitaciones	palpitaciones	32207255_ES
+palidez generalizada	SINTOMA	1	0.5	1	palidez generalizar			palidez generalizada	palidez generalizada	32641443_ES
+palidez del miembro superior	SINTOMA	1	0.5	1	palidez de+el miembro superior			palidez del miembro superior	palidez del miembro superior	32589931_ES
+palidez	SINTOMA	1	0.5	1	palidez	16390002, 267029006	C0030232, C0030232, C1275397	palidez	palidez	32423738_ES
+osteomuscular	SINTOMA	1	0.5	1	osteomuscular			osteomuscular	osteomuscular	32605766_ES
+opacidades de vidrio esmerilado en la parte superior del pulmon	SINTOMA	1	0.5	1	opacidad de vidrio esmerilar en el parte superior de+el pulmón			opacidades de vidrio esmerilado en la parte superior del pulmón	opacidades de vidrio esmerilado en la parte superior del pulmón	32276139_ES
+opacidad en la zona medial	SINTOMA	1	0.5	1	opacidad en el zona medial			opacidad en la zona medial	opacidad en la zona medial	32265235_ES
+opacidad en el lobulo superior del pulmon	SINTOMA	1	0.5	1	opacidad en el lóbulo superior de+el pulmón			opacidad en el lóbulo superior del pulmón	opacidad en el lóbulo superior del pulmón	32593478_ES
+opacidad en el lobulo inferior	SINTOMA	1	0.5	1	opacidad en el lóbulo inferior			opacidad en el lóbulo inferior	opacidad en el lóbulo inferior	32602267_ES
+olor intenso de pies sudados	SINTOMA	1	0.5	1	olor intenso de pie sudar			olor intenso de pies sudados	olor intenso de pies sudados	32605712_ES
+normalizacion de la reactividad y el enlentecimiento	SINTOMA	1	0.5	1	normalización de el reactividad y el enlentecimiento			normalización de la reactividad y el enlentecimiento	normalización de la reactividad y el enlentecimiento	32418288_ES
+normalizacion de la proteina creactiva	SINTOMA	1	0.5	1	normalización de el proteína creactiva			normalización de la proteína C-reactiva	normalización de la proteína creactiva	32554621_ES
+normalizacion de la funcion biventricular	SINTOMA	1	0.5	1	normalización de el función biventricular			normalización de la función biventricular	normalización de la función biventricular	3229222_ES
+nerviosismo	SINTOMA	1	0.5	1	nerviosismo	13448004	C0027769	nerviosismo	nerviosismo	32593478_ES
+movimientos ritmicos e involuntarios en el brazo y la mano	SINTOMA	1	0.5	1	movimiento rítmico y involuntario en el brazo y el mano			movimientos rítmicos e involuntarios en el brazo y la mano	movimientos rítmicos e involuntarios en el brazo y la mano	32417987_ES
+movimientos ritmicos de la extremidad superior	SINTOMA	1	0.5	1	movimiento rítmico de el extremidad superior			movimientos rítmicos de la extremidad superior	movimientos rítmicos de la extremidad superior	32651243_ES
+movimientos clonicos en el brazo	SINTOMA	1	0.5	1	movimiento clónico en el brazo			movimientos clónicos en el brazo	movimientos clónicos en el brazo	32417987_ES
+molestias respiratorias	SINTOMA	1	0.5	1	molestia respiratorio			molestias respiratorias	molestias respiratorias	32222713_ES
+masa tumoral de la region parietal	SINTOMA	1	0.5	1	masa tumoral de el región parietal			masa tumoral de la región parietal	masa tumoral de la región parietal	32165205_ES
+masa moderado en las estructuras mediales	SINTOMA	1	0.5	1	masa moderar en el estructura medial			masa moderado en las estructuras mediales	masa moderado en las estructuras mediales	32554423_ES
+masa de trombo agudo	SINTOMA	1	0.5	1	masa de trombo agudo			masa de trombo agudo	masa de trombo agudo	32353183_ES
+mareos	SINTOMA	1	0.5	1	mareo			mareos	mareos	32292904_ES
+manchas en las extremidades inferiores en bipedestacion	SINTOMA	1	0.5	1	mancha en el extremidad inferior en bipedestación			manchas en las extremidades inferiores en bipedestación	manchas en las extremidades inferiores en bipedestación	32640066_ES
+mancha periumbilical eritematosa y escamosa	SINTOMA	1	0.5	1	mancha periumbilical eritematoso y escamoso			mancha periumbilical eritematosa y escamosa	mancha periumbilical eritematosa y escamosa	32352486_ES
+mancha eritematosa con varias vesiculas y superficie hemorragica	SINTOMA	1	0.5	1	mancha eritematoso con varios vesícula y superficie hemorrágico			mancha eritematosa con varias vesículas y superficie hemorrágica	mancha eritematosa con varias vesículas y superficie hemorrágica	32602610_ES
+malestar respiratorio	SINTOMA	1	0.5	1	malestar respiratorio			malestar respiratorio	malestar respiratorio	32292867_ES
+malestar abdominal	SINTOMA	1	0.5	1	malestar abdominal	43364001	C0232487	malestar abdominal	malestar abdominal	32294340_ES
+mal estado general	SINTOMA	1	0.5	1	mal estado general			mal estado general	mal estado general	32631646_ES
+maculopapular extenso en las palmas de las manos rodillas y tobillos	SINTOMA	1	0.5	1	maculopapular extenso en el palma de el mano rodilla y tobillo			maculopapular extenso (en las palmas de las manos, rodillas y tobillos	maculopapular extenso en las palmas de las manos rodillas y tobillos	32639461_ES
+maculas confluentes ligeramente eritematosas que afectaban al tronco y las extremidades	SINTOMA	1	0.5	1	mácula confluente ligeramente eritematoso que afectar a+el tronco y el extremidad			máculas confluentes ligeramente eritematosas que afectaban al tronco y las extremidades	máculas confluentes ligeramente eritematosas que afectaban al tronco y las extremidades	32584431_ES
+macrohematuria	SINTOMA	1	0.5	1	macrohematuria	197941005	C0473237	macrohematuria	macrohematuria	32622819A_ES
+los analisis de sangre	SINTOMA	1	0.5	1	el análisis de sangre			los análisis de sangre	los análisis de sangre	32639089_ES
+lloroso e hipotonico	SINTOMA	1	0.5	1	lloroso y hipotónico			lloroso e hipotónico	lloroso e hipotónico	32594151_ES
+lloroso	SINTOMA	1	0.5	1	lloroso			lloroso	lloroso	32594151_ES
+lloro excesivo	SINTOMA	1	0.5	1	lloro excesivo			lloro excesivo	lloro excesivo	32594151_ES
+liquido cefalorraquideo incoloro y normal	SINTOMA	1	0.5	1	líquido cefalorraquídeo incoloro y normal			líquido cefalorraquídeo incoloro y normal	líquido cefalorraquídeo incoloro y normal	32293714_ES
+liquido amniotico con meconio	SINTOMA	1	0.5	1	líquido amniótico con meconio			líquido amniótico con meconio	líquido amniótico con meconio	32161941_ES
+linfopenia	SINTOMA	1	0.5	1	linfopenia	48813009	C0024312, C0300946	linfopenia	linfopenia	32318729_ES
+linfocitopenia	SINTOMA	1	0.5	1	linfocitopenia	48813009	C0024312, C0300946	linfocitopenia	linfocitopenia	32205138_ES
+limitacion completa de la abduccion en el ojo	SINTOMA	1	0.5	1	limitación completo de el abducción en el ojo			limitación completa de la abducción en el ojo	limitación completa de la abducción en el ojo	32592761_ES
+levemente reducida	SINTOMA	1	0.5	1	levemente reducir			levemente reducida	levemente reducida	32639461_ES
+leucopenia	SINTOMA	1	0.5	1	leucopenia	84828003, 419188005	C0023530, C0750394	leucopenia	leucopenia	32318729_ES
+letargico	SINTOMA	1	0.5	1	letárgico			letárgico	letárgico	32293714_ES
+letargia aguda	SINTOMA	1	0.5	1	letargia agudo			letargia aguda	letargia aguda	32639064_ES
+inversion de la onda T en derivacion aVL	SINTOMA	1	0.5	1	inversión de el onda T en derivación avl			inversión de la onda T en derivación aVL	inversión de la onda T en derivación aVL	32650881_ES
+intolerancia fetal	SINTOMA	1	0.5	1	intolerancia fetal			intolerancia fetal	intolerancia fetal	32590725_ES
+inflamacion y congestion labial	SINTOMA	1	0.5	1	inflamación y congestión labial			inflamación y congestión labial	inflamación y congestión labial	32640066_ES
+inflamacion y aumento de tamano asimetrico y difuso de la glandula parotida	SINTOMA	1	0.5	1	inflamación y aumento de tamaño asimétrico y difuso de el glándula parótido			inflamación y aumento de tamaño asimétrico y difuso de la glándula parótida	inflamación y aumento de tamaño asimétrico y difuso de la glándula parótida	32631770_ES
+inflamacion unilateral progresiva en el rostro y el cuello	SINTOMA	1	0.5	1	inflamación unilateral progresivo en el rostro y el cuello			inflamación unilateral progresiva en el rostro y el cuello	inflamación unilateral progresiva en el rostro y el cuello	32631770_ES
+inflamacion linfocitica perivascular y perianexial	SINTOMA	1	0.5	1	inflamación linfocítico perivascular y perianexial			inflamación linfocítica perivascular y perianexial	inflamación linfocítica perivascular y perianexial	32585767_ES
+inflamacion izquierda facial y del cuello	SINTOMA	1	0.5	1	inflamación izquierdo facial y de+el cuello			inflamación izquierda facial y del cuello	inflamación izquierda facial y del cuello	32631770_ES
+inflamacion intersticial bilateral difusa con consolidaciones subpleurales	SINTOMA	1	0.5	1	inflamación intersticial bilateral difuso con consolidación subpleural			inflamación intersticial bilateral difusa con consolidaciones subpleurales	inflamación intersticial bilateral difusa con consolidaciones subpleurales	32275347_ES
+inflamacion glotica significativa y abundante secrecion de las vias respiratorias	SINTOMA	1	0.5	1	inflamación glótico significativo y abundante secreción de el vía respiratorio			inflamación glótica significativa y abundante secreción de las vías respiratorias	inflamación glótica significativa y abundante secreción de las vías respiratorias	32554811_ES
+inflamacion general	SINTOMA	1	0.5	1	inflamación general			inflamación general	inflamación general	32282871_ES
+inflamacion en los pulmones	SINTOMA	1	0.5	1	inflamación en el pulmón			inflamación en los pulmones	inflamación en los pulmones	32085846_ES
+inflamacion en la mejilla izquierda preauricular y submandibular	SINTOMA	1	0.5	1	inflamación en el mejilla izquierdo preauricular y submandibular			inflamación en la mejilla izquierda, preauricular y submandibular	inflamación en la mejilla izquierda preauricular y submandibular	32631770_ES
+inflamacion de las manos	SINTOMA	1	0.5	1	inflamación de el mano			inflamación de las manos	inflamación de las manos	32640066_ES
+inflamacion de labios y manos	SINTOMA	1	0.5	1	inflamación de labio y mano			inflamación de labios y manos	inflamación de labios y manos	32641443_ES
+inflamacion de la lengua o la garganta	SINTOMA	1	0.5	1	inflamación de el lengua o el garganta			inflamación de la lengua o la garganta	inflamación de la lengua o la garganta	32641443_ES
+inflamacion bilateral de las amigdalas	SINTOMA	1	0.5	1	inflamación bilateral de el amígdala			inflamación bilateral de las amígdalas	inflamación bilateral de las amígdalas	32168162_ES
+inflamacion bilateral de la articulacion del tobillo	SINTOMA	1	0.5	1	inflamación bilateral de el articulación de+el tobillo			inflamación bilateral de la articulación del tobillo	inflamación bilateral de la articulación del tobillo	32606044_ES
+inflamacion alrededor de sus musculos masticatorios	SINTOMA	1	0.5	1	inflamación alrededor de su músculo masticatorio			inflamación alrededor de sus músculos masticatorios	inflamación alrededor de sus músculos masticatorios	32631770_ES
+infiltrados y sombras difusas en ambos pulmones	SINTOMA	1	0.5	1	infiltrar y sombra difuso en ambos pulmón			infiltrados y sombras difusas en ambos pulmones	infiltrados y sombras difusas en ambos pulmones	32085846_ES
+infiltrados vagos en la base del pulmon	SINTOMA	1	0.5	1	infiltrar vago en el base de+el pulmón			infiltrados vagos en la base del pulmón	infiltrados vagos en la base del pulmón	32222713_ES
+infiltrados pulmonares intersticiales	SINTOMA	1	0.5	1	infiltrar pulmonar intersticial			infiltrados pulmonares intersticiales	infiltrados pulmonares intersticiales	32247016_ES
+infiltrados pulmonares apicales y de linfoadenopatias	SINTOMA	1	0.5	1	infiltrar pulmonar apical y de linfoadenopatía			infiltrados pulmonares apicales y de linfoadenopatías	infiltrados pulmonares apicales y de linfoadenopatías	32601756_ES
+infiltrados perifericos en vidrio esmerilado	SINTOMA	1	0.5	1	infiltrar periférico en vidrio esmerilar			infiltrados periféricos en vidrio esmerilado	infiltrados periféricos en vidrio esmerilado	32622823_ES
+infiltrados peribronquiales	SINTOMA	1	0.5	1	infiltrar peribronquiales			infiltrados peribronquiales	infiltrados peribronquiales	32612435_ES
+infiltrados parcheados bilaterales en ambos pulmones	SINTOMA	1	0.5	1	infiltrar parchear bilateral en ambos pulmón			infiltrados parcheados bilaterales en ambos pulmones	infiltrados parcheados bilaterales en ambos pulmones	32427774-B_ES
+infiltrados inflamatorios tlinfociticos difusos	SINTOMA	1	0.5	1	infiltrar inflamatorio tlinfocíticos difuso			infiltrados inflamatorios T-linfocíticos difusos	infiltrados inflamatorios tlinfocíticos difusos	32267502_ES
+infiltrados inflamatorios mononucleares intersticiales	SINTOMA	1	0.5	1	infiltrar inflamatorio mononuclear intersticial			infiltrados inflamatorios mononucleares intersticiales	infiltrados inflamatorios mononucleares intersticiales	32085846_ES
+infiltrados bilaterales predominantemente en el lobulo inferior	SINTOMA	1	0.5	1	infiltrar bilateral predominantemente en el lóbulo inferior			infiltrados bilaterales predominantemente en el lóbulo inferior	infiltrados bilaterales predominantemente en el lóbulo inferior	32363351_ES
+infiltrados algodonosos basicamente perifericos en ambos campos pulmonares	SINTOMA	1	0.5	1	infiltrar algodonoso básicamente periférico en ambos campo pulmonar			infiltrados algodonosos básicamente periféricos en ambos campos pulmonares	infiltrados algodonosos básicamente periféricos en ambos campos pulmonares	32586778_ES
+infiltrado linfohistiocitico moderado en la dermis superficial	SINTOMA	1	0.5	1	infiltrar linfohistiocítico moderar en el dermis superficial			infiltrado linfohistiocítico moderado en la dermis superficial	infiltrado linfohistiocítico moderado en la dermis superficial	32352486_ES
+inestabilidad vertebral	SINTOMA	1	0.5	1	inestabilidad vertebral			inestabilidad vertebral	inestabilidad vertebral	32644205_ES
+inestabilidad hemodinamica	SINTOMA	1	0.5	1	inestabilidad hemodinámico			inestabilidad hemodinámica	inestabilidad hemodinámica	32222713_ES
+inestabilidad cardiovascular	SINTOMA	1	0.5	1	inestabilidad cardiovascular			inestabilidad cardiovascular	inestabilidad cardiovascular	32637327A_ES
+incomoda	SINTOMA	1	0.5	1	incómodo			incómoda	incómoda	32426200_ES
+inapetencia	SINTOMA	1	0.5	1	inapetencia			inapetencia	inapetencia	32276139_C_ES
+imposibilidad para la deambulacion	SINTOMA	1	0.5	1	imposibilidad para el deambulación			imposibilidad para la deambulación	imposibilidad para la deambulación	32364123_ES
+hormigueo en las cuatro extremidades	SINTOMA	1	0.5	1	hormiguear en el 4 extremidad			hormigueo en las cuatro extremidades	hormigueo en las cuatro extremidades	32359804_ES
+hormigueo distal	SINTOMA	1	0.5	1	hormigueo distal			hormigueo distal	hormigueo distal	32588185_ES
+hipoventilacion con crepitantes bilaterales	SINTOMA	1	0.5	1	hipoventilación con crepitante bilateral			hipoventilación con crepitantes bilaterales	hipoventilación con crepitantes bilaterales	32602267_ES
+hipotermia	SINTOMA	1	0.5	1	hipotermia	3051004, 386689009	C0020672, C0020672	hipotermia	hipotermia	32320556_ES
+hipotenso	SINTOMA	1	0.5	1	hipotenso			hipotenso	hipotenso	32617223_ES
+hipotension ortostatica	SINTOMA	1	0.5	1	hipotensión ortostático			hipotensión ortostática	hipotensión ortostática	32640066_ES
+hipotensa	SINTOMA	1	0.5	1	hipotenso			hipotensa	hipotensa	3229222_ES
+hiporexia	SINTOMA	1	0.5	1	hiporexia			hiporexia	hiporexia	32415334_ES
+hipoperfusion periferica con auscultacion respiratoria normal	SINTOMA	1	0.5	1	hipoperfusión periférico con auscultación respiratorio normal			hipoperfusión periférica con auscultación respiratoria normal	hipoperfusión periférica con auscultación respiratoria normal	3229222_ES
+hipoperfusion	SINTOMA	1	0.5	1	hipoperfusión			hipoperfusión	hipoperfusión	3229222_ES
+hipogeusia	SINTOMA	1	0.5	1	hipogeusia	697990000	C0151934	hipogeusia	hipogeusia	32586958_ES
+hipoestesia en los pies	SINTOMA	1	0.5	1	hipoestesia en el pie			hipoestesia en los pies	hipoestesia en los pies	32601756_ES
+hipoestesia en las divisiones oftalmicas o maxilares del nervio trigemino	SINTOMA	1	0.5	1	hipoestesia en el división oftálmico o maxilar de+el nervio trigémino			hipoestesia en las divisiones oftálmicas o maxilares del nervio trigémino	hipoestesia en las divisiones oftálmicas o maxilares del nervio trigémino	32592761_ES
+hipoestesia completa en todas las extremidades	SINTOMA	1	0.5	1	hipoestesia completo en todo el extremidad			hipoestesia completa en todas las extremidades	hipoestesia completa en todas las extremidades	32399694­­_ES
+hipocinesia de los segmentos inferior e inferolateral del ventriculo	SINTOMA	1	0.5	1	hipocinesia de el segmento inferior y inferolateral de+el ventrículo			hipocinesia de los segmentos inferior e inferolateral del ventrículo	hipocinesia de los segmentos inferior e inferolateral del ventrículo	32593338_ES
+hipoalbuminemia	SINTOMA	1	0.5	1	hipoalbuminemia	119247004	C0239981	hipoalbuminemia	hipoalbuminemia	32589931_ES
+hipertermico	SINTOMA	1	0.5	1	hipertérmico			hipertérmico	hipertérmico	32651243_ES
+hiperproteinorraquia	SINTOMA	1	0.5	1	hiperproteinorraquia			hiperproteinorraquia	hiperproteinorraquia	32418288_ES
+hiperglucemia	SINTOMA	1	0.5	1	hiperglucemia	80394007	C0020456	hiperglucemia	hiperglucemia	32589794_ES
+hiperemia faringea	SINTOMA	1	0.5	1	hiperemia faríngeo			hiperemia faríngea	hiperemia faríngea	32179908_ES
+hiperactividad	SINTOMA	1	0.5	1	hiperactividad	28277004	C0474395, C1536696	hiperactividad	hiperactividad	32637266B_ES
+hinchazon en las manos	SINTOMA	1	0.5	1	hinchazón en el mano			hinchazón en las manos	hinchazón en las manos	32640066_ES
+hinchazon de las manos y las extremidades inferiores	SINTOMA	1	0.5	1	hinchazón de el mano y el extremidad inferior			hinchazón de las manos y las extremidades inferiores	hinchazón de las manos y las extremidades inferiores	32265235_ES
+hinchazon de labios y manos	SINTOMA	1	0.5	1	hinchazón de labio y mano			hinchazón de labios y manos	hinchazón de labios y manos	32641443_ES
+hepatomegalia a la palpacion 2 cm por debajo del reborde costal	SINTOMA	1	0.5	1	hepatomegalia a el palpación 2 cm por debajo de+el reborde costal			hepatomegalia a la palpación 2 cm por debajo del reborde costal	hepatomegalia a la palpación 2 cm por debajo del reborde costal	32292053_ES
+hemorragias	SINTOMA	1	0.5	1	hemorragia	131148009, 50960005	C0019080, C0019080	hemorragias	hemorragias	32401344_ES
+hemodinamicamente inestable	SINTOMA	1	0.5	1	hemodinámicamente inestable			hemodinámicamente inestable	hemodinámicamente inestable	32329981_ES
+hemodinamicamente estable	SINTOMA	1	0.5	1	hemodinámicamente estable			hemodinámicamente estable	hemodinámicamente estable	32639064_ES
+hemocultivos y los cultivos de orina y esputo fueron negativos	SINTOMA	1	0.5	1	hemocultivo y el cultivo de orina y esputo ser negativo			hemocultivos y los cultivos de orina y esputo fueron negativos	hemocultivos y los cultivos de orina y esputo fueron negativos	32250095_ES
+heces semiliquidas	SINTOMA	1	0.5	1	hez semilíquido			heces semilíquidas	heces semilíquidas	32606105_ES
+halitosis	SINTOMA	1	0.5	1	halitosis	79879001	C0018520	halitosis	halitosis	32623310_ES
+gran realce simetrico de contraste en las raices de los nervios raquideos en todos los segmentos de la columna	SINTOMA	1	0.5	1	gran realce simétrico de contraste en el raíz de el nervio raquídeo en todo el segmento de el columna			gran realce simétrico de contraste en las raíces de los nervios raquídeos en todos los segmentos de la columna	gran realce simétrico de contraste en las raíces de los nervios raquídeos en todos los segmentos de la columna	32399694­­_ES
+funcion ventricular izquierda sistolica	SINTOMA	1	0.5	1	función ventricular izquierda sistólico			función ventricular izquierda sistólica	función ventricular izquierda sistólica	32639461_ES
+fuerza muscular en las extremidades	SINTOMA	1	0.5	1	fuerza muscular en el extremidad			fuerza muscular en las extremidades	fuerza muscular en las extremidades	32399694­­_ES
+fuerza muscular	SINTOMA	1	0.5	1	fuerza muscular	44432004	C1540845	fuerza muscular	fuerza muscular	32246917_ES
+frialdad cutanea	SINTOMA	1	0.5	1	frialdad cutáneo			frialdad cutánea	frialdad cutánea	3229222_ES
+fraccion de expulsion del VI reducida	SINTOMA	1	0.5	1	fracción de expulsión de+el VI reducir			fracción de expulsión del VI reducida	fracción de expulsión del VI reducida	32363336_ES
+fotofobia	SINTOMA	1	0.5	1	fotofobia	409668002	C0085636	fotofobia	fotofobia	32196627_ES
+flacidez de la mano	SINTOMA	1	0.5	1	flacidez de el mano			flacidez de la mano	flacidez de la mano	32426200_ES
+fiebres persistentes	SINTOMA	1	0.5	1	fiebre persistente			fiebres persistentes	fiebres persistentes	32631770_ES
+fatiga aguda	SINTOMA	1	0.5	1	fatigar agudo			fatiga aguda	fatiga aguda	32399950_ES
+faringitis	SINTOMA	1	0.5	1	faringitis	37616004, 405737000	C0031350, C0031350	faringitis	faringitis	32318729_ES
+falta de realce de parte del intestino delgado	SINTOMA	1	0.5	1	faltar de realce de parte de+el intestino delgado			falta de realce de parte del intestino delgado	falta de realce de parte del intestino delgado	32424482_ES
+expectoracion verde	SINTOMA	1	0.5	1	expectoración verde			expectoración verde	expectoración verde	32205138_ES
+expectoracion purulenta	SINTOMA	1	0.5	1	expectoración purulento			expectoración purulenta	expectoración purulenta	32623310_ES
+expectoracion con esputo blanco pegajoso	SINTOMA	1	0.5	1	expectoración con esputo blanco pegajoso			expectoración con esputo blanco pegajoso	expectoración con esputo blanco pegajoso	32277408_ES
+expectoracion con el fonendoscopio	SINTOMA	1	0.5	1	expectoración con el fonendoscopio			expectoración con el fonendoscopio	expectoración con el fonendoscopio	32292053_ES
+expectoracion blanca	SINTOMA	1	0.5	1	expectoración blanco			expectoración blanca	expectoración blanca	32208010_ES
+expansion toracica asimetrica	SINTOMA	1	0.5	1	expansión torácico asimétrico			expansión torácica asimétrica	expansión torácica asimétrica	32423911_ES
+exantemas	SINTOMA	1	0.5	1	exantema	112625008, 271807003	C0015230, C0015230	exantemas	exantemas	32593338_ES
+exantema pruriginoso	SINTOMA	1	0.5	1	exantema pruriginoso			exantema pruriginoso	exantema pruriginoso	32641443_ES
+exantema persistente	SINTOMA	1	0.5	1	exantema persistente			exantema persistente	exantema persistente	32265235_ES
+exantema palido maculopapular	SINTOMA	1	0.5	1	exantema pálido maculopapular			exantema pálido maculopapular	exantema pálido maculopapular	32427161_ES
+exantema generalizado morbiliforme en el tronco y las extremidades	SINTOMA	1	0.5	1	exantema generalizar morbiliforme en el tronco y el extremidad			exantema generalizado morbiliforme en el tronco y las extremidades	exantema generalizado morbiliforme en el tronco y las extremidades	32282312_ES
+exantema eritematoso generalizado	SINTOMA	1	0.5	1	exantema eritematoso generalizar			exantema eritematoso generalizado	exantema eritematoso generalizado	32640066_ES
+exantema eritematoso en la zona ventral	SINTOMA	1	0.5	1	exantema eritematoso en el zona ventral			exantema eritematoso en la zona ventral	exantema eritematoso en la zona ventral	32622819B_ES
+exantema en las extremidades inferiores	SINTOMA	1	0.5	1	exantema en el extremidad inferior			exantema en las extremidades inferiores	exantema en las extremidades inferiores	32554425_ES
+exantema en la cadera	SINTOMA	1	0.5	1	exantema en el cadera			exantema en la cadera	exantema en la cadera	32602610_ES
+exantema dorsal pruriginoso pasajero	SINTOMA	1	0.5	1	exantema dorsal pruriginoso pasajero			exantema dorsal pruriginoso pasajero	exantema dorsal pruriginoso pasajero	32399950_ES
+exantema cutaneo	SINTOMA	1	0.5	1	exantema cutáneo			exantema cutáneo	exantema cutáneo	32584431_ES
+estridor	SINTOMA	1	0.5	1	estridor	70407001	C0038450	estridor	estridor	32620682_ES
+estrenimiento	SINTOMA	1	0.5	1	estreñimiento			estreñimiento	estreñimiento	32562891_ES
+estertores leves en dos tercios del pulmon	SINTOMA	1	0.5	1	estertor leve en 2 tercio de+el pulmón			estertores leves en dos tercios del pulmón	estertores leves en dos tercios del pulmón	32606044_ES
+estertores inspiratorios basales	SINTOMA	1	0.5	1	estertor inspiratorio basal			estertores inspiratorios basales	estertores inspiratorios basales	32612435_ES
+estertores humedos en las bases de ambos pulmones	SINTOMA	1	0.5	1	estertor húmedo en el base de ambos pulmón			estertores húmedos en las bases de ambos pulmones	estertores húmedos en las bases de ambos pulmones	32032497_ES
+estertores gruesos en ambos pulmones	SINTOMA	1	0.5	1	estertor grueso en ambos pulmón			estertores gruesos en ambos pulmones	estertores gruesos en ambos pulmones	32266524_ES
+estertores bronquiales	SINTOMA	1	0.5	1	estertor bronquial			estertores bronquiales	estertores bronquiales	32623310_ES
+esputo parduzco	SINTOMA	1	0.5	1	esputo parduzco			esputo parduzco	esputo parduzco	32553608­_A_ES
+esplenomegalia a la palpacion	SINTOMA	1	0.5	1	esplenomegalia a el palpación			esplenomegalia a la palpación	esplenomegalia a la palpación	32292053_ES
+espasmos	SINTOMA	1	0.5	1	espasmo	45352006	C0037763	espasmos	espasmos	32605766_ES
+erupcion de placas eritematosas pruriginosas extendidas	SINTOMA	1	0.5	1	erupción de placa eritematoso pruriginoso extender			erupción de placas eritematosas pruriginosas extendidas	erupción de placas eritematosas pruriginosas extendidas	32294273_ES
+eructos	SINTOMA	1	0.5	1	eructo			eructos	eructos	32562891_ES
+eritema que empeoraba progresivamente en el pulgar y en el cuarto dedo de la mano	SINTOMA	1	0.5	1	eritema que empeorar progresivamente en el pulgar y en el 4 dedo de el mano			eritema que empeoraba progresivamente en el pulgar y en el cuarto dedo de la mano	eritema que empeoraba progresivamente en el pulgar y en el cuarto dedo de la mano	32292054_ES
+eritema infiltrado bien delimitado en el tronco	SINTOMA	1	0.5	1	eritema infiltrar bien delimitar en el tronco			eritema infiltrado bien delimitado en el tronco	eritema infiltrado bien delimitado en el tronco	32425356_ES
+eritema faringeo	SINTOMA	1	0.5	1	eritema faríngeo			eritema faríngeo	eritema faríngeo	32292867_ES
+eritema calorico hinchado y doloroso	SINTOMA	1	0.5	1	eritema calórico hinchar y doloroso			eritema calórico, hinchado y doloroso	eritema calórico hinchado y doloroso	32427645_ES
+equimosis cutanea	SINTOMA	1	0.5	1	equimosis cutáneo			equimosis cutánea	equimosis cutánea	32277408_ES
+epistaxis en las extremidades inferiores	SINTOMA	1	0.5	1	epistaxis en el extremidad inferior			epistaxis en las extremidades inferiores	epistaxis en las extremidades inferiores	32294340_ES
+entumecimiento y frio en la extremidad inferior	SINTOMA	1	0.5	1	entumecimiento y frío en el extremidad inferior			entumecimiento y frío en la extremidad inferior	entumecimiento y frío en la extremidad inferior	32589931_ES
+entumecimiento facial	SINTOMA	1	0.5	1	entumecimiento facial	309557009	C0239511	entumecimiento facial	entumecimiento facial	32586958_ES
+entumecimiento	SINTOMA	1	0.5	1	entumecimiento	44077006	C0028643	entumecimiento	entumecimiento	32360439-D_ES
+enlentecimiento generalizado	SINTOMA	1	0.5	1	enlentecimiento generalizar			enlentecimiento generalizado	enlentecimiento generalizado	32418288_ES
+engrosamiento pleural	SINTOMA	1	0.5	1	engrosamiento pleural	73725006	C0264545, C2720436	engrosamiento pleural	engrosamiento pleural	32073161_ES
+engrosamiento mucoso apreciado en los senos esfenoidales	SINTOMA	1	0.5	1	engrosamiento mucoso apreciar en el seno esfenoidal			engrosamiento mucoso apreciado en los senos esfenoidales	engrosamiento mucoso apreciado en los senos esfenoidales	32563170_ES
+engrosamiento miocardico	SINTOMA	1	0.5	1	engrosamiento miocárdico			engrosamiento miocárdico	engrosamiento miocárdico	32622819B_ES
+engrosamiento de la pared miocardica	SINTOMA	1	0.5	1	engrosamiento de el pared miocárdico			engrosamiento de la pared miocárdica	engrosamiento de la pared miocárdica	32282027_ES
+engrosamiento centrilobular y septal bibasal	SINTOMA	1	0.5	1	engrosamiento centrilobular y septal bibasal			engrosamiento centrilobular y septal bibasal	engrosamiento centrilobular y septal bibasal	32222713_ES
+en la piel de antebrazos y piernas	SINTOMA	1	0.5	1	en el piel de antebrazo y pierna			en la piel de antebrazos y piernas	en la piel de antebrazos y piernas	32636116_ES
+empeoramiento del estado general	SINTOMA	1	0.5	1	empeoramiento de+el estado general			empeoramiento del estado general	empeoramiento del estado general	32351657_ES
+empeoramiento de la funcion motora	SINTOMA	1	0.5	1	empeoramiento de el función motor			empeoramiento de la función motora	empeoramiento de la función motora	32364123_ES
+embarazo	SINTOMA	1	0.5	1	embarazo	289908002	C0032961	embarazo	embarazo	32161941_ES
+embarazada	SINTOMA	1	0.5	1	embarazar	161732006, 77386006	C0032961, C0549169, C0549206, C0600457	embarazada	embarazada	32161941_ES
+elevacion difusa del segmento ST y el roce pericardico	SINTOMA	1	0.5	1	elevación difuso de+el segmento ST y el roce pericárdico			elevación difusa del segmento ST y el roce pericárdico	elevación difusa del segmento ST y el roce pericárdico	32607304_Es
+elevacion del segmento ST inferolateral	SINTOMA	1	0.5	1	elevación de+el segmento ST inferolateral			elevación del segmento ST inferolateral	elevación del segmento ST inferolateral	32593338_ES
+elevacion del segmento ST difusa	SINTOMA	1	0.5	1	elevación de+el segmento ST difuso			elevación del segmento ST difusa	elevación del segmento ST difusa	32635747_ES
+elevacion del segmento ST ascendente en I y aVL	SINTOMA	1	0.5	1	elevación de+el segmento ST ascendente en I y avl			elevación del segmento ST ascendente en I y aVL	elevación del segmento ST ascendente en I y aVL	32363351_ES
+elevacion del segmento ST	SINTOMA	1	0.5	1	elevación de+el segmento ST			elevación del segmento ST	elevación del segmento ST	32277408_ES
+elevacion del dimerod	SINTOMA	1	0.5	1	elevación de+el dímerod			elevación del dímeroD	elevación del dímerod	32631646_ES
+elevacion de troponinas	SINTOMA	1	0.5	1	elevación de troponina			elevación de troponinas	elevación de troponinas	3229222_ES
+elevacion de los neutrofilos	SINTOMA	1	0.5	1	elevación de el neutrófilo			elevación de los neutrófilos	elevación de los neutrófilos	32653210_ES
+elevacion de la aspartatoaminotransferasa	SINTOMA	1	0.5	1	elevación de el aspartatoaminotransferasa			elevación de la aspartato-aminotransferasa	elevación de la aspartatoaminotransferasa	32586752_ES
+elevacion de la amilasa plasmatica	SINTOMA	1	0.5	1	elevación de el amilasa plasmático			elevación de la amilasa plasmática	elevación de la amilasa plasmática	32653210_ES
+elevacion de ST en V3	SINTOMA	1	0.5	1	elevación de ST en V3			elevación de ST en V3	elevación de ST en V3	32427645_ES
+elevacion concaviforme y difusa del ST	SINTOMA	1	0.5	1	elevación concaviforme y difuso de+el ST			elevación concaviforme y difusa del ST	elevación concaviforme y difusa del ST	3229222_ES
+elevacion concava del ST y descenso del PR	SINTOMA	1	0.5	1	elevación cóncavo de+el ST y descenso de+el PR			elevación cóncava del ST y descenso del PR	elevación cóncava del ST y descenso del PR	3229222_ES
+edemas con fovea	SINTOMA	1	0.5	1	edema con fóvea			edemas con fóvea	edemas con fóvea	32292867_ES
+edema subepicardico en la pared del ventriculo	SINTOMA	1	0.5	1	edema subepicárdico en el pared de+el ventrículo			edema subepicárdico en la pared del ventrículo	edema subepicárdico en la pared del ventrículo	32556106_ES
+edema parietal miocardico	SINTOMA	1	0.5	1	edema parietal miocárdico			edema parietal miocárdico	edema parietal miocárdico	32282027_ES
+edema papilar dermico	SINTOMA	1	0.5	1	edema papilar dérmico			edema papilar dérmico	edema papilar dérmico	32352486_ES
+edema palpebral	SINTOMA	1	0.5	1	edema palpebral	193967004	C0560024	edema palpebral	edema palpebral	32423738_ES
+edema en la pierna	SINTOMA	1	0.5	1	edema en el pierna	102574007	C0235886	edema en la pierna	edema en la pierna	32399449_ES
+edema con fovea bilateral en las extremidades inferiores	SINTOMA	1	0.5	1	edema con fóvea bilateral en el extremidad inferior			edema con fóvea bilateral en las extremidades inferiores	edema con fóvea bilateral en las extremidades inferiores	32607304_Es
+edema bilateral pretibial	SINTOMA	1	0.5	1	edema bilateral pretibial			edema bilateral pretibial	edema bilateral pretibial	32622819B_ES
+edema	SINTOMA	1	0.5	1	edema	267038008, 423666004, 79654002	C0013604, C0013604, C0013604	edema	edema	32631646_ES
+dorsalgia en la zona dorsallumbar	SINTOMA	1	0.5	1	dorsalgia en el zona dorsallumbar			dorsalgia en la zona dorsal-lumbar	dorsalgia en la zona dorsallumbar	32644205_ES
+dolor toracico opresivo	SINTOMA	1	0.5	1	dolor torácico opresivo			dolor torácico opresivo	dolor torácico opresivo	32267502_ES
+dolor toracico intenso que radiaba a su brazo	SINTOMA	1	0.5	1	dolor torácico intenso que radiar a su brazo			dolor torácico intenso que radiaba a su brazo	dolor torácico intenso que radiaba a su brazo	32593338_ES
+dolor toracico agudo al respirar	SINTOMA	1	0.5	1	dolor torácico agudo a+el respirar			dolor torácico agudo al respirar	dolor torácico agudo al respirar	32399449-B_ES
+dolor significativo a la palpacion	SINTOMA	1	0.5	1	dolor significativo a el palpación			dolor significativo a la palpación	dolor significativo a la palpación	32293714_ES
+dolor retroorbital	SINTOMA	1	0.5	1	dolor retroorbital			dolor retroorbital	dolor retroorbital	32653906_ES
+dolor pleural	SINTOMA	1	0.5	1	dolor pleural	2237002	C0008033	dolor pleural	dolor pleural	32402687-B_ES
+dolor muscular	SINTOMA	1	0.5	1	dolor muscular	68962001	C0231528	dolor muscular	dolor muscular	32208010_ES
+dolor epigastrico irradiado a ambos hipocondrios	SINTOMA	1	0.5	1	dolor epigástrico irradiar a ambos hipocondrio			dolor epigástrico, irradiado a ambos hipocondrios	dolor epigástrico irradiado a ambos hipocondrios	32653210_ES
+dolor en su pierna	SINTOMA	1	0.5	1	dolor en su pierna			dolor en su pierna	dolor en su pierna	32399449_ES
+dolor en miembro inferior	SINTOMA	1	0.5	1	dolor en miembro inferior	287048003	C0564823	dolor en miembro inferior	dolor en miembro inferior	32631646_ES
+dolor en los tobillos y una ligera inflamacion del tobillo	SINTOMA	1	0.5	1	dolor en el tobillo y uno ligero inflamación de+el tobillo			dolor en los tobillos y una ligera inflamación del tobillo	dolor en los tobillos y una ligera inflamación del tobillo	32606044_ES
+dolor en los tobillos	SINTOMA	1	0.5	1	dolor en el tobillo			dolor en los tobillos	dolor en los tobillos	32606044_ES
+dolor en las extremidades inferiores	SINTOMA	1	0.5	1	dolor en el extremidad inferior			dolor en las extremidades inferiores	dolor en las extremidades inferiores	32653906_ES
+dolor en la region abdominal inferior	SINTOMA	1	0.5	1	dolor en el región abdominal inferior			dolor en la región abdominal inferior	dolor en la región abdominal inferior	32161941_ES
+dolor en la pierna	SINTOMA	1	0.5	1	dolor en el pierna	316941000119108	C4751096	dolor en la pierna	dolor en la pierna	32399449-B_ES
+dolor e inflamacion persistente en ambos tobillos	SINTOMA	1	0.5	1	dolor y inflamación persistente en ambos tobillo			dolor e inflamación persistente en ambos tobillos	dolor e inflamación persistente en ambos tobillos	32606044_ES
+dolor de nuca	SINTOMA	1	0.5	1	dolor de nuca	297128006	C0573983	dolor de nuca	dolor de nuca	32414534_ES
+dolor de muelas	SINTOMA	1	0.5	1	dolor de muela			dolor de muelas	dolor de muelas	32631770_ES
+dolor con el movimiento ocular	SINTOMA	1	0.5	1	dolor con el movimiento ocular			dolor con el movimiento ocular	dolor con el movimiento ocular	32592761_ES
+dolor cervical	SINTOMA	1	0.5	1	dolor cervical			dolor cervical	dolor cervical	32414534_ES
+dolor articular	SINTOMA	1	0.5	1	dolor articular	57676002	C0003862	dolor articular	dolor articular	32606044_ES
+dolor abdominal intenso generalizado	SINTOMA	1	0.5	1	dolor abdominal intenso generalizar	102614006	C0344304	dolor abdominal intenso generalizado	dolor abdominal intenso generalizado	32640066_ES
+dolor abdominal en el area epigastrica	SINTOMA	1	0.5	1	dolor abdominal en el área epigástrico			dolor abdominal en el área epigástrica	dolor abdominal en el área epigástrica	32351657_ES
+dolor abdominal difuso a la palpacion	SINTOMA	1	0.5	1	dolor abdominal difuso a el palpación			dolor abdominal difuso a la palpación	dolor abdominal difuso a la palpación	32639461_ES
+dolor a la palpacion sinusal	SINTOMA	1	0.5	1	dolor a el palpación sinusal			dolor a la palpación sinusal	dolor a la palpación sinusal	32292867_ES
+dolor a la palpacion en la pared toracica	SINTOMA	1	0.5	1	dolor a el palpación en el pared torácico			dolor a la palpación en la pared torácica	dolor a la palpación en la pared torácica	32593338_ES
+dolor a la palpacion	SINTOMA	1	0.5	1	dolor a el palpación			dolor a la palpación	dolor a la palpación	32292867_ES
+dispepsia	SINTOMA	1	0.5	1	dispepsia	87548005, 162031009	C0013395, C0013395, C0221512, C1282765	dispepsia	dispepsia	32360439_ES
+disneico	SINTOMA	1	0.5	1	disneico			disneico	disneico	32196627_ES
+disnea subita	SINTOMA	1	0.5	1	disnea súbito			disnea súbita	disnea súbita	32247642_ES
+disnea espiratoria	SINTOMA	1	0.5	1	disnea espiratorio	34560001	C0277856	disnea espiratoria	disnea espiratoria	32073161_ES
+disnea de esfuerzo y opresion toracica	SINTOMA	1	0.5	1	disnea de esfuerzo y opresión torácico			disnea de esfuerzo y opresión torácica	disnea de esfuerzo y opresión torácica	32277408_ES
+disnea aguda	SINTOMA	1	0.5	1	disnea agudo			disnea aguda	disnea aguda	32352486_ES
+disnea a moderados esfuerzos	SINTOMA	1	0.5	1	disnea a moderar esfuerzo			disnea a moderados esfuerzos	disnea a moderados esfuerzos	32622483_ES
+disminucion simetrica de la expansion toracica	SINTOMA	1	0.5	1	disminución simétrico de el expansión torácico			disminución simétrica de la expansión torácica	disminución simétrica de la expansión torácica	32607304_Es
+disminucion significativa de la hiperintensidad del cortex prefrontal	SINTOMA	1	0.5	1	disminución significativo de el hiperintensidad de+el córtex prefrontal			disminución significativa de la hiperintensidad del córtex prefrontal	disminución significativa de la hiperintensidad del córtex prefrontal	32589794_ES
+disminucion en los valores de deshidrogenasa lactica	SINTOMA	1	0.5	1	disminución en el valor de deshidrogenasa láctico			disminución en los valores de deshidrogenasa láctica	disminución en los valores de deshidrogenasa láctica	32587121_ES
+disminucion del apetito	SINTOMA	1	0.5	1	disminución de+el apetito			disminución del apetito	disminución del apetito	32606105_ES
+disminucion de proteina creactiva	SINTOMA	1	0.5	1	disminución de proteína creactiva			disminución de proteína C-reactiva	disminución de proteína creactiva	32635747_ES
+disminucion de peso	SINTOMA	1	0.5	1	disminución de peso			disminución de peso	disminución de peso	32631646_ES
+disminucion de los valores de proteina creactiva y de ferritina	SINTOMA	1	0.5	1	disminución de el valor de proteína creactiva y de ferritina			disminución de los valores de proteína C-reactiva y de ferritina	disminución de los valores de proteína creactiva y de ferritina	32648092A_ES
+disminucion de los ruidos respiratorios con crepitantes en el campo pulmonar izquierdo inferior	SINTOMA	1	0.5	1	disminución de el ruido respiratorio con crepitante en el campo pulmonar izquierdo inferior			disminución de los ruidos respiratorios con crepitantes en el campo pulmonar izquierdo inferior	disminución de los ruidos respiratorios con crepitantes en el campo pulmonar izquierdo inferior	32399450_ES
+disminucion de los ruidos respiratorios	SINTOMA	1	0.5	1	disminución de el ruido respiratorio			disminución de los ruidos respiratorios	disminución de los ruidos respiratorios	32267502_ES
+disminucion de los movimientos fetales	SINTOMA	1	0.5	1	disminución de el movimiento fetal			disminución de los movimientos fetales	disminución de los movimientos fetales	32363336-B_ES
+disminucion de los marcadores inflamatorios	SINTOMA	1	0.5	1	disminución de el marcador inflamatorio			disminución de los marcadores inflamatorios	disminución de los marcadores inflamatorios	32250095_ES
+disminucion de las velocidades de conduccion sensitivas en los nervios explorados	SINTOMA	1	0.5	1	disminución de el velocidad de conducción sensitivo en el nervio explorar			disminución de las velocidades de conducción sensitivas en los nervios explorados	disminución de las velocidades de conducción sensitivas en los nervios explorados	32364123_ES
+disminucion de la velocidad de conduccion motora peroneal	SINTOMA	1	0.5	1	disminución de el velocidad de conducción motor peroneal			disminución de la velocidad de conducción motora peroneal	disminución de la velocidad de conducción motora peroneal	32619798_ES
+disminucion de la reactividad a estimulos acusticos	SINTOMA	1	0.5	1	disminución de el reactividad a estímulo acústico			disminución de la reactividad a estímulos acústicos	disminución de la reactividad a estímulos acústicos	32418288_ES
+disminucion de la ingesta oral	SINTOMA	1	0.5	1	disminución de el ingesta oral			disminución de la ingesta oral	disminución de la ingesta oral	32360439_ES
+disminucion de la fuerza bilateral	SINTOMA	1	0.5	1	disminución de el fuerza bilateral			disminución de la fuerza bilateral	disminución de la fuerza bilateral	32617903A_ES
+disminucion de la consciencia	SINTOMA	1	0.5	1	disminución de el consciencia			disminución de la consciencia	disminución de la consciencia	32590204_ES
+disminucion de la asat	SINTOMA	1	0.5	1	disminución de el asat			disminución de la ASAT	disminución de la asat	32635747_ES
+disminucion de la actividad sistolica ventricular	SINTOMA	1	0.5	1	disminución de el actividad sistólico ventricular			disminución de la actividad sistólica ventricular	disminución de la actividad sistólica ventricular	32607304_Es
+disminucion bilateral de los ruidos respiratorios	SINTOMA	1	0.5	1	disminución bilateral de el ruido respiratorio			disminución bilateral de los ruidos respiratorios	disminución bilateral de los ruidos respiratorios	32294340_ES
+disgeusia	SINTOMA	1	0.5	1	disgeusia	1932001	C0013378, C0234297, C1282895, C1443073	disgeusia	disgeusia	32267483_ES
+disfuncion ventricular izquierda con hipocinesis inferolateral	SINTOMA	1	0.5	1	disfunción ventricular izquierda con hipocinesis inferolateral			disfunción ventricular izquierda con hipocinesis inferolateral	disfunción ventricular izquierda con hipocinesis inferolateral	32586778_ES
+disfuncion sistolica ventricular	SINTOMA	1	0.5	1	disfunción sistólico ventricular			disfunción sistólica ventricular	disfunción sistólica ventricular	32267502_ES
+disfuncion sistolica biventricular	SINTOMA	1	0.5	1	disfunción sistólico biventricular			disfunción sistólica biventricular	disfunción sistólica biventricular	32427645_ES
+disfuncion respiratoria	SINTOMA	1	0.5	1	disfunción respiratorio			disfunción respiratoria	disfunción respiratoria	32215898_ES
+disfuncion renal persistente	SINTOMA	1	0.5	1	disfunción renal persistente			disfunción renal persistente	disfunción renal persistente	32198834_ES
+disestesia	SINTOMA	1	0.5	1	disestesia	79151009, 279079003	C0392699, C0392699	disestesia	disestesia	32399950_ES
+disartria	SINTOMA	1	0.5	1	disartria	8011004	C0013362	disartria	disartria	32586958_ES
+diplopia	SINTOMA	1	0.5	1	diplopia			diplopia	diplopia	32563170_ES
+dilatacion ventricular	SINTOMA	1	0.5	1	dilatación ventricular			dilatación ventricular	dilatación ventricular	32423738_ES
+dificultades motoras	SINTOMA	1	0.5	1	dificultad motor			dificultades motoras	dificultades motoras	32605766_ES
+dificultad para nombrar objetos	SINTOMA	1	0.5	1	dificultad para nombrar objeto			dificultad para nombrar objetos	dificultad para nombrar objetos	32611761B_ES
+dificultad para la locomocion	SINTOMA	1	0.5	1	dificultad para el locomoción			dificultad para la locomoción	dificultad para la locomoción	32617903B_ES
+dificultad para andar	SINTOMA	1	0.5	1	dificultad para andar	714997002	C4075006	dificultad para andar	dificultad para andar	32399950_ES
+dificultad creciente para respirar	SINTOMA	1	0.5	1	dificultad creciente para respirar	230145002	C0013404	dificultad creciente para respirar	dificultad creciente para respirar	32427774_ES
+diarreas	SINTOMA	1	0.5	1	diarrea	62315008	C0011991	diarreas	diarreas	32653210_ES
+deterioro rapido de su estado respiratorio	SINTOMA	1	0.5	1	deterioro rápido de su estado respiratorio			deterioro rápido de su estado respiratorio	deterioro rápido de su estado respiratorio	32222713_ES
+deterioro progresivo del estado respiratorio	SINTOMA	1	0.5	1	deterioro progresivo de+el estado respiratorio			deterioro progresivo del estado respiratorio	deterioro progresivo del estado respiratorio	32607304_Es
+deterioro del estado mental	SINTOMA	1	0.5	1	deterioro de+el estado mental	390772001	C1279889	deterioro del estado mental	deterioro del estado mental	32293714_ES
+deterioro de su estado general	SINTOMA	1	0.5	1	deterioro de su estado general			deterioro de su estado general	deterioro de su estado general	32638347B_ES
+deterioro de la funcion renal	SINTOMA	1	0.5	1	deterioro de el función renal			deterioro de la función renal	deterioro de la función renal	32622483_ES
+deterioro de la actividad renal	SINTOMA	1	0.5	1	deterioro de el actividad renal			deterioro de la actividad renal	deterioro de la actividad renal	32622819B_ES
+deterioro de la actividad cardiaca	SINTOMA	1	0.5	1	deterioro de el actividad cardíaco			deterioro de la actividad cardíaca	deterioro de la actividad cardíaca	32277408_ES
+deterioro cognitivo	SINTOMA	1	0.5	1	deterioro cognitivo	110352000	C1291708	deterioro cognitivo	deterioro cognitivo	32631645_ES
+desplazamiento a wuhan	SINTOMA	1	0.5	1	desplazamiento a wuhan			desplazamiento a Wuhan	desplazamiento a wuhan	32119083_ES
+despertable	SINTOMA	1	0.5	1	despertable			despertable	despertable	32637266B_ES
+desorientada	SINTOMA	1	0.5	1	desorientar			desorientada	desorientada	32637266A_ES
+desorientacion espaciotemporal	SINTOMA	1	0.5	1	desorientación espaciotemporal			desorientación espaciotemporal	desorientación espaciotemporal	32611761B_ES
+desorientacion con excitacion psicomotora	SINTOMA	1	0.5	1	desorientación con excitación psicomotor			desorientación con excitación psicomotora	desorientación con excitación psicomotora	32399950_ES
+desmayo	SINTOMA	1	0.5	1	desmayar			desmayó	desmayó	32417987_ES
+descenso leve difuso del segmento PR y cambios difusos del segmento ST y la onda T La troponina I inicial era negativa	SINTOMA	1	0.5	1	descenso leve difuso de+el segmento PR y cambio difuso de+el segmento ST y el onda T la troponina I inicial ser negativo			descenso leve difuso del segmento PR y cambios difusos del segmento ST y la onda T. La troponina I inicial era negativa	descenso leve difuso del segmento PR y cambios difusos del segmento ST y la onda T La troponina I inicial era negativa	32363351_ES
+descenso del segmento ST en v2v4	SINTOMA	1	0.5	1	descenso de+el segmento ST en v2v4			descenso del segmento ST en V2-V4	descenso del segmento ST en v2v4	32586778_ES
+desaturacion de oxigeno	SINTOMA	1	0.5	1	desaturación de oxígeno			desaturación de oxígeno	desaturación de oxígeno	32402687_ES
+deposiciones diarreicas	SINTOMA	1	0.5	1	deposición diarreico			deposiciones diarreicas	deposiciones diarreicas	32631646_ES
+delirio confusional	SINTOMA	1	0.5	1	delirio confusional			delirio confusional	delirio confusional	32586752_ES
+deficit de atencion	SINTOMA	1	0.5	1	déficit de atención			déficit de atención	déficit de atención	32637266B_ES
+deficiencias de memoria	SINTOMA	1	0.5	1	deficiencia de memoria			deficiencias de memoria	deficiencias de memoria	32651243_ES
+defensa en los cuadrantes superior e inferior	SINTOMA	1	0.5	1	defensa en el cuadrante superior y inferior			defensa en los cuadrantes superior e inferior	defensa en los cuadrantes superior e inferior	32427161_ES
+defecto pupilar aferente	SINTOMA	1	0.5	1	defecto pupilar aferente	232121005	C0339662	defecto pupilar aferente	defecto pupilar aferente	32592761_ES
+debilidad transitoria	SINTOMA	1	0.5	1	debilidad transitorio			debilidad transitoria	debilidad transitoria	32360439-D_ES
+debilidad simetrica y global de las 4 extremidades	SINTOMA	1	0.5	1	debilidad simétrico y global de el 4 extremidad			debilidad simétrica y global de las 4 extremidades	debilidad simétrica y global de las 4 extremidades	32364123_ES
+debilidad simetrica de rapida progresion en las extremidades inferiores	SINTOMA	1	0.5	1	debilidad simétrico de rápido progresión en el extremidad inferior			debilidad simétrica de rápida progresión en las extremidades inferiores	debilidad simétrica de rápida progresión en las extremidades inferiores	32399950_ES
+debilidad progresiva en todas las extremidades	SINTOMA	1	0.5	1	debilidad progresivo en todo el extremidad			debilidad progresiva en todas las extremidades	debilidad progresiva en todas las extremidades	32399950_ES
+debilidad progresiva en las extremidades inferiores	SINTOMA	1	0.5	1	debilidad progresivo en el extremidad inferior			debilidad progresiva en las extremidades inferiores	debilidad progresiva en las extremidades inferiores	32399694­­_ES
+debilidad persistente bilateral en las extremidades inferiores	SINTOMA	1	0.5	1	debilidad persistente bilateral en el extremidad inferior			debilidad persistente bilateral en las extremidades inferiores	debilidad persistente bilateral en las extremidades inferiores	32617903B_ES
+debilidad muscular general	SINTOMA	1	0.5	1	debilidad muscular general	26544005	C0151786	debilidad muscular general	debilidad muscular general	32639461_ES
+debilidad motriz facial	SINTOMA	1	0.5	1	debilidad motriz facial	95666008	C0427055	debilidad motriz facial	debilidad motriz facial	32586958_ES
+debilidad generalizada	SINTOMA	1	0.5	1	debilidad generalizar			debilidad generalizada	debilidad generalizada	32586676_ES
+debilidad facial persistente	SINTOMA	1	0.5	1	debilidad facial persistente			debilidad facial persistente	debilidad facial persistente	32586958_ES
+debilidad facial estable	SINTOMA	1	0.5	1	debilidad facial estable			debilidad facial estable	debilidad facial estable	32586958_ES
+debilidad en las piernas	SINTOMA	1	0.5	1	debilidad en el pierna			debilidad en las piernas	debilidad en las piernas	32563170_ES
+debilidad en las extremidades inferiores	SINTOMA	1	0.5	1	debilidad en el extremidad inferior			debilidad en las extremidades inferiores	debilidad en las extremidades inferiores	32617903A_ES
+debilidad en ambas piernas	SINTOMA	1	0.5	1	debilidad en ambos pierna			debilidad en ambas piernas	debilidad en ambas piernas	32353183_ES
+debilidad distal en las extremidades superiores	SINTOMA	1	0.5	1	debilidad distal en el extremidad superior			debilidad distal en las extremidades superiores	debilidad distal en las extremidades superiores	32399950_ES
+debilidad de las extremidades inferiores	SINTOMA	1	0.5	1	debilidad de el extremidad inferior			debilidad de las extremidades inferiores	debilidad de las extremidades inferiores	32601756_ES
+debilidad bilateral subjetiva de las extremidades inferiores	SINTOMA	1	0.5	1	debilidad bilateral subjetivo de el extremidad inferior			debilidad bilateral subjetiva de las extremidades inferiores	debilidad bilateral subjetiva de las extremidades inferiores	32586958_ES
+debilidad bilateral de grado 45 en los deltoides y los flexores de cadera	SINTOMA	1	0.5	1	debilidad bilateral de grado 45 en el deltoides y el flexor de cadera			debilidad bilateral de grado 4/5 en los deltoides y los flexores de cadera	debilidad bilateral de grado 45 en los deltoides y los flexores de cadera	32586958_ES
+crepitantes en la parte inferior del pulmon	SINTOMA	1	0.5	1	crepitante en el parte inferior de+el pulmón			crepitantes en la parte inferior del pulmón	crepitantes en la parte inferior del pulmón	32198834_ES
+crepitantes en el pulmon derecho	SINTOMA	1	0.5	1	crepitante en el pulmón derecho			crepitantes en el pulmón derecho	crepitantes en el pulmón derecho	32631838_ES
+crepitantes en el pulmon	SINTOMA	1	0.5	1	crepitante en el pulmón			crepitantes en el pulmón	crepitantes en el pulmón	32615807C_ES
+crepitantes en ambos pulmones	SINTOMA	1	0.5	1	crepitante en ambos pulmón			crepitantes en ambos pulmones	crepitantes en ambos pulmones	32615807B_ES
+crepitantes debiles	SINTOMA	1	0.5	1	crepitante débil			crepitantes débiles	crepitantes débiles	32637266A_ES
+crepitantes bilaterales en las bases pulmonares	SINTOMA	1	0.5	1	crepitante bilateral en el base pulmonar			crepitantes bilaterales en las bases pulmonares	crepitantes bilaterales en las bases pulmonares	32637437­_ES
+crepitantes bilaterales en ambos pulmones	SINTOMA	1	0.5	1	crepitante bilateral en ambos pulmón			crepitantes bilaterales en ambos pulmones	crepitantes bilaterales en ambos pulmones	32399451_ES
+crepitantes bilaterales	SINTOMA	1	0.5	1	crepitante bilateral			crepitantes bilaterales	crepitantes bilaterales	32196627_ES
+crepitantes	SINTOMA	1	0.5	1	crepitante			crepitantes	crepitantes	32269194_ES
+crecimiento de staphylococcus aureus pseudomonas aeruginosa y acinetobacter dijkshoorniae	SINTOMA	1	0.5	1	crecimiento de staphylococcus aureus pseudomona aeruginosa y acinetobacter dijkshoorniae			crecimiento de Staphylococcus aureus, Pseudomonas aeruginosa y Acinetobacter dijkshoorniae	crecimiento de staphylococcus aureus pseudomonas aeruginosa y acinetobacter dijkshoorniae	32607564_ES
+crecimiento de enterococcus faecium resistente a vancomicna y staphylococcus epidermidis	SINTOMA	1	0.5	1	crecimiento de enterococcus faecium resistente a vancomicna y staphylococcus epidermidis			crecimiento de Enterococcus faecium resistente a vancomicna y Staphylococcus epidermidis	crecimiento de enterococcus faecium resistente a vancomicna y staphylococcus epidermidis	32607564_ES
+covid19	SINTOMA	1	0.5	1	covid19	840533007		COVID-19	covid19	32638347C_ES
+convulsiones	SINTOMA	1	0.5	1	convulsión	32631004	C0036572	convulsiones	convulsiones	32583150B_ES
+contracturas de las extremidades	SINTOMA	1	0.5	1	contractura de el extremidad			contracturas de las extremidades	contracturas de las extremidades	32622823_ES
+consumo excesivo de alcohol	SINTOMA	1	0.5	1	consumo excesivo de alcohol	160592001	C0560219	consumo excesivo de alcohol	consumo excesivo de alcohol	32601756_ES
+consumo de oxigeno decreciente	SINTOMA	1	0.5	1	consumo de oxígeno decreciente			consumo de oxígeno decreciente	consumo de oxígeno decreciente	32247642_ES
+congestion leve	SINTOMA	1	0.5	1	congestión leve			congestión leve	congestión leve	32222713_ES
+congestion faringea	SINTOMA	1	0.5	1	congestión faríngeo			congestión faríngea	congestión faríngea	32168162_ES
+congestion conjuntival	SINTOMA	1	0.5	1	congestión conjuntival			congestión conjuntival	congestión conjuntival	32205138_ES
+confusion e inquietud	SINTOMA	1	0.5	1	confusión y inquietud			confusión e inquietud	confusión e inquietud	32611761B_ES
+confusion	SINTOMA	1	0.5	1	confusión			confusión	confusión	32283294_ES
+colicos intestinales	SINTOMA	1	0.5	1	cólico intestinal			cólicos intestinales	cólicos intestinales	32222713_ES
+colicos	SINTOMA	1	0.5	1	cólico			cólicos	cólicos	32426200_ES
+cianosis y extremidades frias	SINTOMA	1	0.5	1	cianosis y extremidad frío			cianosis y extremidades frías	cianosis y extremidades frías	32638890_ES
+cianosis en los dedos de las manos	SINTOMA	1	0.5	1	cianosis en el dedo de el mano			cianosis en los dedos de las manos	cianosis en los dedos de las manos	32589931_ES
+cambios en su frecuencia de orina y defecaciones	SINTOMA	1	0.5	1	cambio en su frecuencia de orina y defecación			cambios en su frecuencia de orina y defecaciones	cambios en su frecuencia de orina y defecaciones	32607304_Es
+caida de la saturacion de oxigeno	SINTOMA	1	0.5	1	caída de el saturación de oxígeno			caída de la saturación de oxígeno	caída de la saturación de oxígeno	32586958_ES
+bulto en crecimiento palpable en su region parietal	SINTOMA	1	0.5	1	bulto en crecimiento palpable en su región parietal			bulto en crecimiento palpable en su región parietal	bulto en crecimiento palpable en su región parietal	32165205_ES
+buen apetito	SINTOMA	1	0.5	1	bueno apetito			buen apetito	buen apetito	32179908_ES
+brudzinski	SINTOMA	1	0.5	1	brudzinski			Brudzinski	brudzinski	32293714_ES
+bilioso	SINTOMA	1	0.5	1	bilioso			bilioso	bilioso	32637437­_ES
+bebedora	SINTOMA	1	0.5	1	bebedor			bebedora	bebedora	32426200_ES
+baja saturacion de oxigeno	SINTOMA	1	0.5	1	bajo saturación de oxígeno			baja saturación de oxígeno	baja saturación de oxígeno	32650881_ES
+ausencia de potenciales electricos en los nervios sensitivos	SINTOMA	1	0.5	1	ausencia de potencial eléctrico en el nervio sensitivo			ausencia de potenciales eléctricos en los nervios sensitivos	ausencia de potenciales eléctricos en los nervios sensitivos	32359804_ES
+aumento significativo de reactantes agudos	SINTOMA	1	0.5	1	aumento significativo de reactante agudo			aumento significativo de reactantes agudos	aumento significativo de reactantes agudos	32648092A_ES
+aumento limitrofe de la ACE serica	SINTOMA	1	0.5	1	aumento limítrofe de el ACE sérico			aumento limítrofe de la ACE sérica	aumento limítrofe de la ACE sérica	32606044_ES
+aumento del segmento ST en las derivaciones v1v2 y aVR	SINTOMA	1	0.5	1	aumento de+el segmento ST en el derivación v1v2 y avr			aumento del segmento ST en las derivaciones V1-V2 y aVR	aumento del segmento ST en las derivaciones v1v2 y aVR	32267502_ES
+aumento del peptido natriuretico cerebral	SINTOMA	1	0.5	1	aumento de+el péptido natriurético cerebral			aumento del péptido natriurético cerebral	aumento del péptido natriurético cerebral	32636116_ES
+aumento del esfuerzo respiratorio	SINTOMA	1	0.5	1	aumento de+el esfuerzo respiratorio			aumento del esfuerzo respiratorio	aumento del esfuerzo respiratorio	32318729_ES
+aumento del dimero D a 6120 ugl	SINTOMA	1	0.5	1	aumento de+el dímero D a 6120 ugl			aumento del dímero D a 6120 ug/L	aumento del dímero D a 6120 ugl	32402687_ES
+aumento de transaminasas y nitrogeno ureico	SINTOMA	1	0.5	1	aumento de transaminasa y nitrógeno ureico			aumento de transaminasas y nitrógeno ureico	aumento de transaminasas y nitrógeno ureico	32593478_ES
+aumento de transaminasas	SINTOMA	1	0.5	1	aumento de transaminasa			aumento de transaminasas	aumento de transaminasas	32414534_ES
+aumento de tamano	SINTOMA	1	0.5	1	aumento de tamaño			aumento de tamaño	aumento de tamaño	32208010_ES
+aumento de proteinas de la fase aguda	SINTOMA	1	0.5	1	aumento de proteína de el fase agudo			aumento de proteínas de la fase aguda	aumento de proteínas de la fase aguda	32427161_ES
+aumento de proteina creactiva	SINTOMA	7	3.5	1	aumento de proteína creactiva			aumento de proteina C-reactiva	aumento de proteina creactiva	32640066_ES, 32601756_ES, 32427645_ES, 32414534_ES, 32215898_ES, 32554621_ES, 32602267_ES
+aumento de perimetro respecto a contralateral	SINTOMA	1	0.5	1	aumento de perímetro respecto a contralateral			aumento de perímetro respecto a contralateral	aumento de perímetro respecto a contralateral	32631646_ES
+aumento de neutrofilos	SINTOMA	1	0.5	1	aumento de neutrófilo			aumento de neutrófilos	aumento de neutrófilos	32425356_ES
+aumento de marcadores de inflamacion proteina creactiva	SINTOMA	1	0.5	1	aumento de marcador de inflamación proteína creactiva			aumento de marcadores de inflamación (proteína C-reactiva	aumento de marcadores de inflamación proteína creactiva	32639064_ES
+aumento de los crepitantes pulmonares	SINTOMA	1	0.5	1	aumento de el crepitante pulmonar			aumento de los crepitantes pulmonares	aumento de los crepitantes pulmonares	32423738_ES
+aumento de linfocitos	SINTOMA	1	0.5	1	aumento de linfocito	124946002	C1268806	aumento de linfocitos	aumento de linfocitos	32636116_ES
+aumento de leucocitosis	SINTOMA	1	0.5	1	aumento de leucocitosis			aumento de leucocitosis	aumento de leucocitosis	32402416­_ES
+aumento de leucocitos y proteinas	SINTOMA	1	0.5	1	aumento de leucocito y proteína			aumento de leucocitos y proteínas	aumento de leucocitos y proteínas	32601756_ES
+aumento de leucocitos a 10800l con 9400 neutrofilosl	SINTOMA	1	0.5	1	aumento de leucocito a 10800 µl con 9400 neutrófilosµl			aumento de leucocitos a 10.800/µL con 9.400 neutrófilos/µL	aumento de leucocitos a 10800µl con 9400 neutrófilosµl	32606044_ES
+aumento de leucocitos	SINTOMA	1	0.5	1	aumento de leucocito			aumento de leucocitos	aumento de leucocitos	32423911_ES
+aumento de las necesidades de oxigeno	SINTOMA	1	0.5	1	aumento de el necesidad de oxígeno			aumento de las necesidades de oxígeno	aumento de las necesidades de oxígeno	32648092A_ES
+aumento de las latencias distales motoras	SINTOMA	1	0.5	1	aumento de el latencia distal motor			aumento de las latencias distales motoras	aumento de las latencias distales motoras	32364123_ES
+aumento de lactato	SINTOMA	1	0.5	1	aumento de lactato			aumento de lactato	aumento de lactato	32427161_ES
+aumento de la latencia minima de la onda F para las raices L5 y S1	SINTOMA	1	0.5	1	aumento de el latencia mínimo de el onda F para el raíz L5 y S1			aumento de la latencia mínima de la onda F para las raíces L5 y S1	aumento de la latencia mínima de la onda F para las raíces L5 y S1	32364123_ES
+aumento de la lactatodeshidrogenasa	SINTOMA	1	0.5	1	aumento de el lácticodeshidrogenasa			aumento de la lactato-deshidrogenasa	aumento de la lactatodeshidrogenasa	32606105_ES
+aumento de la demanda de oxigeno	SINTOMA	1	0.5	1	aumento de el demanda de oxígeno			aumento de la demanda de oxígeno	aumento de la demanda de oxígeno	32215898_ES
+aumento de la creatinacinasa	SINTOMA	1	0.5	1	aumento de el creatinacinasa			aumento de la creatina-cinasa	aumento de la creatinacinasa	32622823_ES
+aumento de la concentracion de dimero D en	SINTOMA	1	0.5	1	aumento de el concentración de dímero D en			aumento de la concentración de dímero D en	aumento de la concentración de dímero D en	32639089_ES
+aumento de la cifra de leucocitos	SINTOMA	1	0.5	1	aumento de el cifra de leucocito			aumento de la cifra de leucocitos	aumento de la cifra de leucocitos	32278585_ES
+aumento de la cifra de eritrocitos	SINTOMA	1	0.5	1	aumento de el cifra de eritrocito			aumento de la cifra de eritrocitos	aumento de la cifra de eritrocitos	32554423_ES
+aumento de la alaninaaminotransferasa	SINTOMA	1	0.5	1	aumento de el alaninaaminotransferasa			aumento de la alanina-aminotransferasa	aumento de la alaninaaminotransferasa	32277408_ES
+aumento de la LDH	SINTOMA	1	0.5	1	aumento de el LDH			aumento de la LDH	aumento de la LDH	32607564_ES
+aumento de interleucina	SINTOMA	1	0.5	1	aumento de interleucina			aumento de interleucina	aumento de interleucina	32587121_ES
+aumento de fibrinogeno dimero D y proteina creactiva	SINTOMA	1	0.5	1	aumento de fibrinógeno dímero D y proteína creactiva			aumento de fibrinógeno, dímero D y proteína C-reactiva	aumento de fibrinógeno dímero D y proteína creactiva	32648092C_ES
+aumento de enzimas hepaticas	SINTOMA	1	0.5	1	aumento de enzima hepático			aumento de enzimas hepáticas	aumento de enzimas hepáticas	32427161_ES
+aumento de dimero D	SINTOMA	1	0.5	1	aumento de dímero D			aumento de dímero D	aumento de dímero D	32589931_ES
+aumento de creatinina	SINTOMA	1	0.5	1	aumento de creatinina			aumento de creatinina	aumento de creatinina	32638890_ES
+aumento de LDH	SINTOMA	1	0.5	1	aumento de LDH			aumento de LDH	aumento de LDH	32588185_ES
+aumento de C3 y C4	SINTOMA	1	0.5	1	aumento de C3 y C4			aumento de C3 y C4	aumento de C3 y C4	32639461_ES
+aumento adicional de la proteina creactiva	SINTOMA	1	0.5	1	aumento adicional de el proteína creactiva			aumento adicional de la proteína C-reactiva	aumento adicional de la proteína creactiva	32278585_ES
+astenia aguda en ambas piernas	SINTOMA	1	0.5	1	astenia agudo en ambos pierna			astenia aguda en ambas piernas	astenia aguda en ambas piernas	32246917_ES
+artromialgia generalizada	SINTOMA	1	0.5	1	artromialgia generalizar			artromialgia generalizada	artromialgia generalizada	32617223_ES
+artralgias	SINTOMA	1	0.5	1	artralgia	57676002	C0003862	artralgias	artralgias	32294264_ES
+arreflexia generalizada	SINTOMA	1	0.5	1	arreflexia generalizar			arreflexia generalizada	arreflexia generalizada	32399694­­_ES
+arreflexia en ambas piernas y pies	SINTOMA	1	0.5	1	arreflexia en ambos pierna y pie			arreflexia en ambas piernas y pies	arreflexia en ambas piernas y pies	32246917_ES
+arreflexia	SINTOMA	1	0.5	1	arreflexia	37280007	C0234146	arreflexia	arreflexia	32359804_ES
+apiretico	SINTOMA	1	0.5	1	apirético			apirético	apirético	32602267_ES
+ansioso	SINTOMA	1	0.5	1	ansioso			ansioso	ansioso	32222713_ES
+ansiedad	SINTOMA	1	0.5	1	ansiedad	48694002	C0003467	ansiedad	ansiedad	32593478_ES
+anosmiaageusia	SINTOMA	1	0.5	1	anosmiaageusia			anosmia/ageusia	anosmiaageusia	32556106_ES
+anomalias de los bulbos olfativos	SINTOMA	1	0.5	1	anomalía de el bulbo olfativo			anomalías de los bulbos olfativos	anomalías de los bulbos olfativos	32267483_ES
+anomalias de las extremidades superiores	SINTOMA	1	0.5	1	anomalía de el extremidad superior			anomalías de las extremidades superiores	anomalías de las extremidades superiores	32617903B_ES
+anomalias de la marcha	SINTOMA	1	0.5	1	anomalía de el marcha			anomalías de la marcha	anomalías de la marcha	32592761_ES
+anhedonia	SINTOMA	1	0.5	1	anhedonia	28669007	C0178417	anhedonia	anhedonia	32605766_ES
+anemico	SINTOMA	1	0.5	1	anémico			anémico	anémico	32639064_ES
+alucinacion auditiva	SINTOMA	1	0.5	1	alucinación auditivo			alucinación auditiva	alucinación auditiva	32593478_ES
+altibajos cognitivos	SINTOMA	1	0.5	1	altibajo cognitivo			altibajos cognitivos	altibajos cognitivos	32418288_ES
+alteraciones inespecificas de la onda T	SINTOMA	1	0.5	1	alteración inespecífico de el onda T			alteraciones inespecíficas de la onda T	alteraciones inespecíficas de la onda T	32363336_ES
+alteraciones del sueno	SINTOMA	1	0.5	1	alteración de+el sueño			alteraciones del sueño	alteraciones del sueño	32605766_ES
+alteraciones del estado de animo	SINTOMA	1	0.5	1	alteración de+el estado de ánimo			alteraciones del estado de ánimo	alteraciones del estado de ánimo	32593478_ES
+alteraciones de la mucosa	SINTOMA	1	0.5	1	alteración de el mucosa			alteraciones de la mucosa	alteraciones de la mucosa	32427161_ES
+alteraciones cutaneas	SINTOMA	1	0.5	1	alteración cutáneo			alteraciones cutáneas	alteraciones cutáneas	32602610_ES
+alteracion sistolica del ventriculo	SINTOMA	1	0.5	1	alteración sistólico de+el ventrículo			alteración sistólica del ventrículo	alteración sistólica del ventrículo	32282027_ES
+alteracion mental	SINTOMA	1	0.5	1	alteración mental			alteración mental	alteración mental	32605766_ES
+alteracion grave de las cavidades cardiacas	SINTOMA	1	0.5	1	alteración grave de el cavidad cardíaco			alteración grave de las cavidades cardíacas	alteración grave de las cavidades cardíacas	32360384_ES
+alteracion en la sensibilidad de los 4 miembros a nivel distal	SINTOMA	1	0.5	1	alteración en el sensibilidad de el 4 miembro a nivel distal			alteración en la sensibilidad de los 4 miembros a nivel distal	alteración en la sensibilidad de los 4 miembros a nivel distal	32364123_ES
+alteracion de las funciones ejecutivas	SINTOMA	1	0.5	1	alteración de el función ejecutivo			alteración de las funciones ejecutivas	alteración de las funciones ejecutivas	32414534_ES
+alteracion de la marcha	SINTOMA	1	0.5	1	alteración de el marcha			alteración de la marcha	alteración de la marcha	32590204_ES
+alteracion de la capacidad hepatica y renal	SINTOMA	1	0.5	1	alteración de el capacidad hepático y renal			alteración de la capacidad hepática y renal	alteración de la capacidad hepática y renal	32277408_ES
+alteracion de coagulacion	SINTOMA	1	0.5	1	alteración de coagulación			alteración de coagulación	alteración de coagulación	32639461_ES
+alerta fluctuante	SINTOMA	1	0.5	1	alerta fluctuante			alerta fluctuante	alerta fluctuante	32418288_ES
+afasia global	SINTOMA	1	0.5	1	afasia global	23011003	C0234469	afasia global	afasia global	32648092B_ES
+afasia anomica	SINTOMA	1	0.5	1	afasia anómico			afasia anómica	afasia anómica	32360439-D_ES
+afasia	SINTOMA	1	0.5	1	afasia	87486003	C0003537	afasia	afasia	32360439-C_ES
+adelgazamiento	SINTOMA	1	0.5	1	adelgazamiento			adelgazamiento	adelgazamiento	32427645_ES
+acumulacion de liquido libre en la zona paracolica derecha y pelvica	SINTOMA	1	0.5	1	acumulación de líquido libre en el zona paracólico derecho y pélvico			acumulación de líquido libre en la zona paracólica derecha y pélvica	acumulación de líquido libre en la zona paracólica derecha y pélvica	32640066_ES
+acufenos	SINTOMA	1	0.5	1	acúfeno			acúfenos	acúfenos	32207255_ES
+acroisquemia persistente bilateral de las extremidades inferiores	SINTOMA	1	0.5	1	acroisquemia persistente bilateral de el extremidad inferior			acroisquemia persistente bilateral de las extremidades inferiores	acroisquemia persistente bilateral de las extremidades inferiores	32589931_ES
+abrasion del labio inferior	SINTOMA	1	0.5	1	abrasión de+el labio inferior			abrasión del labio inferior	abrasión del labio inferior	32593478_ES
+abombamiento apical	SINTOMA	1	0.5	1	abombamiento apical			abombamiento apical	abombamiento apical	32363351_ES
+abdomen estaba tenso	SINTOMA	1	0.5	1	abdomen estar tenso			abdomen estaba tenso	abdomen estaba tenso	32427161_ES
+TAC de las fosas nasales	SINTOMA	1	0.5	1	TAC de el fosa nasal			TAC de las fosas nasales	TAC de las fosas nasales	32267483_ES
+T citotoxicos	SINTOMA	1	0.5	1	T citotóxico			T citotóxicos	T citotóxicos	32636116_ES
+PCR para sarscov2 fue positiva	SINTOMA	1	0.5	1	PCR para sarscov2 ser positivo			PCR para SARS-CoV-2 fue positiva	PCR para sarscov2 fue positiva	32605712_ES
+PCR del LCR para deteccion de sarscov2 fue negativa	SINTOMA	1	0.5	1	PCR de+el LCR para detección de sarscov2 ser negativo			PCR del LCR para detección de SARS-CoV-2 fue negativa	PCR del LCR para detección de sarscov2 fue negativa	32563170_ES

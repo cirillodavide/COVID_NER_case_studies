@@ -1,0 +1,309 @@
+span_lower	label	doc_freq	doc_perc(%)	term_freq	lemma	snomedid	umls_cui	original_span	span_normalized	filename
+mujer	SEXO-SUJETO-ASISTENCIA	65	32.5	67	mujer	224526002, 30996001, 1086007, 248152002	C0043210, C0043210, C0086418, C0086287, C0086287	Mujer	mujer	32363336_ES, 32360439-B_ES, 32588185_ES, 32238024_ES, 32614251_ES, 32617169_ES, 32320556_ES, 32201125_ES, 32623310_ES, 32359804_ES, 32638347C_ES, 32590725_ES, 32276139_ES, 32282871_B_ES, 32165205_ES, 32294273_ES, 3229222_ES, 32602610_ES, 32267483_ES, 32653210_ES, 32267502_ES, 32246917_ES, 32425356_ES, 32631645_ES, 32351657_ES, 32363351_ES, 32589314_ES, 32585767_ES, 32232784_ES, 32245909_ES, 32637437­_ES, 32276139_C_ES, 32399449_ES, 32553608­_A_ES, 32292867_ES, 32208010_ES, 32631770_ES, 32282871_ES, 32638347A_ES, 32612465A_ES, 32294340_ES, 32402687_ES, 32399950_ES, 32399451_ES, 32631646_ES, 32360439-D_ES, 32593478_ES, 32412848_ES, 32282027_ES, 32637327A_ES, 32294264_ES, 32638347B_ES, 32605712_ES, 32294258_ES, 32637266A_ES, 32615807A_ES, 32427774-B_ES, 32584431_ES, 32426200_ES, 32637327B_ES, 32360439-C_ES, 32653960_ES, 32615807B_ES, 32363336-B_ES, 32161941_ES
+niño	SEXO-SUJETO-ASISTENCIA	17	8.5	53	nino	433152004, 67822003	C0008059, C0870221	Niño	nino	32594151_ES, 32586676_ES, 32427645_ES, 32292053_ES, 32614251_ES, 32594429_ES, 32583150A_ES, 32320556_ES, 32423738_ES, 32590725_ES, 32606105_ES, 32583150B_ES, 32119083_ES, 32427161_ES, 32602267_ES, 32292054_ES, 32161941_ES
+hombre	SEXO-SUJETO-ASISTENCIA	34	17.0	34	hombre	339947000, 30996001	C0025266, C0043210, C0086418	Hombre	hombre	32644205_ES, 32622819B_ES, 32427774_ES, 32622819A_ES, 32353183-B_ES, 32607304_Es, 32329981_ES, 32650881_ES, 32588475_ES, 32401344_ES, 32622483_ES, 32637086A_ES, 32612465B_ES, 32428291_ES, 32617903A_ES, 32553608­B_ES, 32612465C_ES, 32589794_ES, 32292915_ES, 32293714_ES, 32282871_ES, 32606044_ES, 32556106_ES, 32601756_ES, 32639089_ES, 32267140_ES, 32276139_B_ES, 32617903B_ES, 32586958_ES, 32557532_ES, 32587121_ES, 32554423_ES, 32590204_ES, 32402687-B_ES
+niña	SEXO-SUJETO-ASISTENCIA	7	3.5	23	nina	431549007	C0870604	niña	nina	32640066_ES, 32633439_ES, 32363217_ES, 32318729_ES, 32636116_ES, 32265235_ES, 32179908_ES
+china	PAIS	13	6.5	13	chino	223581004	C0008115	China	china	32232784_ES, 32277408_ES, 32168162_ES, 32292053_ES, 32238024_ES, 32359711_ES, 32073161_ES, 32174057_ES, 32119083_ES, 32266524_ES, 32269194_ES, 32292904_ES, 32179908_ES
+marzo de 2020	FECHAS	11	5.5	12	marzo de 2020			marzo de 2020	marzo de 2020	32644205_ES, 32639089_ES, 32352487_ES, 32318729_ES, 32650881_ES, 32401344_ES, 32653960_ES, 32620682_ES, 3229222_ES, 32363336-B_ES, 32222713_ES
+wuhan	TERRITORIO	9	4.5	10	wuhan			Wuhan	wuhan	32292053_ES, 32238024_ES, 32201125_ES, 32207255_ES, 32276139_ES, 32269194_ES, 32266524_ES, 32032497_ES, 32161941_ES
+marzo	FECHAS	9	4.5	10	marzo			marzo	marzo	32415334_ES, 32276139_B_ES, 32294258_ES, 32638347A_ES, 32612465A_ES, 32606044_ES, 32606105_ES, 32653960_ES, 32276139_C_ES
+febrero de 2020	FECHAS	3	1.5	9	febrero de 2020			febrero de 2020	febrero de 2020	32165205_ES, 32179908_ES, 32161941_ES
+febrero	FECHAS	5	2.5	8	febrero			febrero	febrero	32293714_ES, 32119083_ES, 32165205_ES, 32276139_C_ES, 32161941_ES
+mayo	FECHAS	3	1.5	5	mayo	223807006	C0454788	mayo	mayo	32638347A_ES, 32653960_ES, 32607564_ES
+italia	PAIS	4	2.0	5	italia	223668000	C0022277	Italia	italia	32205138_ES, 32415334_ES, 32275347_ES, 32267461_ES
+enero de 2020	FECHAS	5	2.5	5	enero de 2020			enero de 2020	enero de 2020	32293714_ES, 32222713_ES, 32032497_ES, 32292904_ES, 32179908_ES
+abril de 2020	FECHAS	5	2.5	5	abril de 2020			abril de 2020	abril de 2020	32363336_ES, 32639089_ES, 32638347B_ES, 32631645_ES, 32611659_ES
+64 años	EDAD-SUJETO-ASISTENCIA	5	2.5	5	64 ano			64 años	64 anos	32293714_ES, 32399449-B_ES, 32201125_ES, 32648092C_ES, 32278585_ES
+51 años	EDAD-SUJETO-ASISTENCIA	5	2.5	5	51 ano			51 años	51 anos	32205138_ES, 32651243_ES, 32607304_Es, 32399694­­_ES, 32556106_ES
+estados unidos	PAIS	4	2.0	4	estado unir			Estados Unidos	estados unidos	32363336_ES, 32618794_ES, 32651243_ES, 32222713_ES
+alemania	PAIS	2	1.0	4	alemania	223637004	C0017480	Alemania	alemania	32415334_ES, 32651243_ES
+afroamericana	ID-SUJETO-ASISTENCIA	4	2.0	4	afroamericano			afroamericana	afroamericana	32363336_ES, 32602610_ES, 32612465A_ES, 32292867_ES
+75 años	EDAD-SUJETO-ASISTENCIA	4	2.0	4	75 ano			75 años	75 anos	32650881_ES, 32617903A_ES, 32615807B_ES, 32353183-B_ES
+66 años	EDAD-SUJETO-ASISTENCIA	4	2.0	4	66 ano			66 años	66 anos	32399950_ES, 32402416­_ES, 32401344_ES, 32588185_ES
+50 años	EDAD-SUJETO-ASISTENCIA	4	2.0	4	50 ano			50 años	50 anos	32085846_ES, 32606044_ES, 32615807A_ES, 32292904_ES
+46 años	EDAD-SUJETO-ASISTENCIA	4	2.0	4	46 ano			46 años	46 anos	32165205_ES, 32637086A_ES, 32557532_ES, 32641443_ES
+29 de febrero	FECHAS	4	2.0	4	29 de febrero			29 de febrero	29 de febrero	32359711_ES, 32417987_ES, 32294258_ES, 32247016_ES
+27 años	EDAD-SUJETO-ASISTENCIA	4	2.0	4	27 ano			27 años	27 anos	32616174_ES, 32294273_ES, 32073161_ES, 32590725_ES
+21 años	EDAD-SUJETO-ASISTENCIA	4	2.0	4	21 ano			21 años	21 anos	32631770_ES, 32586958_ES, 32282027_ES, 32320556_ES
+varón	SEXO-SUJETO-ASISTENCIA	3	1.5	3	varón	248153007, 10052007	C0086582, C0086582	varón	varon	32364123_ES, 32402416­_ES, 32607564_ES
+japón	PAIS	3	1.5	3	japon	223583001	C0022341	Japón	japon	32269194_ES, 32238024_ES, 32611659_ES
+corea	PAIS	2	1.0	3	corear	271700006, 5027007	C0008489, C0008489, C0392702	Corea	corea	32282027_ES, 32222713_ES
+abril	FECHAS	3	1.5	3	abril			abril	abril	32653960_ES, 32359804_ES, 32617903B_ES
+UU	PAIS	3	1.5	3	UU			UU	UU	32585767_ES, 32415334_ES, 32622483_ES
+EE	PAIS	3	1.5	3	EE			EE	EE	32585767_ES, 32415334_ES, 32622483_ES
+80 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	80 ano			80 años	80 anos	32360439-C_ES, 32245909_ES, 32612435_ES
+74 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	74 ano			74 años	74 anos	32428291_ES, 32329981_ES, 32586778_ES
+71 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	71 ano			71 años	71 anos	32638890_ES, 32612465C_ES, 32587121_ES
+70 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	70 ano			70 años	70 anos	32602610_ES, 32359804_ES, 32292915_ES
+69 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	69 ano			69 años	69 anos	32562891_ES, 32275347_ES, 32589794_ES
+61 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	61 ano			61 años	61 anos	32609542_ES, 32631646_ES, 32246917_ES
+59 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	59 ano			59 años	59 anos	3229222_ES, 32402687_ES, 32623310_ES
+58 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	58 ano			58 años	58 anos	32363351_ES, 32612465B_ES, 32590204_ES
+57 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	57 ano			57 años	57 anos	32644205_ES, 32588475_ES, 32174057_ES
+56 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	56 ano			56 años	56 anos	32553608­_A_ES, 32424482_ES, 32222713_ES
+4 de marzo	FECHAS	3	1.5	3	4 de marzo			4 de marzo	4 de marzo	32417987_ES, 32276139_B_ES, 32294258_ES
+4 de febrero de 2020	FECHAS	3	1.5	3	4 de febrero de 2020			4 de febrero de 2020	4 de febrero de 2020	32165205_ES, 32179908_ES, 32161941_ES
+4 de febrero	FECHAS	3	1.5	3	4 de febrero			4 de febrero	4 de febrero	32119083_ES, 32207255_ES, 32161941_ES
+35 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	35 ano			35 años	35 anos	32585767_ES, 32618794_ES, 32238024_ES
+32 años	EDAD-SUJETO-ASISTENCIA	3	1.5	3	32 ano			32 años	32 anos	32294258_ES, 32402687-B_ES, 32592761_ES
+31 de marzo	FECHAS	3	1.5	3	31 de marzo			31 de marzo	31 de marzo	32267140_ES, 32606105_ES, 32617903B_ES
+28 de febrero	FECHAS	3	1.5	3	28 de febrero			28 de febrero	28 de febrero	32276139_C_ES, 32276139_ES, 32198834_ES
+27 de abril	FECHAS	3	1.5	3	27 de abril			27 de abril	27 de abril	32638347C_ES, 32617903B_ES, 32617903A_ES
+26 de marzo de 2020	FECHAS	3	1.5	3	26 de marzo de 2020			26 de marzo de 2020	26 de marzo de 2020	32363336_ES, 32650881_ES, 32606105_ES
+26 de marzo	FECHAS	3	1.5	3	26 de marzo			26 de marzo	26 de marzo	32612465B_ES, 32612465D_ES, 32619736_ES
+25 de marzo	FECHAS	3	1.5	3	25 de marzo			25 de marzo	25 de marzo	32644205_ES, 32617903A_ES, 32553608­B_ES
+25 de febrero	FECHAS	3	1.5	3	25 de febrero			25 de febrero	25 de febrero	32247016_ES, 32293714_ES, 32276139_B_ES
+21 de enero de 2020	FECHAS	3	1.5	3	21 de enero de 2020			21 de enero de 2020	21 de enero de 2020	32085846_ES, 32073161_ES, 32238024_ES
+2016	FECHAS	3	1.5	3	2016			2016	2016	32292915_ES, 32222713_ES, 32198834_ES
+16 de abril de 2020	FECHAS	2	1.0	3	16 de abril de 2020			16 de abril de 2020	16 de abril de 2020	32638347C_ES, 32620682_ES
+15 de marzo	FECHAS	3	1.5	3	15 de marzo			15 de marzo	15 de marzo	32606105_ES, 32612465D_ES, 32612465C_ES
+12 de marzo de 2020	FECHAS	3	1.5	3	12 de marzo de 2020			12 de marzo de 2020	12 de marzo de 2020	32412848_ES, 32606044_ES, 32247642_ES
+10 de febrero	FECHAS	3	1.5	3	10 de febrero			10 de febrero	10 de febrero	32283294_ES, 32293714_ES, 32207255_ES
+sur de california	TERRITORIO	1	0.5	2	sur de california			sur de California	sur de california	32222713_ES
+shanghái	TERRITORIO	2	1.0	2	shanghai			Shanghái	shanghai	32119083_ES, 32201125_ES
+provincia de hubei	TERRITORIO	2	1.0	2	provincia de hubei			provincia de Hubei	provincia de hubei	32277408_ES, 32179908_ES
+mayo de 2020	FECHAS	2	1.0	2	mayo de 2020			mayo de 2020	mayo de 2020	32620682_ES, 32607564_ES
+madrid	TERRITORIO	2	1.0	2	madrid			Madrid	madrid	32585767_ES, 32352487_ES
+lübeck	TERRITORIO	2	1.0	2	lubeck			Lübeck	lubeck	32415334_ES, 32651243_ES
+hospital neumológico de henan	HOSPITAL	1	0.5	2	hospital neumologico de henan			Hospital Neumológico de Henan	hospital neumologico de henan	32165205_ES
+hospital municipal de mantua	HOSPITAL	1	0.5	2	hospital municipal de mantua			hospital municipal de Mantua	hospital municipal de mantua	32401344_ES
+hospital maternoinfantil de wuhan	HOSPITAL	1	0.5	2	hospital maternoinfantil de wuhan			Hospital Maternoinfantil de Wuhan	hospital maternoinfantil de wuhan	32161941_ES
+hospital asociado de	HOSPITAL	1	0.5	2	hospital asociar de			Hospital Asociado de	hospital asociado de	32073161_ES
+francia	PAIS	2	1.0	2	francia	223666001	C0016674	Francia	francia	32594151_ES, 32623310_ES
+enero de 2019	FECHAS	1	0.5	2	enero de 2019			enero de 2019	enero de 2019	32606044_ES
+enero	FECHAS	2	1.0	2	enero			enero	enero	32085846_ES, 32207255_ES
+daegu	TERRITORIO	2	1.0	2	daegu			Daegu	daegu	32282027_ES, 32222713_ES
+ciudad de wuhan	TERRITORIO	2	1.0	2	ciudad de wuhan			ciudad de Wuhan	ciudad de wuhan	32168162_ES, 32293714_ES
+brasil	PAIS	2	1.0	2	brasil	223715002	C0006137	Brasil	brasil	32653906_ES, 32267461_ES
+9 de marzo	FECHAS	2	1.0	2	9 de marzo			9 de marzo	9 de marzo	32247016_ES, 32276139_ES
+84 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	84 ano			84 años	84 anos	32638347A_ES, 32638347C_ES
+83 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	83 ano			83 años	83 anos	32412848_ES, 32360439-B_ES
+8 de marzo	FECHAS	2	1.0	2	8 de marzo			8 de marzo	8 de marzo	32612465A_ES, 32553608­_A_ES
+72 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	72 ano			72 años	72 anos	32554423_ES, 32427774_ES
+68 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	68 ano			68 años	68 anos	32619798_ES, 32622483_ES
+65 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	65 ano			65 años	65 anos	32294340_ES, 32282871_ES
+63 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	63 ano			63 años	63 anos	32601756_ES, 32639089_ES
+6 de marzo de 2020	FECHAS	2	1.0	2	6 de marzo de 2020			6 de marzo de 2020	6 de marzo de 2020	32247016_ES, 32622819A_ES
+6 de febrero	FECHAS	2	1.0	2	6 de febrero			6 de febrero	6 de febrero	32119083_ES, 32276139_ES
+6 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	6 ano			6 años	6 anos	32636116_ES, 32633439_ES
+53 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	53 ano			53 años	53 anos	32593478_ES, 32615155_ES
+52 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	52 ano			52 años	52 anos	32425356_ES, 32196627_ES
+5 de febrero	FECHAS	2	1.0	2	5 de febrero			5 de febrero	5 de febrero	32207255_ES, 32161941_ES
+5 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	5 ano			5 años	5 anos	32640066_ES, 32583150A_ES
+49 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	49 ano			49 años	49 anos	32320556_ES, 32611761B_ES
+44 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	44 ano			44 años	44 anos	32292867_ES, 32276139_C_ES
+43 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	43 ano			43 años	43 anos	32364123_ES, 32267502_ES
+42 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	42 ano			42 años	42 anos	32617169_ES, 32247642_ES
+36 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	36 ano			36 años	36 anos	32423911_ES, 32554621_ES
+34 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	34 ano			34 años	34 anos	32266524_ES, 32161941_ES
+30 de enero	FECHAS	2	1.0	2	30 de enero			30 de enero	30 de enero	32238024_ES, 32246917_ES
+29 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	29 ano			29 años	29 anos	32637327B_ES, 32653960_ES
+29	FECHAS	2	1.0	2	29	264660002	C0450351	29	29	32277408_ES, 32651243_ES
+27 de febrero	FECHAS	2	1.0	2	27 de febrero			27 de febrero	27 de febrero	32283294_ES, 32276139_B_ES
+26 años	EDAD-SUJETO-ASISTENCIA	2	1.0	2	26 ano			26 años	26 anos	32317275_ES, 32363336-B_ES
+24 de marzo de 2020	FECHAS	2	1.0	2	24 de marzo de 2020			24 de marzo de 2020	24 de marzo de 2020	32638347A_ES, 32650881_ES
+23 de marzo de 2020	FECHAS	2	1.0	2	23 de marzo de 2020			23 de marzo de 2020	23 de marzo de 2020	32594151_ES, 32631645_ES
+23 de marzo	FECHAS	2	1.0	2	23 de marzo			23 de marzo	23 de marzo	32612465B_ES, 32612465A_ES
+22 de marzo	FECHAS	2	1.0	2	22 de marzo			22 de marzo	22 de marzo	32612465B_ES, 32612465A_ES
+21 de abril	FECHAS	2	1.0	2	21 de abril			21 de abril	21 de abril	32617903B_ES, 32638347B_ES
+2017	FECHAS	2	1.0	2	2017			2017	2017	32615155_ES, 32586778_ES
+20 de marzo	FECHAS	2	1.0	2	20 de marzo			20 de marzo	20 de marzo	32294258_ES, 32612465C_ES
+20 de febrero	FECHAS	2	1.0	2	20 de febrero			20 de febrero	20 de febrero	32165205_ES, 32276139_C_ES
+2 de febrero de 2020	FECHAS	2	1.0	2	2 de febrero de 2020			2 de febrero de 2020	2 de febrero de 2020	32119083_ES, 32179908_ES
+18 de febrero de 2020	FECHAS	2	1.0	2	18 de febrero de 2020			18 de febrero de 2020	18 de febrero de 2020	32165205_ES, 32161941_ES
+17 de marzo	FECHAS	2	1.0	2	17 de marzo			17 de marzo	17 de marzo	32415334_ES, 32612465D_ES
+16 de febrero	FECHAS	2	1.0	2	16 de febrero			16 de febrero	16 de febrero	32283294_ES, 32293714_ES
+15 de mayo	FECHAS	2	1.0	2	15 de mayo			15 de mayo	15 de mayo	32653906_ES, 32638347C_ES
+15 de marzo de 2020	FECHAS	2	1.0	2	15 de marzo de 2020			15 de marzo de 2020	15 de marzo de 2020	32267140_ES, 32588185_ES
+14 de marzo	FECHAS	2	1.0	2	14 de marzo			14 de marzo	14 de marzo	32612465B_ES, 32612465D_ES
+12 de marzo	FECHAS	2	1.0	2	12 de marzo			12 de marzo	12 de marzo	32612465B_ES, 32612465A_ES
+10 de marzo	FECHAS	2	1.0	2	10 de marzo			10 de marzo	10 de marzo	32359711_ES, 32612465A_ES
+1 de febrero de 2020	FECHAS	2	1.0	2	1 de febrero de 2020			1 de febrero de 2020	1 de febrero de 2020	32359711_ES, 32232784_ES
+zhejiang	TERRITORIO	1	0.5	1	zhejiang			Zhejiang	zhejiang	32359711_ES
+yiyang	PROFESION	1	0.5	1	yiyang			Yiyang	yiyang	32276139_B_ES
+wenzhou	TERRITORIO	1	0.5	1	wenzhou			Wenzhou	wenzhou	32359711_ES
+véneto	PAIS	1	0.5	1	veneto			Véneto	veneto	32205138_ES
+utah	TERRITORIO	1	0.5	1	utah	422281007	C0042124	Utah	utah	32222713_ES
+toscana	TERRITORIO	1	0.5	1	toscano			Toscana	toscana	32205138_ES
+tirol del Sur	TERRITORIO	1	0.5	1	tirol de+el sur			Tirol del Sur	tirol del Sur	32215898_ES
+singapur	PAIS	1	0.5	1	singapur	223593008	C0037173	Singapur	singapur	32639064_ES
+septiembre de 2015	FECHAS	1	0.5	1	septiembre de 2015			septiembre de 2015	septiembre de 2015	32631645_ES
+pulla	TERRITORIO	1	0.5	1	pulla			Pulla	pulla	32415334_ES
+provincia de wuhan	TERRITORIO	1	0.5	1	provincia de wuhan			provincia de Wuhan	provincia de wuhan	32174057_ES
+provincia de hunan	TERRITORIO	1	0.5	1	provincia de hunan			provincia de Hunan	provincia de hunan	32276139_ES
+provincia de guangdong	TERRITORIO	1	0.5	1	provincia de guangdong			provincia de Guangdong	provincia de guangdong	32292904_ES
+procedente de wuhan	TERRITORIO	1	0.5	1	procedente de wuhan			procedente de Wuhan	procedente de wuhan	32073161_ES
+polonia	PAIS	1	0.5	1	polonia	223640004	C0032356	Polonia	polonia	32636116_ES
+octubre de 2019	FECHAS	1	0.5	1	octubre de 2019			octubre de 2019	octubre de 2019	32606044_ES
+noviembre de 2011	FECHAS	1	0.5	1	noviembre de 2011			noviembre de 2011	noviembre de 2011	32401344_ES
+norte de italia	TERRITORIO	1	0.5	1	norte de italia			norte de Italia	norte de italia	32196627_ES
+marroquí	ID-SUJETO-ASISTENCIA	1	0.5	1	marroqui			marroquí	marroqui	32588185_ES
+manaus	TERRITORIO	1	0.5	1	manaus			Manaus	manaus	32638890_ES
+malasia	PAIS	1	0.5	1	malasio	223591005	C0024552	Malasia	malasia	32232784_ES
+lombardía	TERRITORIO	1	0.5	1	lombardia			Lombardía	lombardia	32593338_ES
+la lombardía	TERRITORIO	1	0.5	1	el lombardia			la Lombardía	la lombardia	32275347_ES
+junio	FECHAS	1	0.5	1	junio			junio	junio	32585767_ES
+julio de 2018	FECHAS	1	0.5	1	julio de 2018			julio de 2018	julio de 2018	32553608­B_ES
+irvine	TERRITORIO	1	0.5	1	irvine			Irvine	irvine	32585767_ES
+hospital universitario de guadalupe	HOSPITAL	1	0.5	1	hospital universitario de guadalupe			Hospital Universitario de Guadalupe	hospital universitario de guadalupe	32414534_ES
+hospital universitario de amiens	HOSPITAL	1	0.5	1	hospital universitario de amiens			Hospital Universitario de Amiens	hospital universitario de amiens	32594151_ES
+hospital universitario de aarhus	HOSPITAL	1	0.5	1	hospital universitario de aarhus			hospital universitario de Aarhus	hospital universitario de aarhus	32619798_ES
+hospital tingji	HOSPITAL	1	0.5	1	hospital tingji			Hospital Tingji	hospital tingji	32161941_ES
+hospital provincial de hunan	HOSPITAL	1	0.5	1	hospital provincial de hunan			Hospital Provincial de Hunan	hospital provincial de hunan	32174057_ES
+hospital popular de zhengzhou	HOSPITAL	1	0.5	1	hospital popular de zhengzhou			Hospital Popular de Zhengzhou	hospital popular de zhengzhou	32165205_ES
+hospital popular de wuwei	HOSPITAL	1	0.5	1	hospital popular de wuwei			Hospital Popular de Wuwei	hospital popular de wuwei	32073161_ES
+hospital policlínico para covid	HOSPITAL	1	0.5	1	hospital policlinico para covid			Hospital Policlínico para COVID	hospital policlinico para covid	32415334_ES
+hospital policlínico de bari	HOSPITAL	1	0.5	1	hospital policlinico de bari			Hospital Policlínico de Bari	hospital policlinico de bari	32415334_ES
+hospital maternoinfantil de la provincia de hubei	HOSPITAL	1	0.5	1	hospital maternoinfantil de el provincia de hubei			Hospital Maternoinfantil de la provincia de Hubei	hospital maternoinfantil de la provincia de hubei	32292053_ES
+hospital e prontosocorro delphina rinaldi abdel aziz	HOSPITAL	1	0.5	1	hospital y prontosocorro delphina rinaldi abdel aziz			Hospital e Pronto-Socorro Delphina Rinaldi Abdel Aziz	hospital e prontosocorro delphina rinaldi abdel aziz	32638890_ES
+hospital de luohe	HOSPITAL	1	0.5	1	hospital de luohe			Hospital de Luohe	hospital de luohe	32165205_ES
+hospital de la fundación jiménez díaz	HOSPITAL	1	0.5	1	hospital de el fundacion jimenez diaz			Hospital de la Fundación Jiménez Díaz	hospital de la fundacion jimenez diaz	32585767_ES
+hospital de la cruz roja japonesa de narita	HOSPITAL	1	0.5	1	hospital de el cruz rojo japonés de narita			Hospital de la Cruz Roja Japonesa de Narita	hospital de la cruz roja japonesa de narita	32238024_ES
+hangzhou	TERRITORIO	1	0.5	1	hangzhou			Hangzhou	hangzhou	32232784_ES
+guinea	PAIS	1	0.5	1	guineo			Guinea	guinea	32631646_ES
+francesas	PAIS	1	0.5	1	francés			francesas	francesas	32414534_ES
+estrasburgo	TERRITORIO	1	0.5	1	estrasburgo			Estrasburgo	estrasburgo	32623310_ES
+españa	PAIS	1	0.5	1	espana	223680008	C0037747	España	espana	32631646_ES
+escocia	PAIS	1	0.5	1	escocia	223678002	C0036453	Escocia	escocia	32205138_ES
+ecuatorial	PAIS	1	0.5	1	ecuatorial			Ecuatorial	ecuatorial	32631646_ES
+del Sur	TERRITORIO	1	0.5	1	de+el sur			del Sur	del Sur	32222713_ES
+d12	FECHAS	1	0.5	1	d12			D+12	d12	32198834_ES
+cuarenta años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	40 ano			cuarenta años	cuarenta anos	32267483_ES
+covid19	ID-SUJETO-ASISTENCIA	1	0.5	1	covid19	840533007		COVID-19	covid19	32282871_ES
+ciudad de la «zona roja»	CALLE	1	0.5	1	ciudad de el zona rojo			ciudad de la «zona roja»	ciudad de la zona roja	32275347_ES
+cincuenta años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	50 ano			cincuenta años	cincuenta anos	32247016_ES
+california	TERRITORIO	1	0.5	1	california	224043007	C0006754	California	california	32585767_ES
+bérgamo	TERRITORIO	1	0.5	1	bergamo			Bérgamo	bergamo	32196627_ES
+bolonia	TERRITORIO	1	0.5	1	bolonia			Bolonia	bolonia	32588185_ES
+afrocaribeño	ID-SUJETO-ASISTENCIA	1	0.5	1	afrocaribeno	413465009	C0814949	afrocaribeño	afrocaribeno	32617903B_ES
+abril de 2019	FECHAS	1	0.5	1	abril de 2019			abril de 2019	abril de 2019	32294258_ES
+São paulo	TERRITORIO	1	0.5	1	sao paular			São Paulo	Sao paulo	32267461_ES
+San francisco	TERRITORIO	1	0.5	1	san francisco			San Francisco	San francisco	32318729_ES
+San diego	TERRITORIO	1	0.5	1	san diego			San Diego	San diego	32651243_ES
+94 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	94 ano			94 años	94 anos	32282871_B_ES
+92 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	92 ano			92 años	92 anos	32399451_ES
+90 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	90 ano			90 años	90 anos	32638347B_ES
+9 de febrero de 2020	FECHAS	1	0.5	1	9 de febrero de 2020			9 de febrero de 2020	9 de febrero de 2020	32165205_ES
+9 de febrero	FECHAS	1	0.5	1	9 de febrero			9 de febrero	9 de febrero	32293714_ES
+9 de covid	FECHAS	1	0.5	1	9 de covid			9 de covid	9 de covid	32637327B_ES
+9 de abril	FECHAS	1	0.5	1	9 de abril			9 de abril	9 de abril	32614251_ES
+9	FECHAS	1	0.5	1	9	36987007	C0205455	9	9	32594429_ES
+88 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	88 ano			88 años	88 anos	32360439-D_ES
+86 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	86 ano			86 años	86 anos	32612465A_ES
+82 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	82 ano			82 años	82 anos	32399449_ES
+81 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	81 ano			81 años	81 anos	32276139_B_ES
+8 de mayo	FECHAS	1	0.5	1	8 de mayo			8 de mayo	8 de mayo	32653906_ES
+8 de febrero	FECHAS	1	0.5	1	8 de febrero			8 de febrero	8 de febrero	32119083_ES
+8 de abril de 2020	FECHAS	1	0.5	1	8 de abril de 2020			8 de abril de 2020	8 de abril de 2020	32620682_ES
+8 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	8 ano			8 años	8 anos	32427645_ES
+79 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	79 ano			79 años	79 anos	32622819A_ES
+78 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	78 ano			78 años	78 anos	32351657_ES
+76 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	76 ano			76 años	76 anos	32637437­_ES
+7 de mayo	FECHAS	1	0.5	1	7 de mayo			7 de mayo	7 de mayo	32638347B_ES
+7 de marzo	FECHAS	1	0.5	1	7 de marzo			7 de marzo	7 de marzo	32359711_ES
+7 de abril	FECHAS	1	0.5	1	7 de abril			7 de abril	7 de abril	32638347A_ES
+7 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	7 ano			7 años	7 anos	32653960_ES
+67 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	67 ano			67 años	67 anos	32637266A_ES
+62 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	62 ano			62 años	62 anos	32553608­B_ES
+6 meses	EDAD-SUJETO-ASISTENCIA	1	0.5	1	6 mes			6 meses	6 meses	32265235_ES
+6 de noviembre	FECHAS	1	0.5	1	6 de noviembre			6 de noviembre	6 de noviembre	32294258_ES
+6 de mayo de 2020	FECHAS	1	0.5	1	6 de mayo de 2020			6 de mayo de 2020	6 de mayo de 2020	32620682_ES
+6 de mayo	FECHAS	1	0.5	1	6 de mayo			6 de mayo	6 de mayo	32638347C_ES
+6 de abril de 2020	FECHAS	1	0.5	1	6 de abril de 2020			6 de abril de 2020	6 de abril de 2020	32614251_ES
+5 meses	EDAD-SUJETO-ASISTENCIA	1	0.5	1	5 mes			5 meses	5 meses	32423738_ES
+5 de mayo	FECHAS	1	0.5	1	5 de mayo			5 de mayo	5 de mayo	32653906_ES
+5 de marzo	FECHAS	1	0.5	1	5 de marzo			5 de marzo	5 de marzo	32276139_ES
+5 de febrero de 2020	FECHAS	1	0.5	1	5 de febrero de 2020			5 de febrero de 2020	5 de febrero de 2020	32165205_ES
+5 de abril de 2020	FECHAS	1	0.5	1	5 de abril de 2020			5 de abril de 2020	5 de abril de 2020	32614251_ES
+5 de abril	FECHAS	1	0.5	1	5 de abril			5 de abril	5 de abril	32638347B_ES
+47 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	47 ano			47 años	47 anos	32276139_ES
+45 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	45 ano			45 años	45 anos	32363336_ES
+4 de mayo de 2020	FECHAS	1	0.5	1	4 de mayo de 2020			4 de mayo de 2020	4 de mayo de 2020	32620682_ES
+4 de mayo	FECHAS	1	0.5	1	4 de mayo			4 de mayo	4 de mayo	32638347A_ES
+39 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	39 ano			39 años	39 anos	32635747_ES
+37 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	37 ano			37 años	37 anos	32589314_ES
+31 de enero de 2020	FECHAS	1	0.5	1	31 de enero de 2020			31 de enero de 2020	31 de enero de 2020	32179908_ES
+31 de enero	FECHAS	1	0.5	1	31 de enero			31 de enero	31 de enero	32238024_ES
+31 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	31 ano			31 años	31 anos	32426200_ES
+30 de marzo	FECHAS	1	0.5	1	30 de marzo			30 de marzo	30 de marzo	32612465D_ES
+30 de abril de	FECHAS	1	0.5	1	30 de abril de			30 de abril de	30 de abril de	32639089_ES
+30 de abril	FECHAS	1	0.5	1	30 de abril			30 de abril	30 de abril	32415334_ES
+30 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	30 ano			30 años	30 anos	32605712_ES
+3 de marzo	FECHAS	1	0.5	1	3 de marzo			3 de marzo	3 de marzo	32276139_B_ES
+3 de febrero de 2020	FECHAS	1	0.5	1	3 de febrero de 2020			3 de febrero de 2020	3 de febrero de 2020	32292053_ES
+29 y 30 de enero	FECHAS	1	0.5	1	29 y 30 de enero			29 y 30 de enero	29 y 30 de enero	32073161_ES
+29 de marzo	FECHAS	1	0.5	1	29 de marzo			29 de marzo	29 de marzo	32617903B_ES
+29 de febrero y el 3 de marzo	FECHAS	1	0.5	1	29 de febrero y el 3 de marzo			29 de febrero y el 3 de marzo	29 de febrero y el 3 de marzo	32276139_ES
+29 de abril de 2020	FECHAS	1	0.5	1	29 de abril de 2020			29 de abril de 2020	29 de abril de 2020	32620682_ES
+28 de febrero de 2020	FECHAS	1	0.5	1	28 de febrero de 2020			28 de febrero de 2020	28 de febrero de 2020	32417987_ES
+28 de enero	FECHAS	1	0.5	1	28 de enero			28 de enero	28 de enero	32283294_ES
+28 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	28 ano			28 años	28 anos	32294264_ES
+27 de marzo de 2020	FECHAS	1	0.5	1	27 de marzo de 2020			27 de marzo de 2020	27 de marzo de 2020	32363336-B_ES
+26 de febrero	FECHAS	1	0.5	1	26 de febrero			26 de febrero	26 de febrero	32294258_ES
+26 de enero	FECHAS	1	0.5	1	26 de enero			26 de enero	26 de enero	32207255_ES
+25 de marzo de 2020	FECHAS	1	0.5	1	25 de marzo de 2020			25 de marzo de 2020	25 de marzo de 2020	32363336_ES
+25 de enero de 2020	FECHAS	1	0.5	1	25 de enero de 2020			25 de enero de 2020	25 de enero de 2020	32032497_ES
+25 de abril de 2020	FECHAS	1	0.5	1	25 de abril de 2020			25 de abril de 2020	25 de abril de 2020	32607564_ES
+25 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	25 ano			25 años	25 anos	32611761A_ES
+24 de febrero	FECHAS	1	0.5	1	24 de febrero			24 de febrero	24 de febrero	32283294_ES
+24 de enero	FECHAS	1	0.5	1	24 de enero			24 de enero	24 de enero	32179908_ES
+23 de mayo	FECHAS	1	0.5	1	23 de mayo			23 de mayo	23 de mayo	32638347C_ES
+23 de enero de 2020	FECHAS	1	0.5	1	23 de enero de 2020			23 de enero de 2020	23 de enero de 2020	32246917_ES
+23 de enero	FECHAS	1	0.5	1	23 de enero			23 de enero	23 de enero	32276139_ES
+23 de diciembre	FECHAS	1	0.5	1	23 de diciembre			23 de diciembre	23 de diciembre	32294258_ES
+22 de marzo de 2020	FECHAS	1	0.5	1	22 de marzo de 2020			22 de marzo de 2020	22 de marzo de 2020	32619798_ES
+22 de enero	FECHAS	1	0.5	1	22 de enero			22 de enero	22 de enero	32085846_ES
+21 de febrero	FECHAS	1	0.5	1	21 de febrero			21 de febrero	21 de febrero	32276139_B_ES
+21 de enero	FECHAS	1	0.5	1	21 de enero			21 de enero	21 de enero	32085846_ES
+2020	FECHAS	1	0.5	1	2020			2020	2020	32639089_ES
+2019	FECHAS	1	0.5	1	2019			2019	2019	32644205_ES
+2015	FECHAS	1	0.5	1	2015			2015	2015	32612435_ES
+2013	FECHAS	1	0.5	1	2013			2013	2013	32644205_ES
+2011	FECHAS	1	0.5	1	2011			2011	2011	32617903A_ES
+2003	FECHAS	1	0.5	1	2003			2003	2003	32198834_ES
+20 de marzo de 2020	FECHAS	1	0.5	1	20 de marzo de 2020			20 de marzo de 2020	20 de marzo de 2020	32250095_ES
+20 de enero	FECHAS	1	0.5	1	20 de enero			20 de enero	20 de enero	32293714_ES
+20 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	20 ano			20 años	20 anos	32614251_ES
+2 de marzo	FECHAS	1	0.5	1	2 de marzo			2 de marzo	2 de marzo	32276139_C_ES
+2 de abril de 2020	FECHAS	1	0.5	1	2 de abril de 2020			2 de abril de 2020	2 de abril de 2020	32399694­­_ES
+2 de abril	FECHAS	1	0.5	1	2 de abril			2 de abril	2 de abril	32606044_ES
+1996	FECHAS	1	0.5	1	1996			1996	1996	32644205_ES
+19 de mayo	FECHAS	1	0.5	1	19 de mayo			19 de mayo	19 de mayo	32638347B_ES
+19 de enero	FECHAS	1	0.5	1	19 de enero			19 de enero	19 de enero	32246917_ES
+19 de abril de 2020	FECHAS	1	0.5	1	19 de abril de 2020			19 de abril de 2020	19 de abril de 2020	32620682_ES
+19 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	19 ano			19 años	19 anos	32584431_ES
+18 de marzo	FECHAS	1	0.5	1	18 de marzo			18 de marzo	18 de marzo	32612465A_ES
+18 de enero	FECHAS	1	0.5	1	18 de enero			18 de enero	18 de enero	32073161_ES
+18 de abril	FECHAS	1	0.5	1	18 de abril			18 de abril	18 de abril	32644205_ES
+18 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	18 ano			18 años	18 anos	32637266B_ES
+17 de mayo	FECHAS	1	0.5	1	17 de mayo			17 de mayo	17 de mayo	32638347A_ES
+17 de febrero de 2020	FECHAS	1	0.5	1	17 de febrero de 2020			17 de febrero de 2020	17 de febrero de 2020	32161941_ES
+17 de febrero	FECHAS	1	0.5	1	17 de febrero			17 de febrero	17 de febrero	32119083_ES
+16 de marzo	FECHAS	1	0.5	1	16 de marzo			16 de marzo	16 de marzo	32612465A_ES
+16 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	16 ano			16 años	16 anos	32639461_ES
+15 de abril de 2020	FECHAS	1	0.5	1	15 de abril de 2020			15 de abril de 2020	15 de abril de 2020	32639089_ES
+15 de abril	FECHAS	1	0.5	1	15 de abril			15 de abril	15 de abril	32415334_ES
+15 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	15 ano			15 años	15 anos	32653906_ES
+14 de mayo	FECHAS	1	0.5	1	14 de mayo			14 de mayo	14 de mayo	32638347B_ES
+14 de febrero de 2020	FECHAS	1	0.5	1	14 de febrero de 2020			14 de febrero de 2020	14 de febrero de 2020	32165205_ES
+14 de febrero	FECHAS	1	0.5	1	14 de febrero			14 de febrero	14 de febrero	32165205_ES
+14 de abril	FECHAS	1	0.5	1	14 de abril			14 de abril	14 de abril	32585767_ES
+14 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	14 ano			14 años	14 anos	32427161_ES
+13 de noviembre de 2019	FECHAS	1	0.5	1	13 de noviembre de 2019			13 de noviembre de 2019	13 de noviembre de 2019	32292053_ES
+13 de mayo de 2020	FECHAS	1	0.5	1	13 de mayo de 2020			13 de mayo de 2020	13 de mayo de 2020	32607564_ES
+13 de marzo	FECHAS	1	0.5	1	13 de marzo			13 de marzo	13 de marzo	32294258_ES
+13 de febrero	FECHAS	1	0.5	1	13 de febrero			13 de febrero	13 de febrero	32276139_C_ES
+12 de mayo	FECHAS	1	0.5	1	12 de mayo			12 de mayo	12 de mayo	32638347A_ES
+12 de febrero de 2020	FECHAS	1	0.5	1	12 de febrero de 2020			12 de febrero de 2020	12 de febrero de 2020	32245909_ES
+12 de enero	FECHAS	1	0.5	1	12 de enero			12 de enero	12 de enero	32085846_ES
+12 de covid	FECHAS	1	0.5	1	12 de covid			12 de covid	12 de covid	32637327B_ES
+12 de abril de 2020	FECHAS	1	0.5	1	12 de abril de 2020			12 de abril de 2020	12 de abril de 2020	32641443_ES
+11 de mayo	FECHAS	1	0.5	1	11 de mayo			11 de mayo	11 de mayo	32638347B_ES
+11 de febrero	FECHAS	1	0.5	1	11 de febrero			11 de febrero	11 de febrero	32119083_ES
+11 años	EDAD-SUJETO-ASISTENCIA	1	0.5	1	11 ano			11 años	11 anos	32586676_ES
+10 de mayo	FECHAS	1	0.5	1	10 de mayo			10 de mayo	10 de mayo	32638347A_ES
+10 de enero de 2020	FECHAS	1	0.5	1	10 de enero de 2020			10 de enero de 2020	10 de enero de 2020	32276139_ES
+1 de febrero	FECHAS	1	0.5	1	1 de febrero			1 de febrero	1 de febrero	32207255_ES
+1 de enero de 2020	FECHAS	1	0.5	1	1 de enero de 2020			1 de enero de 2020	1 de enero de 2020	32032497_ES
+1 de abril de 2020	FECHAS	1	0.5	1	1 de abril de 2020			1 de abril de 2020	1 de abril de 2020	32363336-B_ES
+1 de abril	FECHAS	1	0.5	1	1 de abril			1 de abril	1 de abril	32359804_ES

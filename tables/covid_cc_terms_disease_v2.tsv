@@ -1,0 +1,947 @@
+span_lower	label	doc_freq	doc_perc(%)	term_freq	lemma	snomedid	umls_cui	original_span	span_normalized	filename
+hipertension	ENFERMEDAD	40	20.0	41	hipertensión			hipertensión	hipertensión	32415334_ES, 32360439-C_ES, 32360439-B_ES, 32427774_ES, 32586778_ES, 32607304_Es, 32638890_ES, 32602610_ES, 32650881_ES, 32619736_ES, 32637086A_ES, 32617903A_ES, 32612465C_ES, 32363351_ES, 32648092C_ES, 32637437­_ES, 32589794_ES, 32637086B_ES, 32399449_ES, 32277408_ES, 32352487_ES, 32612465D_ES, 32360439_ES, 32293714_ES, 32638347A_ES, 32612465A_ES, 32294340_ES, 32292904_ES, 32648092B_ES, 32360439-D_ES, 32586958_ES, 32617903B_ES, 32638347B_ES, 32205138_ES, 32352486_ES, 32637266A_ES, 32427774-B_ES, 32637327B_ES, 32618794_ES, 32161941_ES
+covid19	ENFERMEDAD	34	17.0	36	covid19	840533007		COVID-19	covid19	32415334_ES, 32292053_ES, 32360439-B_ES, 32320556_ES, 32638347C_ES, 32276139_ES, 32165205_ES, 32427161_ES, 32423911_ES, 32427645_ES, 32589931_ES, 32425356_ES, 32631645_ES, 32399450_ES, 32245909_ES, 32364123_ES, 32616174_ES, 32292867_ES, 32631770_ES, 32267461_ES, 32612435_ES, 32636116_ES, 32638347A_ES, 32266524_ES, 32556106_ES, 32631646_ES, 32640066_ES, 32593478_ES, 32639089_ES, 32615807C_ES, 32638347B_ES, 32593338_ES, 32352486_ES, 32363336-B_ES
+infeccion por sarscov2	ENFERMEDAD	19	9.5	21	infección por sarscov2			infección por SARS-CoV-2	infección por sarscov2	32415334_ES, 32353183_ES, 32353183-B_ES, 32423911_ES, 32554811_ES, 32283294_ES, 32267483_ES, 32267502_ES, 32418288_ES, 32208010_ES, 32653906_ES, 32606044_ES, 32641443_ES, 32412848_ES, 32360384_ES, 32605712_ES, 32618794_ES, 32590204_ES, 32161941_ES
+neumonia por covid19	ENFERMEDAD	16	8.0	18	neumonía por covid19			neumonía por COVID-19	neumonía por covid19	32399449_ES, 32593478_ES, 32208010_ES, 32399449-B_ES, 32589931_ES, 32637266A_ES, 32428291_ES, 32606044_ES, 32351657_ES, 32553608­B_ES, 32589314_ES, 32245909_ES, 32399694­­_ES, 32292904_ES, 32292915_ES, 32611761B_ES
+derrame pleural	ENFERMEDAD	14	7.0	18	derrame pleural	60046008	C0032227	derrame pleural	derrame pleural	32292867_ES, 32208010_ES, 32427645_ES, 32399449-B_ES, 32638347B_ES, 32635747_ES, 32557532_ES, 32278585_ES, 32637086B_ES, 32282871_B_ES, 32174057_ES, 32609542_ES, 32602267_ES, 32222713_ES
+taquicardia	ENFERMEDAD	17	8.5	17	taquicardia	3424008	C0039231	taquicardia	taquicardia	32363336_ES, 32593478_ES, 32586958_ES, 32360439_ES, 32360384_ES, 32427645_ES, 32318729_ES, 32320556_ES, 32353183_ES, 32351657_ES, 32612465C_ES, 32631838_ES, 32584431_ES, 32586778_ES, 32427161_ES, 32602267_ES, 32637086B_ES
+linfocitopenia	ENFERMEDAD	16	8.0	17	linfocitopenia	48813009	C0024312, C0300946	linfocitopenia	linfocitopenia	32554811_ES, 32586958_ES, 32609542_ES, 32208010_ES, 32631770_ES, 32205138_ES, 32554425_ES, 32588475_ES, 32359804_ES, 32246917_ES, 32353183_ES, 32553608­B_ES, 32351657_ES, 32399451_ES, 32648092C_ES, 32427161_ES
+gestacion	ENFERMEDAD	13	6.5	17	gestación			gestación	gestación	32594151_ES, 32363336_ES, 32637327A_ES, 32363336-B_ES, 32363217_ES, 32614251_ES, 32594429_ES, 32590725_ES, 32119083_ES, 32637327B_ES, 32618794_ES, 32292054_ES, 32161941_ES
+neumonia	ENFERMEDAD	14	7.0	16	neumonía			neumonía	neumonía	32589314_ES, 32415334_ES, 32267140_ES, 32208010_ES, 32623310_ES, 32425356_ES, 32607304_Es, 32619798_ES, 32622819A_ES, 32611659_ES, 32426200_ES, 32606105_ES, 32364123_ES, 32179908_ES
+trombocitopenia	ENFERMEDAD	15	7.5	15	trombocitopenia	415116008, 70786006, 302215000	C0040034, C0040034, C0040034, C0392386	trombocitopenia	trombocitopenia	32427645_ES, 32250095_ES, 32617169_ES, 32554425_ES, 32636116_ES, 32651243_ES, 32246917_ES, 32196627_ES, 32359711_ES, 32294340_ES, 32399450_ES, 32622819A_ES, 32587121_ES, 32198834_ES, 32427161_ES
+infeccion por covid19	ENFERMEDAD	12	6.0	15	infección por covid19			infección por COVID-19	infección por covid19	32267461_ES, 32637266B_ES, 32554425_ES, 32623310_ES, 32423738_ES, 32363351_ES, 32174057_ES, 32292904_ES, 32399694­­_ES, 32653960_ES, 32363336-B_ES, 32423911_ES
+sarscov2	ENFERMEDAD	12	6.0	13	sarscov2			SARS-CoV-2	sarscov2	32601756_ES, 32415334_ES, 32267140_ES, 32639461_ES, 32635747_ES, 32615155_ES, 32401344_ES, 32607564_ES, 32622483_ES, 32637086A_ES, 32653906_ES, 32245909_ES
+infeccion	ENFERMEDAD	13	6.5	13	infección			infección	infección	32589314_ES, 32277408_ES, 32593478_ES, 32588185_ES, 32318729_ES, 32594429_ES, 32294258_ES, 32638347C_ES, 32606044_ES, 32351657_ES, 32399451_ES, 32639064_ES, 32265235_ES
+diabetes mellitus	ENFERMEDAD	13	6.5	13	diabetes mellitus	73211009	C0011849	diabetes mellitus	diabetes mellitus	32611659_ES, 32638347B_ES, 32623310_ES, 32638347A_ES, 32612465B_ES, 32612465A_ES, 32589794_ES, 32399450_ES, 32637266A_ES, 32631838_ES, 32399451_ES, 32653960_ES, 32648092B_ES
+anosmia	ENFERMEDAD	11	5.5	13	anosmia	44169009	C0003126	anosmia	anosmia	32594151_ES, 32294264_ES, 32592761_ES, 32318729_ES, 32605712_ES, 32615155_ES, 32606105_ES, 32631838_ES, 32611659_ES, 32653960_ES, 32589794_ES
+sindrome de dificultad respiratoria aguda	ENFERMEDAD	12	6.0	12	síndrome de dificultad respiratorio agudo			síndrome de dificultad respiratoria aguda	síndrome de dificultad respiratoria aguda	32639461_ES, 32085846_ES, 32593338_ES, 32617169_ES, 32292915_ES, 32359711_ES, 32207255_ES, 32363351_ES, 32399451_ES, 32426200_ES, 32607304_Es, 32222713_ES
+lesion renal aguda	ENFERMEDAD	10	5.0	12	lesión renal agudo			lesión renal aguda	lesión renal aguda	32612465D_ES, 32617903B_ES, 32292867_ES, 32637266B_ES, 32612465B_ES, 32359711_ES, 32637266A_ES, 32617903A_ES, 32426200_ES, 32620682_ES
+derrame pericardico	ENFERMEDAD	10	5.0	12	derrame pericárdico			derrame pericárdico	derrame pericárdico	32277408_ES, 32427645_ES, 32635747_ES, 32593338_ES, 32622823_ES, 32267502_ES, 32631645_ES, 32584431_ES, 3229222_ES, 32265235_ES
+neumonia virica	ENFERMEDAD	9	4.5	11	neumonía vírico			neumonía vírica	neumonía vírica	32277408_ES, 32412848_ES, 32292053_ES, 32208010_ES, 32612435_ES, 32402687_ES, 32590725_ES, 32161941_ES, 32402687-B_ES
+insuficiencia respiratoria	ENFERMEDAD	11	5.5	11	insuficiencia respiratorio	409623005, 51395007, 297107002	C0035229, C0035229, C0035229	insuficiencia respiratoria	insuficiencia respiratoria	32616174_ES, 32174057_ES, 32250095_ES, 32594429_ES, 32638347A_ES, 32612465A_ES, 32583150B_ES, 32617903A_ES, 32606105_ES, 32198834_ES, 32399694­­_ES
+hipotension	ENFERMEDAD	10	5.0	11	hipotensión			hipotensión	hipotensión	32640066_ES, 32360384_ES, 32589931_ES, 32320556_ES, 32622483_ES, 32617223_ES, 32426200_ES, 32427161_ES, 32638890_ES, 32275347_ES
+diabetes	ENFERMEDAD	10	5.0	11	diabetes			diabetes	diabetes	32415334_ES, 32293714_ES, 32292867_ES, 32637437­_ES, 32589794_ES, 32653960_ES, 32615807B_ES, 32292904_ES, 32292915_ES, 32161941_ES
+taquicardia sinusal	ENFERMEDAD	10	5.0	10	taquicardia sinusal	11092001	C0039239	taquicardia sinusal	taquicardia sinusal	32640066_ES, 32399449_ES, 32277408_ES, 32360384_ES, 32637266B_ES, 32584431_ES, 32363351_ES, 32586778_ES, 32423911_ES, 32265235_ES
+hipertension arterial	ENFERMEDAD	9	4.5	9	hipertensión arterial			hipertensión arterial	hipertensión arterial	32198834_ES, 32329981_ES, 32557532_ES, 32622483_ES, 32631645_ES, 32638347C_ES, 32399451_ES, 3229222_ES, 32631646_ES
+neumonia atipica	ENFERMEDAD	5	2.5	8	neumonía atípico			neumonía atípica	neumonía atípica	32363336_ES, 32360439_ES, 32352487_ES, 32222713_ES, 32292915_ES
+nefropatia cronica	ENFERMEDAD	7	3.5	8	nefropatía crónico			nefropatía crónica	nefropatía crónica	32360439-D_ES, 32612465D_ES, 32292867_ES, 32612465B_ES, 32612465C_ES, 32638890_ES, 32292915_ES
+hipotiroidismo	ENFERMEDAD	8	4.0	8	hipotiroidismo	40930008	C0020676	hipotiroidismo	hipotiroidismo	32329981_ES, 32638347B_ES, 32637266B_ES, 32363217_ES, 32619736_ES, 32631645_ES, 32402687_ES, 32161941_ES
+sindrome de dificultad respiratoria aguda por coronavirus 2	ENFERMEDAD	7	3.5	7	síndrome de dificultad respiratorio agudo por coronavirus 2			síndrome de dificultad respiratoria aguda por coronavirus 2	síndrome de dificultad respiratoria aguda por coronavirus 2	32593478_ES, 32605766_ES, 32623310_ES, 32586778_ES, 32619798_ES, 32631838_ES, 32590725_ES
+sdra	ENFERMEDAD	6	3.0	7	sdra			SDRA	sdra	32277408_ES, 32363351_ES, 32399451_ES, 32426200_ES, 32607304_Es, 32222713_ES
+obesidad	ENFERMEDAD	7	3.5	7	obesidad	414916001, 5476005	C0028754, C0028754, C0451819, C1563743	obesidad	obesidad	32363336_ES, 32601756_ES, 32267140_ES, 32650881_ES, 32631645_ES, 32553608­B_ES, 32292915_ES
+embolia pulmonar	ENFERMEDAD	6	3.0	7	embolia pulmonar	59282003	C0034065	embolia pulmonar	embolia pulmonar	32399449_ES, 32415334_ES, 32267502_ES, 32638347C_ES, 32351657_ES, 32631838_ES
+embarazo	ENFERMEDAD	7	3.5	7	embarazo	289908002	C0032961	embarazo	embarazo	32363336_ES, 32637327A_ES, 32363217_ES, 32590725_ES, 32637327B_ES, 32363336-B_ES, 32161941_ES
+asma	ENFERMEDAD	6	3.0	7	asma	21341004, 187687003, 195967001	C0004096, C0004096, C0004096, C0085129, C1260881, C1319018	asma	asma	32553608­_A_ES, 32292053_ES, 32073161_ES, 32427774-B_ES, 32553608­B_ES, 32618794_ES
+varicela zoster	ENFERMEDAD	6	3.0	6	varicela zóster			varicela zóster	varicela zóster	32563170_ES, 32636116_ES, 32653906_ES, 32554423_ES, 32590204_ES, 32161941_ES
+trombosis venosa profunda	ENFERMEDAD	6	3.0	6	trombosis venoso profundo	128053003	C0149871	trombosis venosa profunda	trombosis venosa profunda	32615807A_ES, 32402687_ES, 32399950_ES, 32426200_ES, 32631646_ES, 32402687-B_ES
+neumotorax	ENFERMEDAD	5	2.5	6	neumotórax			neumotórax	neumotórax	32222713_ES, 32320556_ES, 32423911_ES, 32317275_ES, 32207255_ES
+lesiones cutaneas	ENFERMEDAD	5	2.5	6	lesión cutáneo			lesiones cutáneas	lesiones cutáneas	32294264_ES, 32352487_ES, 32425356_ES, 32584431_ES, 32589314_ES
+insuficiencia mitral	ENFERMEDAD	5	2.5	6	insuficiencia mitral	48724000	C0026266	insuficiencia mitral	insuficiencia mitral	32554811_ES, 32427645_ES, 32412848_ES, 32639461_ES, 32631645_ES
+hemorragia	ENFERMEDAD	6	3.0	6	hemorragia	131148009, 50960005	C0019080, C0019080	hemorragia	hemorragia	32401344_ES, 32622483_ES, 32583150B_ES, 32590725_ES, 32426200_ES, 32554425_ES
+fibrilacion auricular	ENFERMEDAD	5	2.5	6	fibrilación auricular			fibrilación auricular	fibrilación auricular	32329981_ES, 32638347B_ES, 32638347A_ES, 32617223_ES, 32222713_ES
+dislipidemia	ENFERMEDAD	6	3.0	6	dislipidemia	370992007	C0242339	dislipidemia	dislipidemia	32292867_ES, 32360439_ES, 32617903A_ES, 32648092A_ES, 32363351_ES, 32648092B_ES
+diabetes mellitus de tipo 2	ENFERMEDAD	6	3.0	6	diabetes mellitus de tipo 2	44054006	C0011860	diabetes mellitus de tipo 2	diabetes mellitus de tipo 2	32617903B_ES, 32292867_ES, 32360439-B_ES, 32622819A_ES, 32363351_ES, 32638890_ES
+diabetes de tipo 2	ENFERMEDAD	6	3.0	6	diabetes de tipo 2	405751000	C1320657	diabetes de tipo 2	diabetes de tipo 2	32602610_ES, 32329981_ES, 32619736_ES, 32073161_ES, 32618794_ES, 32653960_ES
+conjuntivitis	ENFERMEDAD	5	2.5	6	conjuntivitis	9826008	C0009763	conjuntivitis	conjuntivitis	32640066_ES, 32639461_ES, 32417987_ES, 32427161_ES, 32265235_ES
+choque septico	ENFERMEDAD	6	3.0	6	choque séptico			choque séptico	choque séptico	32277408_ES, 32622823_ES, 32282871_ES, 32359711_ES, 32617223_ES, 32275347_ES
+paro cardiaco	ENFERMEDAD	4	2.0	5	paro cardíaco			paro cardíaco	paro cardíaco	32423738_ES, 32360384_ES, 32615807B_ES, 32615807C_ES
+neumonia bilateral	ENFERMEDAD	5	2.5	5	neumonía bilateral			neumonía bilateral	neumonía bilateral	32639089_ES, 32622483_ES, 32282871_ES, 32245909_ES, 32399451_ES
+miocarditis aguda	ENFERMEDAD	3	1.5	5	miocarditis agudo	46701001	C0155686	miocarditis aguda	miocarditis aguda	32593338_ES, 32556106_ES, 32616174_ES
+leucocitopenia	ENFERMEDAD	4	2.0	5	leucocitopenia			leucocitopenia	leucocitopenia	32318729_ES, 32636116_ES, 32363351_ES, 32639064_ES
+insuficiencia respiratoria aguda	ENFERMEDAD	5	2.5	5	insuficiencia respiratorio agudo	111282000	C0865850	insuficiencia respiratoria aguda	insuficiencia respiratoria aguda	32615155_ES, 32619736_ES, 32073161_ES, 32351657_ES, 32402416­_ES
+insuficiencia renal aguda	ENFERMEDAD	4	2.0	5	insuficiencia renal agudo	129561000119108, 723189000	C1565662, C3854173	insuficiencia renal aguda	insuficiencia renal aguda	32635747_ES, 32399449_ES, 32586778_ES, 32612435_ES
+insuficiencia multiorganica	ENFERMEDAD	5	2.5	5	insuficiencia multiorgánico			insuficiencia multiorgánica	insuficiencia multiorgánica	32277408_ES, 32359711_ES, 32617223_ES, 32619798_ES, 32399950_ES
+infeccion bacteriana	ENFERMEDAD	4	2.0	5	infección bacteriano			infección bacteriana	infección bacteriana	32283294_ES, 32423911_ES, 32617223_ES, 32399950_ES
+hiperlipidemia	ENFERMEDAD	5	2.5	5	hiperlipidemia	55822004	C0020473	hiperlipidemia	hiperlipidemia	32360439-D_ES, 32360439-B_ES, 32427774_ES, 32637266A_ES, 32427774-B_ES
+enfermedad por coronavirus 2019	ENFERMEDAD	5	2.5	5	enfermedad por coronavirus 2019			enfermedad por coronavirus 2019	enfermedad por coronavirus 2019	32639461_ES, 32359711_ES, 32232784_ES, 32609542_ES, 32292915_ES
+encefalitis	ENFERMEDAD	5	2.5	5	encefalitis	45170000	C0014038	encefalitis	encefalitis	32283294_ES, 32586676_ES, 32586752_ES, 32607564_ES, 32554425_ES
+colitis ulcerosa	ENFERMEDAD	3	1.5	5	colitis ulceroso	64766004	C0009324, C2919828	colitis ulcerosa	colitis ulcerosa	32412848_ES, 32554621_ES, 32245909_ES
+arteriopatia coronaria	ENFERMEDAD	5	2.5	5	arteriopatía coronario			arteriopatía coronaria	arteriopatía coronaria	32616174_ES, 32267502_ES, 32612465A_ES, 32622819A_ES, 32222713_ES
+anemia normocitica	ENFERMEDAD	5	2.5	5	anemia normocítico			anemia normocítica	anemia normocítica	32639461_ES, 32318729_ES, 32401344_ES, 32554425_ES, 32265235_ES
+tromboembolia pulmonar	ENFERMEDAD	4	2.0	4	tromboembolia pulmonar	233935004	C0524702	tromboembolia pulmonar	tromboembolia pulmonar	32639089_ES, 32402687_ES, 32586778_ES, 32402687-B_ES
+tabaquismo	ENFERMEDAD	4	2.0	4	tabaquismo	89765005, 266918002	C0040332, C0040336, C0425291, C1306274	tabaquismo	tabaquismo	32601756_ES, 32277408_ES, 32399450_ES, 32611659_ES
+sdra grave	ENFERMEDAD	4	2.0	4	sdra grave			SDRA grave	sdra grave	32612465B_ES, 32360384_ES, 32426200_ES, 32292915_ES
+psoriasis	ENFERMEDAD	1	0.5	4	psoriasis	9014002	C0033860	psoriasis	psoriasis	32294258_ES
+paralisis facial	ENFERMEDAD	2	1.0	4	parálisis facial			parálisis facial	parálisis facial	32360439-B_ES, 32399950_ES
+opacidades de vidrio esmerilado en ambos pulmones	ENFERMEDAD	4	2.0	4	opacidad de vidrio esmerilar en ambos pulmón			opacidades de vidrio esmerilado en ambos pulmones	opacidades de vidrio esmerilado en ambos pulmones	32601756_ES, 32282027_ES, 32201125_ES, 32246917_ES
+miocarditis	ENFERMEDAD	3	1.5	4	miocarditis	50920009	C0027059	miocarditis	miocarditis	32554811_ES, 3229222_ES, 32267502_ES
+lesiones pulmonares	ENFERMEDAD	4	2.0	4	lesión pulmonar			lesiones pulmonares	lesiones pulmonares	32277408_ES, 32073161_ES, 32207255_ES, 32208010_ES
+intoxicacion por litio	ENFERMEDAD	2	1.0	4	intoxicación por litio			intoxicación por litio	intoxicación por litio	32637266B_ES, 32637266A_ES
+insuficiencia respiratoria hipoxemica	ENFERMEDAD	4	2.0	4	insuficiencia respiratorio hipoxémica			insuficiencia respiratoria hipoxémica	insuficiencia respiratoria hipoxémica	32593478_ES, 32622819B_ES, 32412848_ES, 32360439_ES
+insuficiencia respiratoria grave	ENFERMEDAD	4	2.0	4	insuficiencia respiratorio grave	409623005, 51395007, 297107002	C0035229, C0035229, C0035229	insuficiencia respiratoria grave	insuficiencia respiratoria grave	32215898_ES, 32399449_ES, 32648092A_ES, 32399451_ES
+insuficiencia renal cronica	ENFERMEDAD	4	2.0	4	insuficiencia renal crónico			insuficiencia renal crónica	insuficiencia renal crónica	32352486_ES, 32617903A_ES, 32615807B_ES, 32638347A_ES
+insuficiencia renal	ENFERMEDAD	4	2.0	4	insuficiencia renal	723188008	C0035078	insuficiencia renal	insuficiencia renal	32622819B_ES, 32650881_ES, 32427645_ES, 32292904_ES
+insomnio	ENFERMEDAD	3	1.5	4	insomnio	193462001, 62577008, 270478005	C0424566, C0917801, C0917801, C0917801	insomnio	insomnio	32605766_ES, 32293714_ES, 32399450_ES
+infeccion virica	ENFERMEDAD	4	2.0	4	infección vírico			infección vírica	infección vírica	32640066_ES, 32615155_ES, 32265235_ES, 32222713_ES
+hipoxemia grave	ENFERMEDAD	4	2.0	4	hipoxemia grave			hipoxemia grave	hipoxemia grave	32275347_ES, 32360384_ES, 32207255_ES, 32554425_ES
+hiponatremia	ENFERMEDAD	4	2.0	4	hiponatremia	89627008	C0020625, C1971019	hiponatremia	hiponatremia	32640066_ES, 32265235_ES, 32635747_ES, 32198834_ES
+hepatomegalia	ENFERMEDAD	3	1.5	4	hepatomegalia	80515008	C0019209	hepatomegalia	hepatomegalia	32427645_ES, 32636116_ES, 32292053_ES
+estado epileptico	ENFERMEDAD	3	1.5	4	estado epiléptico			estado epiléptico	estado epiléptico	32586676_ES, 32589794_ES, 32590204_ES
+deshidratacion	ENFERMEDAD	4	2.0	4	deshidratación			deshidratación	deshidratación	32640066_ES, 32399449_ES, 32638347B_ES, 32198834_ES
+anemia	ENFERMEDAD	4	2.0	4	anemia	64593003, 271737000	C0002871, C0002871, C0221395, C1510654, C1510654	anemia	anemia	32427161_ES, 32292867_ES, 32584431_ES, 32590725_ES
+suicidio	ENFERMEDAD	1	0.5	3	suicidio	44301001	C0038661	suicidio	suicidio	32593478_ES
+sobreinfeccion	ENFERMEDAD	3	1.5	3	sobreinfección			sobreinfección	sobreinfección	32638347A_ES, 32277408_ES, 32222713_ES
+sindrome respiratorio agudo grave	ENFERMEDAD	3	1.5	3	síndrome respiratorio agudo grave			síndrome respiratorio agudo grave	síndrome respiratorio agudo grave	32266524_ES, 32292915_ES, 32269194_ES
+sindrome inflamatorio	ENFERMEDAD	3	1.5	3	síndrome inflamatorio			síndrome inflamatorio	síndrome inflamatorio	32638347C_ES, 32638347B_ES, 32554425_ES
+sindrome de guillainbarre	ENFERMEDAD	3	1.5	3	síndrome de guillainbarré			síndrome de Guillain-Barré	síndrome de guillainbarré	32359804_ES, 32619798_ES, 32246917_ES
+preeclampsia	ENFERMEDAD	2	1.0	3	preeclampsia	398254007, 6758009	C0032914, C0032914	preeclampsia	preeclampsia	32554811_ES, 32363336_ES
+parto vaginal	ENFERMEDAD	2	1.0	3	parto vaginal			parto vaginal	parto vaginal	32363336-B_ES, 32590725_ES
+parto	ENFERMEDAD	3	1.5	3	partir	66348005	C1148523	parto	parto	32614251_ES, 32292867_ES, 32590725_ES
+pancitopenia	ENFERMEDAD	1	0.5	3	pancitopenia	127034005	C0030312	pancitopenia	pancitopenia	32615155_ES
+neumonia grave por covid19	ENFERMEDAD	2	1.0	3	neumonía grave por covid19			neumonía grave por Covid-19	neumonía grave por covid19	32208010_ES, 32631838_ES
+neumonia extrahospitalaria	ENFERMEDAD	3	1.5	3	neumonía extrahospitalario			neumonía extrahospitalaria	neumonía extrahospitalaria	32639064_ES, 32611659_ES, 32198834_ES
+nefropatia	ENFERMEDAD	2	1.0	3	nefropatía			nefropatía	nefropatía	32640066_ES, 32292867_ES
+miopericarditis aguda	ENFERMEDAD	2	1.0	3	miopericarditis agudo	11176009	C0265132	miopericarditis aguda	miopericarditis aguda	32607304_Es, 32584431_ES
+linfoadenopatia mediastinica	ENFERMEDAD	2	1.0	3	linfoadenopatía mediastínico			linfoadenopatía mediastínica	linfoadenopatía mediastínica	32606044_ES, 32278585_ES
+linfoadenopatia	ENFERMEDAD	3	1.5	3	linfoadenopatía			linfoadenopatía	linfoadenopatía	32640066_ES, 32593338_ES, 32265235_ES
+lesion miocardica	ENFERMEDAD	2	1.0	3	lesión miocárdico			lesión miocárdica	lesión miocárdica	32650881_ES, 32292915_ES
+insuficiencia respiratoria hipoxemica aguda	ENFERMEDAD	3	1.5	3	insuficiencia respiratorio hipoxémica agudo			insuficiencia respiratoria hipoxémica aguda	insuficiencia respiratoria hipoxémica aguda	32637266A_ES, 32637437­_ES, 32592761_ES
+insuficiencia cardiaca	ENFERMEDAD	4	2.0	3	insuficiencia cardíaco	84114007	C0018801, C1959583	insuficiencia cardíaca	insuficiencia cardíaca	32638347A_ES, 32616174_ES, 32423738_ES, 32635747_ES
+infecciones	ENFERMEDAD	3	1.5	3	infección			infecciones	infecciones	32318729_ES, 32292915_ES, 32161941_ES
+infeccion pulmonar	ENFERMEDAD	3	1.5	3	infección pulmonar			infección pulmonar	infección pulmonar	32293714_ES, 32292053_ES, 32174057_ES
+infarto agudo	ENFERMEDAD	3	1.5	3	infarto agudo	55470003	C0333548	infarto agudo	infarto agudo	32360439_ES, 32360439-B_ES, 32426200_ES
+ictus isquemico	ENFERMEDAD	3	1.5	3	ictus isquémico			ictus isquémico	ictus isquémico	32648092B_ES, 32424482_ES, 32586778_ES
+ictus	ENFERMEDAD	3	1.5	3	ictus			ictus	ictus	32360439-D_ES, 32360439-C_ES, 32651243_ES
+hipoalbuminemia	ENFERMEDAD	3	1.5	3	hipoalbuminemia	119247004	C0239981	hipoalbuminemia	hipoalbuminemia	32589931_ES, 32554621_ES, 32265235_ES
+hipernatremia	ENFERMEDAD	3	1.5	3	hipernatremia	771115008, 39355002	C0020488, C0020488	hipernatremia	hipernatremia	32620682_ES, 32426200_ES, 32638347B_ES
+gastroenteritis virica	ENFERMEDAD	2	1.0	3	gastroenteritis vírico			gastroenteritis vírica	gastroenteritis vírica	32222713_ES, 32198834_ES
+esclerosis multiple	ENFERMEDAD	2	1.0	3	esclerosis múltiple			esclerosis múltiple	esclerosis múltiple	32644205_ES, 32612465D_ES
+encefalopatia	ENFERMEDAD	2	1.0	3	encefalopatía			encefalopatía	encefalopatía	32426200_ES, 32586752_ES
+dilatacion del ventriculo	ENFERMEDAD	3	1.5	3	dilatación de+el ventrículo			dilatación del ventrículo	dilatación del ventrículo	32616174_ES, 32277408_ES, 32275347_ES
+diabetes tipo 2	ENFERMEDAD	3	1.5	3	diabetes tipo 2			diabetes tipo 2	diabetes tipo 2	32352486_ES, 32586778_ES, 32267461_ES
+cardiomiopatia isquemica	ENFERMEDAD	2	1.0	3	cardiomiopatía isquémico			cardiomiopatía isquémica	cardiomiopatía isquémica	32292915_ES, 32222713_ES
+cardiomiopatia de esfuerzo	ENFERMEDAD	1	0.5	3	cardiomiopatía de esfuerzo			cardiomiopatía de esfuerzo	cardiomiopatía de esfuerzo	32363351_ES
+cardiomegalia	ENFERMEDAD	3	1.5	3	cardiomegalia	8186001	C0018800, C1383860, C2733397	cardiomegalia	cardiomegalia	32607304_Es, 32282027_ES, 32636116_ES
+bronquiectasia	ENFERMEDAD	2	1.0	3	bronquiectasia	12295008	C0006267	bronquiectasia	bronquiectasia	32553608­_A_ES, 32553608­B_ES
+artritis reumatoide	ENFERMEDAD	2	1.0	3	artritis reumatoide	69896004	C0003873	artritis reumatoide	artritis reumatoide	32638347C_ES, 32359804_ES
+arritmias	ENFERMEDAD	3	1.5	3	arritmia	53488008	C0003811	arritmias	arritmias	32360439-D_ES, 32638347C_ES, 32360439-B_ES
+TVP	ENFERMEDAD	2	1.0	3	TVP			TVP	TVP	32631646_ES, 32399449-B_ES
+vinc	ENFERMEDAD	1	0.5	2	vinc			VINC	vinc	32616174_ES
+vasculitis	ENFERMEDAD	2	1.0	2	vasculitis	31996006	C0042384	vasculitis	vasculitis	32585767_ES, 32622819B_ES
+urticaria	ENFERMEDAD	2	1.0	2	urticaria	64305001, 126485001	C0042109, C0042109, C0221232	urticaria	urticaria	32294273_ES, 32641443_ES
+tuberculosis	ENFERMEDAD	2	1.0	2	tuberculosis	56717001	C0041296	tuberculosis	tuberculosis	32609542_ES, 32174057_ES
+trombosis venosa	ENFERMEDAD	2	1.0	2	trombosis venoso	111293003	C0042487	trombosis venosa	trombosis venosa	32399449_ES, 32399449-B_ES
+trombofilia	ENFERMEDAD	2	1.0	2	trombofilia	234467004	C0398623	trombofilia	trombofilia	32399449-B_ES, 32402687-B_ES
+trombocitosis	ENFERMEDAD	2	1.0	2	trombocitosis	415115007, 6631009	C0836924, C0857460, C0836924, C0857460	trombocitosis	trombocitosis	32618794_ES, 32353183-B_ES
+trastorno psicotico	ENFERMEDAD	2	1.0	2	trastorno psicótico			trastorno psicótico	trastorno psicótico	32593478_ES, 32639089_ES
+taquicardia ventricular	ENFERMEDAD	2	1.0	2	taquicardia ventricular	25569003	C0042514	taquicardia ventricular	taquicardia ventricular	32329981_ES, 32292915_ES
+taquicardia fetal	ENFERMEDAD	2	1.0	2	taquicardia fetal	240298005	C0410918	taquicardia fetal	taquicardia fetal	32363336_ES, 32590725_ES
+sobrepeso	ENFERMEDAD	2	1.0	2	sobrepeso	238131007	C0497406	sobrepeso	sobrepeso	32589931_ES, 32619736_ES
+sobreinfecciones bacterianas	ENFERMEDAD	2	1.0	2	sobreinfección bacteriano			sobreinfecciones bacterianas	sobreinfecciones bacterianas	32606105_ES, 32631838_ES
+sobreinfecciones	ENFERMEDAD	2	1.0	2	sobreinfección			sobreinfecciones	sobreinfecciones	32085846_ES, 32282871_ES
+sindrome respiratorio agudo grave por coronavirus 2	ENFERMEDAD	2	1.0	2	síndrome respiratorio agudo grave por coronavirus 2			síndrome respiratorio agudo grave por coronavirus 2	síndrome respiratorio agudo grave por coronavirus 2	32250095_ES, 32320556_ES
+sindrome mixto	ENFERMEDAD	2	1.0	2	síndrome mixto			síndrome mixto	síndrome mixto	32553608­_A_ES, 32553608­B_ES
+sindrome hipereosinofilico idiopatico	ENFERMEDAD	1	0.5	2	síndrome hipereosinofílico idiopático			síndrome hipereosinofílico idiopático	síndrome hipereosinofílico idiopático	32622819B_ES
+sindrome de sjogren	ENFERMEDAD	1	0.5	2	síndrome de sjögren			síndrome de Sjögren	síndrome de sjögren	32292867_ES
+sindrome coronario agudo	ENFERMEDAD	2	1.0	2	síndrome coronario agudo			síndrome coronario agudo	síndrome coronario agudo	3229222_ES, 32363351_ES
+recien nacido	ENFERMEDAD	2	1.0	2	recién nacer			recién nacido	recién nacido	32363336-B_ES, 32161941_ES
+rabdomiolisis	ENFERMEDAD	1	0.5	2	rabdomiólisis			rabdomiólisis	rabdomiólisis	32635747_ES
+psicosis	ENFERMEDAD	1	0.5	2	psicosis	69322001	C0033975	psicosis	psicosis	32605766_ES
+paraplejia	ENFERMEDAD	2	1.0	2	paraplejia			paraplejia	paraplejia	32601756_ES, 32399950_ES
+osteoporosis	ENFERMEDAD	2	1.0	2	osteoporosis	64859006	C0029456	osteoporosis	osteoporosis	32631645_ES, 32622819A_ES
+opacidades pulmonares	ENFERMEDAD	2	1.0	2	opacidad pulmonar			opacidades pulmonares	opacidades pulmonares	32557532_ES, 32402687_ES
+neumotorax bilateral	ENFERMEDAD	2	1.0	2	neumotórax bilateral			neumotórax bilateral	neumotórax bilateral	32612465B_ES, 32583150B_ES
+neumonia por sarscov2	ENFERMEDAD	2	1.0	2	neumonía por sarscov2			neumonía por SARS-CoV-2	neumonía por sarscov2	32427161_ES, 32553608­B_ES
+neumonia multifocal	ENFERMEDAD	2	1.0	2	neumonía multifocal			neumonía multifocal	neumonía multifocal	32617223_ES, 32282312_ES
+neumonia intersticial grave	ENFERMEDAD	2	1.0	2	neumonía intersticial grave			neumonía intersticial grave	neumonía intersticial grave	32554621_ES, 32360384_ES
+neumonia intersticial bilateral	ENFERMEDAD	2	1.0	2	neumonía intersticial bilateral			neumonía intersticial bilateral	neumonía intersticial bilateral	32401344_ES, 32418288_ES
+neumonia intersticial	ENFERMEDAD	2	1.0	2	neumonía intersticial			neumonía intersticial	neumonía intersticial	32557532_ES, 32399451_ES
+neumonia grave	ENFERMEDAD	2	1.0	2	neumonía grave			neumonía grave	neumonía grave	32277408_ES, 32292053_ES
+neumonia bilateral grave	ENFERMEDAD	2	1.0	2	neumonía bilateral grave			neumonía bilateral grave	neumonía bilateral grave	32363217_ES, 32638347C_ES
+nefropatia por IgA	ENFERMEDAD	2	1.0	2	nefropatía por iga			nefropatía por IgA	nefropatía por IgA	32222713_ES, 32198834_ES
+muerte	ENFERMEDAD	2	1.0	2	muerte	419620001, 61626005, 399347008	C0011065, C1306577, C1306577	muerte	muerte	32620682_ES, 32245909_ES
+miopericarditis	ENFERMEDAD	2	1.0	2	miopericarditis	723863003	C0854532	miopericarditis	miopericarditis	32635747_ES, 32363351_ES
+miocardiopatia de takotsubo	ENFERMEDAD	1	0.5	2	miocardiopatía de takotsubo			miocardiopatía de Takotsubo	miocardiopatía de takotsubo	32267502_ES
+microtrombos pulmonares	ENFERMEDAD	2	1.0	2	microtrombo pulmonar			microtrombos pulmonares	microtrombos pulmonares	32637327B_ES, 32637327A_ES
+linfoadenopatia cervical	ENFERMEDAD	2	1.0	2	linfoadenopatía cervical			linfoadenopatía cervical	linfoadenopatía cervical	32427161_ES, 32292867_ES
+leucocitosis	ENFERMEDAD	2	1.0	2	leucocitosis	414478003, 111583006	C0023518, C0750426	leucocitosis	leucocitosis	32353183_ES, 32265235_ES
+lesiones miocardicas	ENFERMEDAD	2	1.0	2	lesión miocárdico			lesiones miocárdicas	lesiones miocárdicas	32329981_ES, 32179908_ES
+insuficiencia respiratoria hipoxica	ENFERMEDAD	2	1.0	2	insuficiencia respiratorio hipóxico			insuficiencia respiratoria hipóxica	insuficiencia respiratoria hipóxica	32292054_ES, 32363351_ES
+insuficiencia cardiaca congestiva	ENFERMEDAD	2	1.0	2	insuficiencia cardiaco congestivo	42343007	C0018802	insuficiencia cardíaca congestiva	insuficiencia cardíaca congestiva	32363336_ES, 32622483_ES
+insuficiencia cardiaca aguda	ENFERMEDAD	2	1.0	2	insuficiencia cardiaco agudo			insuficiencia cardíaca aguda	insuficiencia cardíaca aguda	32363336_ES, 32363336-B_ES
+insuficiencia cardiaca	ENFERMEDAD	4	2.0	2	insuficiencia cardiaco	84114007	C0018801, C1959583	insuficiencia cardiaca	insuficiencia cardiaca	32638347A_ES, 32616174_ES, 32423738_ES, 32635747_ES
+infecciones nosocomiales	ENFERMEDAD	2	1.0	2	infección nosocomial			infecciones nosocomiales	infecciones nosocomiales	32245909_ES, 32196627_ES
+infeccion respiratoria	ENFERMEDAD	2	1.0	2	infección respiratorio			infección respiratoria	infección respiratoria	32631645_ES, 32329981_ES
+infeccion pulmonar con sarscov2	ENFERMEDAD	2	1.0	2	infección pulmonar con sarscov2			infección pulmonar con SARS-CoV-2	infección pulmonar con sarscov2	32622819B_ES, 32622819A_ES
+hipoxia	ENFERMEDAD	2	1.0	2	hipoxia	30869003, 389086002	C0242184, C0242184, C0700292	hipoxia	hipoxia	32586752_ES, 32198834_ES
+hipoxemia	ENFERMEDAD	2	1.0	2	hipoxemia	30869003, 389087006	C0242184, C0700292, C0700292	hipoxemia	hipoxemia	32085846_ES, 32617903B_ES
+hiponatremia hipovolemica grave	ENFERMEDAD	1	0.5	2	hiponatremia hipovolémico grave			hiponatremia hipovolémica grave	hiponatremia hipovolémica grave	32639064_ES
+hiponatremia grave	ENFERMEDAD	1	0.5	2	hiponatremia grave			hiponatremia grave	hiponatremia grave	32639064_ES
+hipertension pulmonar	ENFERMEDAD	2	1.0	2	hipertensión pulmonar			hipertensión pulmonar	hipertensión pulmonar	32277408_ES, 32427645_ES
+hiperglucemia	ENFERMEDAD	2	1.0	2	hiperglucemia	80394007	C0020456	hiperglucemia	hiperglucemia	32168162_ES, 32589794_ES
+hemorragia alveolar difusa	ENFERMEDAD	2	1.0	2	hemorragia alveolar difuso			hemorragia alveolar difusa	hemorragia alveolar difusa	32622819B_ES, 32622819A_ES
+hemoptisis	ENFERMEDAD	2	1.0	2	hemoptisis	66857006	C0019079	hemoptisis	hemoptisis	32622819A_ES, 32174057_ES
+hemofagocitosis	ENFERMEDAD	2	1.0	2	hemofagocitosis	61070002	C0302486, C0876991	hemofagocitosis	hemofagocitosis	32294340_ES, 32615155_ES
+hematuria	ENFERMEDAD	2	1.0	2	hematuria	34436003, 53298000	C0018965, C0018965	hematuria	hematuria	32277408_ES, 32292915_ES
+fumadora	ENFERMEDAD	2	1.0	2	fumador	77176002	C0337664	fumadora	fumadora	32412848_ES, 32426200_ES
+fumador	ENFERMEDAD	2	1.0	2	fumador	77176002	C0337664	fumador	fumador	32073161_ES, 32587121_ES
+fibrosis pulmonar	ENFERMEDAD	1	0.5	2	fibrosis pulmonar	51615001	C0034069	fibrosis pulmonar	fibrosis pulmonar	32631838_ES
+erupcion farmacologica	ENFERMEDAD	2	1.0	2	erupción farmacológico			erupción farmacológica	erupción farmacológica	32425356_ES, 32428291-B_ES
+epoc	ENFERMEDAD	2	1.0	2	epoc			EPOC	epoc	32553608­_A_ES, 32553608­B_ES
+enfisema	ENFERMEDAD	2	1.0	2	enfisema	49158009	C0013990	enfisema	enfisema	32602267_ES, 32207255_ES
+enfermedades infecciosas	ENFERMEDAD	2	1.0	2	enfermedad infeccioso	394807007	C1273849	enfermedades infecciosas	enfermedades infecciosas	32246917_ES, 32399451_ES
+enfermedad pulmonar obstructiva cronica	ENFERMEDAD	2	1.0	2	enfermedad pulmonar obstructivo crónico			enfermedad pulmonar obstructiva crónica	enfermedad pulmonar obstructiva crónica	32399449_ES, 32622819A_ES
+edema pulmonar	ENFERMEDAD	1	0.5	2	edema pulmonar	19242006	C0034063	edema pulmonar	edema pulmonar	32222713_ES
+disfuncion ventricular	ENFERMEDAD	2	1.0	2	disfunción ventricular			disfunción ventricular	disfunción ventricular	32427645_ES, 32586778_ES
+diplopia	ENFERMEDAD	1	0.5	2	diplopia			diplopia	diplopia	32592761_ES
+dilatacion ventricular	ENFERMEDAD	2	1.0	2	dilatación ventricular			dilatación ventricular	dilatación ventricular	32427645_ES, 32423738_ES
+dilatacion coronaria	ENFERMEDAD	2	1.0	2	dilatación coronario			dilatación coronaria	dilatación coronaria	32427161_ES, 32265235_ES
+delirio	ENFERMEDAD	2	1.0	2	delirio	2073000, 2776000	C0011253, C0011206	delirio	delirio	32639089_ES, 32612435_ES
+crisis	ENFERMEDAD	2	1.0	2	crisis	32937002	C0231224	crisis	crisis	32563170_ES, 32589794_ES
+consolidacion parcial en ambos pulmones	ENFERMEDAD	1	0.5	2	consolidación parcial en ambos pulmón			consolidación parcial en ambos pulmones	consolidación parcial en ambos pulmones	32165205_ES
+colestasis	ENFERMEDAD	2	1.0	2	colestasis	33688009	C0008370	colestasis	colestasis	32635747_ES, 32294340_ES
+coagulopatia	ENFERMEDAD	2	1.0	2	coagulopatía			coagulopatía	coagulopatía	32427161_ES, 32648092A_ES
+choque cardiogenico	ENFERMEDAD	2	1.0	2	choque cardiogénico			choque cardiogénico	choque cardiogénico	32583150A_ES, 32363351_ES
+cardiopatias	ENFERMEDAD	2	1.0	2	cardiopatía			cardiopatías	cardiopatías	32277408_ES, 32161941_ES
+cardiopatia isquemica	ENFERMEDAD	2	1.0	2	cardiopatía isquémico			cardiopatía isquémica	cardiopatía isquémica	32617903A_ES, 32622483_ES
+cardiopatia coronaria	ENFERMEDAD	2	1.0	2	cardiopatía coronario			cardiopatía coronaria	cardiopatía coronaria	32276139_B_ES, 32282871_B_ES
+atelectasia	ENFERMEDAD	1	0.5	2	atelectasia	46621007	C0004144	atelectasia	atelectasia	32222713_ES
+asma leve	ENFERMEDAD	2	1.0	2	asma leve	370218001	C0581124	asma leve	asma leve	32637266B_ES, 32641443_ES
+asma eosinofilica grave	ENFERMEDAD	2	1.0	2	asma eosinofílico grave			asma eosinofílica grave	asma eosinofílica grave	32553608­_A_ES, 32553608­B_ES
+artritis psoriasica	ENFERMEDAD	1	0.5	2	artritis psoriásico			artritis psoriásica	artritis psoriásica	32294258_ES
+arritmia	ENFERMEDAD	2	1.0	2	arritmia	53488008	C0003811	arritmia	arritmia	32329981_ES, 32557532_ES
+ansiedad	ENFERMEDAD	2	1.0	2	ansiedad	48694002	C0003467	ansiedad	ansiedad	32593478_ES, 32399450_ES
+anormalidades cardiacas	ENFERMEDAD	1	0.5	2	anormalidad cardíaco			anormalidades cardíacas	anormalidades cardíacas	32161941_ES
+acidosis lactica	ENFERMEDAD	2	1.0	2	acidosis láctico			acidosis láctica	acidosis láctica	32351657_ES, 32622823_ES
+SGB	ENFERMEDAD	2	1.0	2	SGB			SGB	SGB	32364123_ES, 32399950_ES
+yiyang	ENFERMEDAD	1	0.5	1	yiyang			Yiyang	yiyang	32276139_C_ES
+vasculopatia trombotica	ENFERMEDAD	1	0.5	1	vasculopatía trombótico			vasculopatía trombótica	vasculopatía trombótica	32352487_ES
+vasculopatia periferica	ENFERMEDAD	1	0.5	1	vasculopatía periférico			vasculopatía periférica	vasculopatía periférica	32353183_ES
+vasculitis urticarial	ENFERMEDAD	1	0.5	1	vasculitis urticarial	402656007	C1304408	vasculitis urticarial	vasculitis urticarial	32294264_ES
+vasculitis de organo	ENFERMEDAD	1	0.5	1	vasculitis de órgano			vasculitis de órgano	vasculitis de órgano	32622819A_ES
+varicelazoster	ENFERMEDAD	1	0.5	1	varicelazóster			varicela-zóster	varicelazóster	32414534_ES
+valvulopatias	ENFERMEDAD	1	0.5	1	valvulopatía			valvulopatías	valvulopatías	32617903B_ES
+urticaria secundaria de origen indeterminado	ENFERMEDAD	1	0.5	1	urticaria secundario de origen indeterminado			urticaria secundaria de origen indeterminado	urticaria secundaria de origen indeterminado	32428291_ES
+urticaria idiopatica	ENFERMEDAD	1	0.5	1	urticaria idiopático			urticaria idiopática	urticaria idiopática	32641443_ES
+uropatia obstructiva	ENFERMEDAD	1	0.5	1	uropatía obstructivo			uropatía obstructiva	uropatía obstructiva	32292867_ES
+ulceras por presion cronicas	ENFERMEDAD	1	0.5	1	úlcera por presión crónico			úlceras por presión crónicas	úlceras por presión crónicas	32638347B_ES
+ulceras grandes y profundas en el colon sigmoide y el recto	ENFERMEDAD	1	0.5	1	úlcera grande y profundo en el colon sigmoide y el recto			úlceras grandes y profundas en el colon sigmoide y el recto	úlceras grandes y profundas en el colon sigmoide y el recto	32245909_ES
+ulceras en la zona orolabial	ENFERMEDAD	1	0.5	1	úlcera en el zona orolabial			úlceras en la zona orolabial	úlceras en la zona orolabial	32617169_ES
+ulceras dolorosas en los labios la lengua y el paladar	ENFERMEDAD	1	0.5	1	úlcera doloroso en el labio el lengua y el paladar			úlceras dolorosas en los labios, la lengua y el paladar	úlceras dolorosas en los labios la lengua y el paladar	32589314_ES
+tuberculosis ganglionar	ENFERMEDAD	1	0.5	1	tuberculosis ganglionar			tuberculosis ganglionar	tuberculosis ganglionar	3229222_ES
+tuberculosa del SNC	ENFERMEDAD	1	0.5	1	tuberculoso de+el SNC			tuberculosa del SNC	tuberculosa del SNC	32283294_ES
+trombosis venosa superficial de 2cm en el tercio distal de MID	ENFERMEDAD	1	0.5	1	trombosis venoso superficial de 2 cm en el tercio distal de MID			trombosis venosa superficial de 2cm en el tercio distal de MID	trombosis venosa superficial de 2cm en el tercio distal de MID	32631646_ES
+trombosis venosa profunda cerebral aguda	ENFERMEDAD	1	0.5	1	trombosis venoso profundo cerebral agudo			trombosis venosa profunda cerebral aguda	trombosis venosa profunda cerebral aguda	32554423_ES
+trombosis vascular	ENFERMEDAD	1	0.5	1	trombosis vascular			trombosis vascular	trombosis vascular	32585767_ES
+trombosis proximal de la arteria mesenterica superior y de la arteria yeyunal	ENFERMEDAD	1	0.5	1	trombosis proximal de el arteria mesentérico superior y de el arteria yeyunal			trombosis proximal de la arteria mesentérica superior y de la arteria yeyunal	trombosis proximal de la arteria mesentérica superior y de la arteria yeyunal	32351657_ES
+trombosis focal microvascular	ENFERMEDAD	1	0.5	1	trombosis focal microvascular			trombosis focal microvascular	trombosis focal microvascular	32585767_ES
+trombosis en el brazo	ENFERMEDAD	1	0.5	1	trombosis en el brazo			trombosis en el brazo	trombosis en el brazo	32637327A_ES
+trombosis de la vena porta	ENFERMEDAD	1	0.5	1	trombosis de el vena portar	17920008	C0155773	trombosis de la vena porta	trombosis de la vena porta	32351657_ES
+trombosis de la parte distal de la vena mesenterica superior extendida al tronco esplenomesenterico	ENFERMEDAD	1	0.5	1	trombosis de el parte distal de el vena mesentérico superior extender a+el tronco esplenomesentérico			trombosis de la parte distal de la vena mesentérica superior extendida al tronco esplenomesentérico	trombosis de la parte distal de la vena mesentérica superior extendida al tronco esplenomesentérico	32351657_ES
+trombosis de la arteria humeral	ENFERMEDAD	1	0.5	1	trombosis de el arteria humeral	297146000	C0235516	trombosis de la arteria humeral	trombosis de la arteria humeral	32589931_ES
+trombosis arteriales	ENFERMEDAD	1	0.5	1	trombosis arterial	65198009	C0151942	trombosis arteriales	trombosis arteriales	32586778_ES
+trombos intraluminales de 8 mm en la aorta ascendente	ENFERMEDAD	1	0.5	1	trombo intraluminal de 8 mm en el aorta ascendente			trombos intraluminales de 8 mm en la aorta ascendente	trombos intraluminales de 8 mm en la aorta ascendente	32648092B_ES
+trombos flotantes en el cayado aortico y la aorta descendente	ENFERMEDAD	1	0.5	1	trombo flotante en el cayado aórtico y el aorta descendente			trombos flotantes en el cayado aórtico y la aorta descendente	trombos flotantes en el cayado aórtico y la aorta descendente	32648092A_ES
+trombos en el sistema venoso	ENFERMEDAD	1	0.5	1	trombo en el sistema venoso			trombos en el sistema venoso	trombos en el sistema venoso	32651243_ES
+tromboembolia pulmonar bilateral aguda	ENFERMEDAD	1	0.5	1	tromboembolia pulmonar bilateral agudo	707414004	C3873363	tromboembolia pulmonar bilateral aguda	tromboembolia pulmonar bilateral aguda	32402687_ES
+tromboembolia bilateral	ENFERMEDAD	1	0.5	1	tromboembolia bilateral			tromboembolia bilateral	tromboembolia bilateral	32402687-B_ES
+trombocitosis reactiva	ENFERMEDAD	1	0.5	1	trombocitosis reactivo	234500001	C0457506	trombocitosis reactiva	trombocitosis reactiva	32589931_ES
+trombocitopenia limitrofe	ENFERMEDAD	1	0.5	1	trombocitopenia limítrofe			trombocitopenia limítrofe	trombocitopenia limítrofe	32639461_ES
+trombo libre en el cayado aortico	ENFERMEDAD	1	0.5	1	trombo libre en el cayado aórtico			trombo libre en el cayado aórtico	trombo libre en el cayado aórtico	32424482_ES
+trombo intravascular en la aorta	ENFERMEDAD	1	0.5	1	trombo intravascular en el aorta			trombo intravascular en la aorta	trombo intravascular en la aorta	32353183-B_ES
+trombo flotante en el segmento medio de la aorta descendente	ENFERMEDAD	1	0.5	1	trombo flotante en el segmento medio de el aorta descendente			trombo flotante en el segmento medio de la aorta descendente	trombo flotante en el segmento medio de la aorta descendente	32648092C_ES
+trombo en la arteria femoral	ENFERMEDAD	1	0.5	1	trombo en el arteria femoral			trombo en la arteria femoral	trombo en la arteria femoral	32554811_ES
+trombo en el segmento proximal de la arteria mesenterica superior	ENFERMEDAD	1	0.5	1	trombo en el segmento proximal de el arteria mesentérico superior			trombo en el segmento proximal de la arteria mesentérica superior	trombo en el segmento proximal de la arteria mesentérica superior	32562891_ES
+trombo de 5 mm en la punta del VI	ENFERMEDAD	1	0.5	1	trombo de 5 mm en el punta de+el VI			trombo de 5 mm en la punta del VI	trombo de 5 mm en la punta del VI	32556106_ES
+trombo agudo	ENFERMEDAD	1	0.5	1	trombo agudo			trombo agudo	trombo agudo	32360439_ES
+traumatismo toracico	ENFERMEDAD	1	0.5	1	traumatismo torácico			traumatismo torácico	traumatismo torácico	32317275_ES
+traumatismo craneal	ENFERMEDAD	1	0.5	1	traumatismo craneal			traumatismo craneal	traumatismo craneal	32563170_ES
+trastornos neurologicos	ENFERMEDAD	1	0.5	1	trastorno neurológico			trastornos neurológicos	trastornos neurológicos	32651243_ES
+trastorno respiratorio	ENFERMEDAD	1	0.5	1	trastorno respiratorio	50043002, 129893005	C0035204, C1268764	trastorno respiratorio	trastorno respiratorio	32639089_ES
+trastorno esquizoafectivo	ENFERMEDAD	1	0.5	1	trastorno esquizoafectivo	68890003	C0036337	trastorno esquizoafectivo	trastorno esquizoafectivo	32637266A_ES
+trastorno del espectro autista	ENFERMEDAD	1	0.5	1	trastorno de+el espectro autista			trastorno del espectro autista	trastorno del espectro autista	32637266B_ES
+trastorno bipolar	ENFERMEDAD	1	0.5	1	trastorno bipolar	13746004	C0005586	trastorno bipolar	trastorno bipolar	32637266B_ES
+trastorno	ENFERMEDAD	1	0.5	1	trastorno			trastorno	trastorno	32637266B_ES
+traqueomalacia	ENFERMEDAD	1	0.5	1	traqueomalacia	95434006	C0948187	traqueomalacia	traqueomalacia	32583150B_ES
+toxoplasma gondii	ENFERMEDAD	1	0.5	1	toxoplasma gondii	4649006	C0040557	Toxoplasma gondii	toxoplasma gondii	32636116_ES
+toxicomanias	ENFERMEDAD	1	0.5	1	toxicomanía			toxicomanías	toxicomanías	32605766_ES
+tormenta de citocinas con sdmo	ENFERMEDAD	1	0.5	1	tormenta de citocinas con sdmo			tormenta de citocinas con SDMO	tormenta de citocinas con sdmo	32292915_ES
+tetraplejia	ENFERMEDAD	1	0.5	1	tetraplejia			tetraplejia	tetraplejia	32399694­­_ES
+taquisistolia recurrente	ENFERMEDAD	1	0.5	1	taquisistolia recurrente			taquisistolia recurrente	taquisistolia recurrente	32590725_ES
+taquisistolia	ENFERMEDAD	1	0.5	1	taquisistolia			taquisistolia	taquisistolia	32590725_ES
+taquicardia supraventricular	ENFERMEDAD	1	0.5	1	taquicardia supraventricular	6456007	C0039240	taquicardia supraventricular	taquicardia supraventricular	32363336-B_ES
+taquicardia ocasional	ENFERMEDAD	1	0.5	1	taquicardia ocasional			taquicardia ocasional	taquicardia ocasional	32179908_ES
+taponamiento cardiaco	ENFERMEDAD	1	0.5	1	taponamiento cardiaco	35304003	C0007177	taponamiento cardiaco	taponamiento cardiaco	32607304_Es
+subita desaturacion	ENFERMEDAD	1	0.5	1	súbito desaturación			súbita desaturación	súbita desaturación	32275347_ES
+subita debilidad	ENFERMEDAD	1	0.5	1	súbito debilidad			súbita debilidad	súbita debilidad	32359804_ES
+sombras nodulares de alta densidad bajo la pleura del segmento posterior del lobulo superior del pulmon	ENFERMEDAD	1	0.5	1	sombra nodular de alto densidad bajo el pleura de+el segmento posterior de+el lóbulo superior de+el pulmón			sombras nodulares de alta densidad bajo la pleura del segmento posterior del lóbulo superior del pulmón	sombras nodulares de alta densidad bajo la pleura del segmento posterior del lóbulo superior del pulmón	32161941_ES
+sobreinfecciones con hepatitis B	ENFERMEDAD	1	0.5	1	sobreinfección con hepatitis B			sobreinfecciones con hepatitis B	sobreinfecciones con hepatitis B	32607564_ES
+sobreinfeccion por neumocistos	ENFERMEDAD	1	0.5	1	sobreinfección por neumocistos			sobreinfección por neumocistos	sobreinfección por neumocistos	32638347C_ES
+sobreinfeccion bacteriana	ENFERMEDAD	1	0.5	1	sobreinfección bacteriano			sobreinfección bacteriana	sobreinfección bacteriana	32554811_ES
+sinusitis aguda	ENFERMEDAD	1	0.5	1	sinusitis agudo	15805002	C0149512	sinusitis aguda	sinusitis aguda	32653210_ES
+sinusitis	ENFERMEDAD	1	0.5	1	sinusitis	36971009	C0037199	sinusitis	sinusitis	32205138_ES
+sindromes	ENFERMEDAD	1	0.5	1	síndrome			síndromes	síndromes	32618794_ES
+sindrome virico	ENFERMEDAD	1	0.5	1	síndrome vírico			síndrome vírico	síndrome vírico	32601756_ES
+sindrome septico	ENFERMEDAD	1	0.5	1	síndrome séptico			síndrome séptico	síndrome séptico	32292867_ES
+sindrome respiratorio agudo grave de coronavirus 2	ENFERMEDAD	1	0.5	1	síndrome respiratorio agudo grave de coronavirus 2			síndrome respiratorio agudo grave de coronavirus 2	síndrome respiratorio agudo grave de coronavirus 2	32282312_ES
+sindrome respiratorio agudo grave de coronavirus	ENFERMEDAD	1	0.5	1	síndrome respiratorio agudo grave de coronavirus			síndrome respiratorio agudo grave de coronavirus	síndrome respiratorio agudo grave de coronavirus	32179908_ES
+sindrome piramidal	ENFERMEDAD	1	0.5	1	síndrome piramidal			síndrome piramidal	síndrome piramidal	32651243_ES
+sindrome nefrotico	ENFERMEDAD	1	0.5	1	síndrome nefrótico			síndrome nefrótico	síndrome nefrótico	32589931_ES
+sindrome metabolico	ENFERMEDAD	1	0.5	1	síndrome metabólico			síndrome metabólico	síndrome metabólico	32402416­_ES
+sindrome meningeo	ENFERMEDAD	1	0.5	1	síndrome meníngeo			síndrome meníngeo	síndrome meníngeo	32283294_ES
+sindrome inflamatorio intenso	ENFERMEDAD	1	0.5	1	síndrome inflamatorio intenso			síndrome inflamatorio intenso	síndrome inflamatorio intenso	32623310_ES
+sindrome inflamatorio de reconstitucion inmunitaria	ENFERMEDAD	1	0.5	1	síndrome inflamatorio de reconstitución inmunitario			síndrome inflamatorio de reconstitución inmunitaria	síndrome inflamatorio de reconstitución inmunitaria	32607564_ES
+sindrome del lobulo frontal	ENFERMEDAD	1	0.5	1	síndrome de+el lóbulo frontal			síndrome del lóbulo frontal	síndrome del lóbulo frontal	32589794_ES
+sindrome de takotsubo	ENFERMEDAD	1	0.5	1	síndrome de takotsubo			síndrome de Takotsubo	síndrome de takotsubo	32363351_ES
+sindrome de stevensjohnson	ENFERMEDAD	1	0.5	1	síndrome de stevensjohnson			síndrome de Stevens-Johnson	síndrome de stevensjohnson	32617169_ES
+sindrome de mutismo	ENFERMEDAD	1	0.5	1	síndrome de mutismo			síndrome de mutismo	síndrome de mutismo	32418288_ES
+sindrome de lofgren	ENFERMEDAD	1	0.5	1	síndrome de löfgren			síndrome de Löfgren	síndrome de löfgren	32606044_ES
+sindrome de liberacion de citocinas	ENFERMEDAD	1	0.5	1	síndrome de liberación de citocinas			síndrome de liberación de citocinas	síndrome de liberación de citocinas	32615155_ES
+sindrome de inflamacion biologico	ENFERMEDAD	1	0.5	1	síndrome de inflamación biológico			síndrome de inflamación biológico	síndrome de inflamación biológico	32638347A_ES
+sindrome de hurler	ENFERMEDAD	1	0.5	1	síndrome de hurler			síndrome de Hurler	síndrome de hurler	32423738_ES
+sindrome de enclaustramiento periferico	ENFERMEDAD	1	0.5	1	síndrome de enclaustramiento periférico			síndrome de enclaustramiento periférico	síndrome de enclaustramiento periférico	32399694­­_ES
+sindrome de distres respiratorio agudo	ENFERMEDAD	1	0.5	1	síndrome de distrés respiratorio agudo			síndrome de distrés respiratorio agudo	síndrome de distrés respiratorio agudo	32622483_ES
+sindrome de dificultad respiratoria aguda grave por coronavirus	ENFERMEDAD	1	0.5	1	síndrome de dificultad respiratorio agudo grave por coronavirus			síndrome de dificultad respiratoria aguda grave por coronavirus	síndrome de dificultad respiratoria aguda grave por coronavirus	32650881_ES
+sindrome de dificultad respiratoria aguda grave	ENFERMEDAD	1	0.5	1	síndrome de dificultad respiratorio agudo grave			síndrome de dificultad respiratoria aguda grave	síndrome de dificultad respiratoria aguda grave	32650881_ES
+sindrome de brugada de tipo I	ENFERMEDAD	1	0.5	1	síndrome de brugada de tipo I			síndrome de Brugada de tipo I	síndrome de brugada de tipo I	32557532_ES
+sindrome de apnea del sueno obstructiva grave	ENFERMEDAD	1	0.5	1	síndrome de apnea de+el sueño obstructivo grave			síndrome de apnea del sueño obstructiva grave	síndrome de apnea del sueño obstructiva grave	32648092C_ES
+sindrome compartimental	ENFERMEDAD	1	0.5	1	síndrome compartimental			síndrome compartimental	síndrome compartimental	32622823_ES
+sindrome apneashipopneas del sueno	ENFERMEDAD	1	0.5	1	síndrome apneashipopneas de+el sueño			síndrome apneas-hipopneas del sueño	síndrome apneashipopneas del sueño	32622483_ES
+sindrome	ENFERMEDAD	1	0.5	1	síndrome			síndrome	síndrome	32639064_ES
+sincope	ENFERMEDAD	2	1.0	1	sincopar			sincope	sincope	32612465A_ES, 32278585_ES
+sincope	ENFERMEDAD	2	1.0	1	síncope			síncope	síncope	32612465A_ES, 32278585_ES
+sifilis	ENFERMEDAD	1	0.5	1	sífilis			sífilis	sífilis	32607564_ES
+sida	ENFERMEDAD	1	0.5	1	sida	62479008	C0001175	sida	sida	32607564_ES
+sialolitiasis	ENFERMEDAD	1	0.5	1	sialolitiasis	28826002	C0036091	sialolitiasis	sialolitiasis	32631770_ES
+sepsis neonatal	ENFERMEDAD	1	0.5	1	sepsis neonatal	276669000, 206376005	C0456103, C3665339	sepsis neonatal	sepsis neonatal	32320556_ES
+sepsis	ENFERMEDAD	1	0.5	1	sepsis	91302008	C0243026	sepsis	sepsis	32282871_ES
+secundigesta primipara	ENFERMEDAD	1	0.5	1	secundigesta primípara			secundigesta primípara	secundigesta primípara	32637327B_ES
+sdra moderada	ENFERMEDAD	1	0.5	1	sdra moderar			SDRA moderada	sdra moderada	32412848_ES
+sdra fulminante	ENFERMEDAD	1	0.5	1	sdra fulminante			SDRA fulminante	sdra fulminante	32554811_ES
+sarcoidosis alveolar	ENFERMEDAD	1	0.5	1	sarcoidosis alveolar			sarcoidosis alveolar	sarcoidosis alveolar	32606044_ES
+sarcoidosis	ENFERMEDAD	1	0.5	1	sarcoidosis	31541009	C0036202	sarcoidosis	sarcoidosis	32612465C_ES
+rinosinusitis cronica	ENFERMEDAD	1	0.5	1	rinosinusitis crónico			rinosinusitis crónica	rinosinusitis crónica	32553608­B_ES
+rinitis	ENFERMEDAD	1	0.5	1	rinitis	70076002	C0035455, C0240557	rinitis	rinitis	32318729_ES
+respiratoria hipoxemica	ENFERMEDAD	1	0.5	1	respiratorio hipoxémica			respiratoria hipoxémica	respiratoria hipoxémica	32650881_ES
+regurgitacion aortica	ENFERMEDAD	1	0.5	1	regurgitación aórtico			regurgitación aórtica	regurgitación aórtica	32427161_ES
+reflujo gastroesofagico	ENFERMEDAD	1	0.5	1	reflujo gastroesofágico			reflujo gastroesofágico	reflujo gastroesofágico	32653210_ES
+recidiva del cancer	ENFERMEDAD	1	0.5	1	recidivar de+el cáncer			recidiva del cáncer	recidiva del cáncer	32620682_ES
+reaccion alergica	ENFERMEDAD	1	0.5	1	reacción alérgico			reacción alérgica	reacción alérgica	32641443_ES
+psoriasis cronica en placas moderada	ENFERMEDAD	1	0.5	1	psoriasis crónico en placa moderar			psoriasis crónica en placas moderada	psoriasis crónica en placas moderada	32557532_ES
+prolapso pulposo nuclear de la columna lumbar	ENFERMEDAD	1	0.5	1	prolapso pulposo nuclear de el columna lumbar			prolapso pulposo nuclear de la columna lumbar	prolapso pulposo nuclear de la columna lumbar	32622819B_ES
+prolapso de la valvula mitral	ENFERMEDAD	1	0.5	1	prolapso de el válvula mitral			prolapso de la válvula mitral	prolapso de la válvula mitral	32412848_ES
+proceso patologico	ENFERMEDAD	1	0.5	1	proceso patológico			proceso patológico	proceso patológico	32639089_ES
+proceso inflamatorio agudo	ENFERMEDAD	1	0.5	1	proceso inflamatorio agudo			proceso inflamatorio agudo	proceso inflamatorio agudo	32267502_ES
+proceso infecciosoinflamatorio	ENFERMEDAD	1	0.5	1	proceso infecciosoinflamatorio			proceso infeccioso/inflamatorio	proceso infecciosoinflamatorio	32617223_ES
+proceso infeccioso	ENFERMEDAD	1	0.5	1	proceso infeccioso	441862004	C0745283	proceso infeccioso	proceso infeccioso	32222713_ES
+primigravida	ENFERMEDAD	1	0.5	1	primigrávida			primigrávida	primigrávida	32618794_ES
+preeclampsia grave	ENFERMEDAD	1	0.5	1	preeclampsia grave			preeclampsia grave	preeclampsia grave	32363217_ES
+prediabetes	ENFERMEDAD	1	0.5	1	prediabetes	714628002, 15777000	C0362046, C0362046	prediabetes	prediabetes	32586958_ES
+portador de VIH	ENFERMEDAD	1	0.5	1	portador de VIH			portador de VIH	portador de VIH	32607564_ES
+polirradiculoneuritis desmielinizante	ENFERMEDAD	1	0.5	1	polirradiculoneuritis desmielinizante			polirradiculoneuritis desmielinizante	polirradiculoneuritis desmielinizante	32364123_ES
+poliquistosis ovarica	ENFERMEDAD	1	0.5	1	poliquistosis ovárico			poliquistosis ovárica	poliquistosis ovárica	32363336-B_ES
+polipos nasales	ENFERMEDAD	1	0.5	1	pólipo nasal			pólipos nasales	pólipos nasales	32553608­B_ES
+polineuropatia sensitivomotriz aguda	ENFERMEDAD	1	0.5	1	polineuropatía sensitivomotriz agudo			polineuropatía sensitivomotriz aguda	polineuropatía sensitivomotriz aguda	32586958_ES
+polineuropatia desmielinizante inflamatoria	ENFERMEDAD	1	0.5	1	polineuropatía desmielinizante inflamatorio			polineuropatía desmielinizante inflamatoria	polineuropatía desmielinizante inflamatoria	32622819A_ES
+polineuropatia desmielinizante	ENFERMEDAD	1	0.5	1	polineuropatía desmielinizante			polineuropatía desmielinizante	polineuropatía desmielinizante	32588185_ES
+polineuropatia del paciente critico	ENFERMEDAD	1	0.5	1	polineuropatía de+el paciente crítico			polineuropatía del paciente crítico	polineuropatía del paciente crítico	32619798_ES
+pitiriasis rosada	ENFERMEDAD	1	0.5	1	pitiriasis rosado	77252004	C0032026	pitiriasis rosada	pitiriasis rosada	32352486_ES
+pielonefritis	ENFERMEDAD	1	0.5	1	pielonefritis	45816000	C0034186	pielonefritis	pielonefritis	32292867_ES
+pericarditis	ENFERMEDAD	1	0.5	1	pericarditis	3238004	C0031046	pericarditis	pericarditis	32427645_ES
+perdida de diferenciacion entre sustancia gris y sustancia blanca en los lobulos parietal y occipital	ENFERMEDAD	1	0.5	1	pérdida de diferenciación entre sustancia gris y sustancia blanco en el lóbulo parietal y occipital			pérdida de diferenciación entre sustancia gris y sustancia blanca en los lóbulos parietal y occipital	pérdida de diferenciación entre sustancia gris y sustancia blanca en los lóbulos parietal y occipital	32360439_ES
+perdida de conciencia	ENFERMEDAD	1	0.5	1	pérdida de conciencia			pérdida de conciencia	pérdida de conciencia	32417987_ES
+patologia biliar	ENFERMEDAD	1	0.5	1	patología biliar			patología biliar	patología biliar	32653210_ES
+partos vaginales	ENFERMEDAD	1	0.5	1	parto vaginal			partos vaginales	partos vaginales	32363336_ES
+parto vaginal espontaneo	ENFERMEDAD	1	0.5	1	partir vaginal espontáneo			parto vaginal espontáneo	parto vaginal espontáneo	32606105_ES
+parto prematuro	ENFERMEDAD	1	0.5	1	parto prematuro	282020008	C0151526	parto prematuro	parto prematuro	32119083_ES
+parto por cesarea	ENFERMEDAD	1	0.5	1	partir por cesárea			parto por cesárea	parto por cesárea	32590725_ES
+parotiditis infecciosa aguda	ENFERMEDAD	1	0.5	1	parotiditis infeccioso agudo	36989005	C0026780	parotiditis infecciosa aguda	parotiditis infecciosa aguda	32631770_ES
+parotiditis infecciosa	ENFERMEDAD	1	0.5	1	parotiditis infeccioso	36989005	C0026780	parotiditis infecciosa	parotiditis infecciosa	32631770_ES
+parotiditis bacteriana concomitante	ENFERMEDAD	1	0.5	1	parotiditis bacteriano concomitante			parotiditis bacteriana concomitante	parotiditis bacteriana concomitante	32631770_ES
+parosmia nocturna	ENFERMEDAD	1	0.5	1	parosmia nocturno			parosmia nocturna	parosmia nocturna	32605712_ES
+paro cardiaco subito	ENFERMEDAD	2	1.0	1	paro cardiaco súbito			paro cardiaco súbito	paro cardiaco súbito	32085846_ES, 32615807A_ES
+paro cardiaco subito	ENFERMEDAD	2	1.0	1	paro cardíaco súbito			paro cardíaco súbito	paro cardíaco súbito	32085846_ES, 32615807A_ES
+paro cardiaco mortal	ENFERMEDAD	1	0.5	1	paro cardíaco mortal			paro cardíaco mortal	paro cardíaco mortal	32282871_B_ES
+parkinson	ENFERMEDAD	1	0.5	1	parkinson			Parkinson	parkinson	32609542_ES
+paralisis del nervio motor ocular	ENFERMEDAD	1	0.5	1	parálisis de+el nervio motor ocular			parálisis del nervio motor ocular	parálisis del nervio motor ocular	32592761_ES
+paralisis del VI par craneal	ENFERMEDAD	1	0.5	1	parálisis de+el VI par craneal			parálisis del VI par craneal	parálisis del VI par craneal	32651243_ES
+papulas maculares	ENFERMEDAD	1	0.5	1	pápula macular			pápulas maculares	pápulas maculares	32425356_ES
+papulas eritematosas amarillentas en ambos talones	ENFERMEDAD	1	0.5	1	pápula eritematoso amarillento en ambos talón			pápulas eritematosas amarillentas en ambos talones	pápulas eritematosas amarillentas en ambos talones	32294264_ES
+panel virico respiratorio	ENFERMEDAD	1	0.5	1	panel vírico respiratorio			panel vírico respiratorio	panel vírico respiratorio	32320556_ES
+pandemia de covid19	ENFERMEDAD	1	0.5	1	pandemia de covid19			pandemia de COVID-19	pandemia de covid19	32617169_ES
+pancreatitis leve	ENFERMEDAD	1	0.5	1	pancreatitis leve	75694006	C0030305	pancreatitis leve	pancreatitis leve	32639461_ES
+pancreatitis edematosa intersticial	ENFERMEDAD	1	0.5	1	pancreatitis edematoso intersticial	44636008	C0267947	pancreatitis edematosa intersticial	pancreatitis edematosa intersticial	32653210_ES
+pancreatitis aguda	ENFERMEDAD	1	0.5	1	pancreatitis agudo	197456007, 39726008	C0001339, C0001339, C0341461	pancreatitis aguda	pancreatitis aguda	32653210_ES
+pancreatitis	ENFERMEDAD	1	0.5	1	pancreatitis	75694006	C0030305	pancreatitis	pancreatitis	32653210_ES
+pancitopenia grave	ENFERMEDAD	1	0.5	1	pancitopenia grave			pancitopenia grave	pancitopenia grave	32636116_ES
+opacificacion de estas venas	ENFERMEDAD	1	0.5	1	opacificación de este vena			opacificación de estas venas	opacificación de estas venas	32554423_ES
+opacidades intersticiales unilobulares en el lobulo superior	ENFERMEDAD	1	0.5	1	opacidad intersticial unilobular en el lóbulo superior			opacidades intersticiales unilobulares en el lóbulo superior	opacidades intersticiales unilobulares en el lóbulo superior	32648092C_ES
+opacidades intersticiales multilobulares en el pulmon	ENFERMEDAD	1	0.5	1	opacidad intersticial multilobular en el pulmón			opacidades intersticiales multilobulares en el pulmón	opacidades intersticiales multilobulares en el pulmón	32648092A_ES
+opacidades de vidrio esmerilado parcheadas en el lobulo superior del pulmon	ENFERMEDAD	1	0.5	1	opacidad de vidrio esmerilar parchear en el lóbulo superior de+el pulmón			opacidades de vidrio esmerilado parcheadas en el lóbulo superior del pulmón	opacidades de vidrio esmerilado parcheadas en el lóbulo superior del pulmón	32266524_ES
+opacidades de vidrio esmerilado en el pulmon	ENFERMEDAD	1	0.5	1	opacidad de vidrio esmerilar en el pulmón			opacidades de vidrio esmerilado en el pulmón	opacidades de vidrio esmerilado en el pulmón	32292053_ES
+opacidades alveolares parcheadas en los lobulos medio e inferior del pulmon	ENFERMEDAD	1	0.5	1	opacidad alveolar parchear en el lóbulo medio y inferior de+el pulmón			opacidades alveolares parcheadas en los lóbulos medio e inferior del pulmón	opacidades alveolares parcheadas en los lóbulos medio e inferior del pulmón	32639064_ES
+opacidades alveolares bilaterales multifocales con atelectasia en la zona inferior del pulmon	ENFERMEDAD	1	0.5	1	opacidad alveolar bilateral multifocal con atelectasia en el zona inferior de+el pulmón			opacidades alveolares bilaterales multifocales con atelectasia en la zona inferior del pulmón	opacidades alveolares bilaterales multifocales con atelectasia en la zona inferior del pulmón	32637437­_ES
+opacidad en el lobulo superior del pulmon	ENFERMEDAD	1	0.5	1	opacidad en el lóbulo superior de+el pulmón			opacidad en el lóbulo superior del pulmón	opacidad en el lóbulo superior del pulmón	32593478_ES
+oclusion trombotica de la arteria coronaria	ENFERMEDAD	1	0.5	1	oclusión trombótico de el arteria coronario			oclusión trombótica de la arteria coronaria	oclusión trombótica de la arteria coronaria	32586778_ES
+oclusion trombotica aguda en la aorta infrarrenal	ENFERMEDAD	1	0.5	1	oclusión trombótico agudo en el aorta infrarrenal			oclusión trombótica aguda en la aorta infrarrenal	oclusión trombótica aguda en la aorta infrarrenal	32353183_ES
+oclusion embolica de la arteria mesenterica superior	ENFERMEDAD	1	0.5	1	oclusión embólico de el arteria mesentérico superior			oclusión embólica de la arteria mesentérica superior	oclusión embólica de la arteria mesentérica superior	32353183-B_ES
+oclusion de la arteria mesenterica superior	ENFERMEDAD	1	0.5	1	oclusión de el arteria mesentérico superior			oclusión de la arteria mesentérica superior	oclusión de la arteria mesentérica superior	32424482_ES
+oclusion de la arteria cerebral media	ENFERMEDAD	1	0.5	1	oclusión de el arteria cerebral medio			oclusión de la arteria cerebral media	oclusión de la arteria cerebral media	32424482_ES
+oclusion de la arteria carotida interna	ENFERMEDAD	1	0.5	1	oclusión de el arteria carótido interno			oclusión de la arteria carótida interna	oclusión de la arteria carótida interna	32360439-C_ES
+obstruccion nasal	ENFERMEDAD	1	0.5	1	obstrucción nasal			obstrucción nasal	obstrucción nasal	32267483_ES
+obstruccion inflamatoria bilateral	ENFERMEDAD	1	0.5	1	obstrucción inflamatorio bilateral			obstrucción inflamatoria bilateral	obstrucción inflamatoria bilateral	32267483_ES
+obstruccion de las vias respiratorias	ENFERMEDAD	1	0.5	1	obstrucción de el vía respiratorio			obstrucción de las vías respiratorias	obstrucción de las vías respiratorias	32620682_ES
+obesidad de grado 2	ENFERMEDAD	1	0.5	1	obesidad de grado 2			obesidad de grado 2	obesidad de grado 2	32623310_ES
+obesidad de clase I	ENFERMEDAD	1	0.5	1	obesidad de clase I			obesidad de clase I	obesidad de clase I	32586958_ES
+nulipara	ENFERMEDAD	1	0.5	1	nulípara			nulípara	nulípara	32637327A_ES
+no purulenta	ENFERMEDAD	1	0.5	1	no purulento			no purulenta	no purulenta	32639461_ES
+neutropenia	ENFERMEDAD	1	0.5	1	neutropenia	165517008, 72885007	C0027947, C0853697, C1534864, C1576411, C4551627	neutropenia	neutropenia	32318729_ES
+neuropatia por compresion peroneal	ENFERMEDAD	1	0.5	1	neuropatía por compresión peroneal			neuropatía por compresión peroneal	neuropatía por compresión peroneal	32619798_ES
+neuropatia desmielinizante	ENFERMEDAD	1	0.5	1	neuropatía desmielinizante			neuropatía desmielinizante	neuropatía desmielinizante	32246917_ES
+neuropatia axonica motora aguda del SGB	ENFERMEDAD	1	0.5	1	neuropatía axónico motora agudo de+el SGB			neuropatía axónica motora aguda del SGB	neuropatía axónica motora aguda del SGB	32653906_ES
+neuropatia aguda sensitivomotora axonica	ENFERMEDAD	1	0.5	1	neuropatía agudo sensitivomotor axónico			neuropatía aguda sensitivomotora axónica	neuropatía aguda sensitivomotora axónica	32359804_ES
+neuropatia	ENFERMEDAD	1	0.5	1	neuropatía			neuropatía	neuropatía	32360439-B_ES
+neurologicos	ENFERMEDAD	1	0.5	1	neurológico			neurológicos	neurológicos	32417987_ES
+neurodegeneracion grave	ENFERMEDAD	1	0.5	1	neurodegeneración grave			neurodegeneración grave	neurodegeneración grave	32638347B_ES
+neumotorax izquierdo con desplazamiento mediastinico	ENFERMEDAD	1	0.5	1	neumotórax izquierdo con desplazamiento mediastínico			neumotórax izquierdo con desplazamiento mediastínico	neumotórax izquierdo con desplazamiento mediastínico	32423911_ES
+neumotorax derecho con colapso completo del pulmon	ENFERMEDAD	1	0.5	1	neumotórax derecho con colapso completo de+el pulmón			neumotórax derecho con colapso completo del pulmón	neumotórax derecho con colapso completo del pulmón	32317275_ES
+neumoperitoneo secundario a perforacion de colon	ENFERMEDAD	1	0.5	1	neumoperitoneo secundario a perforación de colon			neumoperitoneo secundario a perforación de colon	neumoperitoneo secundario a perforación de colon	32402416­_ES
+neumopatias subyacentes	ENFERMEDAD	1	0.5	1	neumopatías subyacente			neumopatías subyacentes	neumopatías subyacentes	32619736_ES
+neumopatia inflamatoria intersticial	ENFERMEDAD	1	0.5	1	neumopatía inflamatorio intersticial			neumopatía inflamatoria intersticial	neumopatía inflamatoria intersticial	32267502_ES
+neumopatia bilateral en los lobulos inferiores	ENFERMEDAD	1	0.5	1	neumopatía bilateral en el lóbulo inferior			neumopatía bilateral en los lóbulos inferiores	neumopatía bilateral en los lóbulos inferiores	32427645_ES
+neumopatia	ENFERMEDAD	1	0.5	1	neumopatía			neumopatía	neumopatía	32205138_ES
+neumonitis intersticial	ENFERMEDAD	1	0.5	1	neumonitis intersticial	64667001	C0206061	neumonitis intersticial	neumonitis intersticial	32222713_ES
+neumonitis inducida	ENFERMEDAD	1	0.5	1	neumonitis inducir			neumonitis inducida	neumonitis inducida	32198834_ES
+neumonias de origen indeterminado	ENFERMEDAD	1	0.5	1	neumonía de origen indeterminado			neumonías de origen indeterminado	neumonías de origen indeterminado	32198834_ES
+neumonia unilobar	ENFERMEDAD	1	0.5	1	neumonía unilobar			neumonía unilobar	neumonía unilobar	32631646_ES
+neumonia por pneumocystis jirovecii	ENFERMEDAD	1	0.5	1	neumonía por pneumocystis jirovecii			neumonía por Pneumocystis jirovecii	neumonía por pneumocystis jirovecii	32607564_ES
+neumonia por aspiracion	ENFERMEDAD	1	0.5	1	neumonía por aspiración			neumonía por aspiración	neumonía por aspiración	32399950_ES
+neumonia obstructiva provocada por el tumor	ENFERMEDAD	1	0.5	1	neumonía obstructivo provocar por el tumor			neumonía obstructiva provocada por el tumor	neumonía obstructiva provocada por el tumor	32165205_ES
+neumonia neumocistosica	ENFERMEDAD	1	0.5	1	neumonía neumocistósica			neumonía neumocistósica	neumonía neumocistósica	32607564_ES
+neumonia necrosante	ENFERMEDAD	1	0.5	1	neumonía necrosante			neumonía necrosante	neumonía necrosante	32602267_ES
+neumonia multilobular	ENFERMEDAD	1	0.5	1	neumonía multilobular			neumonía multilobular	neumonía multilobular	32648092A_ES
+neumonia leve por covid19	ENFERMEDAD	1	0.5	1	neumonía leve por covid19			neumonía leve por COVID-19	neumonía leve por covid19	32639064_ES
+neumonia intersticial aguda	ENFERMEDAD	1	0.5	1	neumonía intersticial agudo			neumonía intersticial aguda	neumonía intersticial aguda	32622819A_ES
+neumonia gramnegativa pseudomonas aeruginosa y klebsiella pneumoniae	ENFERMEDAD	1	0.5	1	neumonía gramnegativo pseudomona aeruginosa y klebsiella pneumoniae			neumonía gramnegativa (Pseudomonas aeruginosa y Klebsiella pneumoniae	neumonía gramnegativa pseudomonas aeruginosa y klebsiella pneumoniae	32275347_ES
+neumonia en la zona inferior del pulmon	ENFERMEDAD	1	0.5	1	neumonía en el zona inferior de+el pulmón			neumonía en la zona inferior del pulmón	neumonía en la zona inferior del pulmón	32238024_ES
+neumonia bacteriana	ENFERMEDAD	1	0.5	1	neumonía bacteriano			neumonía bacteriana	neumonía bacteriana	32292053_ES
+neumonia atipica o virica	ENFERMEDAD	1	0.5	1	neumonía atípico o vírico			neumonía atípica o vírica	neumonía atípica o vírica	32292915_ES
+neumonia atipica grave	ENFERMEDAD	1	0.5	1	neumonía atípico grave			neumonía atípica grave	neumonía atípica grave	32119083_ES
+neumonia asociada al respirador	ENFERMEDAD	1	0.5	1	neumonía asociar a+el respirador			neumonía asociada al respirador	neumonía asociada al respirador	32623310_ES
+neumomediastino	ENFERMEDAD	1	0.5	1	neumomediastino			neumomediastino	neumomediastino	32583150B_ES
+neumocistosis	ENFERMEDAD	1	0.5	1	neumocistosis	88860002	C1535939	neumocistosis	neumocistosis	32198834_ES
+neoplasia maligna	ENFERMEDAD	1	0.5	1	neoplasia maligno	367651003, 363346000	C0006826, C1288351	neoplasia maligna	neoplasia maligna	32601756_ES
+nefropatia resistente a inmunoglobulinas	ENFERMEDAD	1	0.5	1	nefropatía resistente a inmunoglobulina			nefropatía resistente a inmunoglobulinas	nefropatía resistente a inmunoglobulinas	32640066_ES
+nefropatia cronica en estadio 3a	ENFERMEDAD	1	0.5	1	nefropatía crónico en estadío 3 a			nefropatía crónica en estadio 3a	nefropatía crónica en estadio 3a	32622819A_ES
+nefropatia atipica	ENFERMEDAD	1	0.5	1	nefropatía atípico			nefropatía atípica	nefropatía atípica	32639461_ES
+nefrolitiasis	ENFERMEDAD	1	0.5	1	nefrolitiasis	56491003	C0392525	nefrolitiasis	nefrolitiasis	32292915_ES
+necrosis con ulceracion de la mucosa de 12mm en cara anterior del ciego	ENFERMEDAD	1	0.5	1	necrosis con ulceración de el mucosa de 12 mm en cara anterior de+el ciego			necrosis con ulceración de la mucosa de 12mm en cara anterior del ciego	necrosis con ulceración de la mucosa de 12mm en cara anterior del ciego	32402416­_ES
+muerte cerebral	ENFERMEDAD	1	0.5	1	muerte cerebral			muerte cerebral	muerte cerebral	32583150A_ES
+mucopolisacaridosis de tipo I H	ENFERMEDAD	1	0.5	1	mucopolisacaridosis de tipo I H			mucopolisacaridosis de tipo I H	mucopolisacaridosis de tipo I H	32423738_ES
+mononucleosis aguda	ENFERMEDAD	1	0.5	1	mononucleosis agudo			mononucleosis aguda	mononucleosis aguda	32352486_ES
+miopericarditis recurrente	ENFERMEDAD	1	0.5	1	miopericarditis recurrente			miopericarditis recurrente	miopericarditis recurrente	32607304_Es
+miopatia en el biceps braquial	ENFERMEDAD	1	0.5	1	miopatía en el bíceps braquial			miopatía en el bíceps braquial	miopatía en el bíceps braquial	32619798_ES
+miopatia	ENFERMEDAD	1	0.5	1	miopatía			miopatía	miopatía	32619798_ES
+miocarditis linfocitica aguda no virica	ENFERMEDAD	1	0.5	1	miocarditis linfocítico agudo no vírico			miocarditis linfocítica aguda no vírica	miocarditis linfocítica aguda no vírica	32267502_ES
+miocarditis fulminante	ENFERMEDAD	1	0.5	1	miocarditis fulminante			miocarditis fulminante	miocarditis fulminante	32277408_ES
+miocarditis combinada	ENFERMEDAD	1	0.5	1	miocarditis combinar			miocarditis combinada	miocarditis combinada	32282027_ES
+miocardiopatia infiltrativa	ENFERMEDAD	1	0.5	1	miocardiopatía infiltrativo			miocardiopatía infiltrativa	miocardiopatía infiltrativa	32622819B_ES
+migrana	ENFERMEDAD	1	0.5	1	migraña			migraña	migraña	3229222_ES
+microhemorragias del	ENFERMEDAD	1	0.5	1	microhemorragia de+el			microhemorragias del	microhemorragias del	32639461_ES
+microhemorragia subaracnoidea en el lobulo frontal	ENFERMEDAD	1	0.5	1	microhemorragia subaracnoideo en el lóbulo frontal			microhemorragia subaracnoidea en el lóbulo frontal	microhemorragia subaracnoidea en el lóbulo frontal	32294340_ES
+microangiopatia	ENFERMEDAD	1	0.5	1	microangiopatía			microangiopatía	microangiopatía	32617903A_ES
+metastasis oseas sintomaticas	ENFERMEDAD	1	0.5	1	metástasis óseo sintomático			metástasis óseas sintomáticas	metástasis óseas sintomáticas	32247642_ES
+metastasis	ENFERMEDAD	1	0.5	1	metástasis			metástasis	metástasis	32165205_ES
+metastasica	ENFERMEDAD	1	0.5	1	metastásico			metastásica	metastásica	32165205_ES
+metaplasia escamosa	ENFERMEDAD	1	0.5	1	metaplasia escamoso	83577005	C0025570, C1367969	metaplasia escamosa	metaplasia escamosa	32638890_ES
+meningitis bacteriana	ENFERMEDAD	1	0.5	1	meningitis bacteriano	95883001	C0085437	meningitis bacteriana	meningitis bacteriana	32607564_ES
+meningitis	ENFERMEDAD	1	0.5	1	meningitis	7180009	C0025289	meningitis	meningitis	32292054_ES
+meningioma frontal	ENFERMEDAD	1	0.5	1	meningioma frontal			meningioma frontal	meningioma frontal	32631645_ES
+mastocitosis sistemica	ENFERMEDAD	1	0.5	1	mastocitosis sistémico			mastocitosis sistémica	mastocitosis sistémica	32622819B_ES
+mastitis	ENFERMEDAD	1	0.5	1	mastitis	45198002, 266579006	C0024894, C3495439	mastitis	mastitis	32161941_ES
+macrohematuria	ENFERMEDAD	1	0.5	1	macrohematuria	197941005	C0473237	macrohematuria	macrohematuria	32622819A_ES
+lupus eritematoso diseminado	ENFERMEDAD	1	0.5	1	lupus eritematoso diseminar	55464009	C0024141	lupus eritematoso diseminado	lupus eritematoso diseminado	32276139_ES
+lumbociatica cronica	ENFERMEDAD	1	0.5	1	lumbociática crónico			lumbociática crónica	lumbociática crónica	3229222_ES
+litiasis biliar	ENFERMEDAD	1	0.5	1	litiasis biliar			litiasis biliar	litiasis biliar	32653210_ES
+liquido en la cavidad peritoneal	ENFERMEDAD	1	0.5	1	líquido en el cavidad peritoneal			líquido en la cavidad peritoneal	líquido en la cavidad peritoneal	32351657_ES
+liquido bronquial	ENFERMEDAD	1	0.5	1	líquido bronquial			líquido bronquial	líquido bronquial	32622819A_ES
+liquido amniotico con meconio	ENFERMEDAD	1	0.5	1	líquido amniótico con meconio			líquido amniótico con meconio	líquido amniótico con meconio	32161941_ES
+linfopenia	ENFERMEDAD	1	0.5	1	linfopenia	48813009	C0024312, C0300946	linfopenia	linfopenia	32318729_ES
+linfoma linfoblastico B	ENFERMEDAD	1	0.5	1	linfoma linfoblástico B			linfoma linfoblástico B	linfoma linfoblástico B	32633439_ES
+linfoma de celulas del manto	ENFERMEDAD	1	0.5	1	linfoma de célula de+el manto			linfoma de células del manto	linfoma de células del manto	32615155_ES
+linfoadenopatias	ENFERMEDAD	1	0.5	1	linfoadenopatía			linfoadenopatías	linfoadenopatías	32601756_ES
+leucopenia	ENFERMEDAD	1	0.5	1	leucopenia	84828003, 419188005	C0023530, C0750394	leucopenia	leucopenia	32318729_ES
+leucoencefalopatia	ENFERMEDAD	1	0.5	1	leucoencefalopatía			leucoencefalopatía	leucoencefalopatía	32586752_ES
+leucocitopenia leve	ENFERMEDAD	1	0.5	1	leucocitopenia leve			leucocitopenia leve	leucocitopenia leve	32250095_ES
+lesiones renales agudas	ENFERMEDAD	1	0.5	1	lesión renal agudo			lesiones renales agudas	lesiones renales agudas	32360439-C_ES
+lesiones purpuricas acras	ENFERMEDAD	1	0.5	1	lesión purpúrico acra			lesiones purpúricas acras	lesiones purpúricas acras	32585767_ES
+lesiones pulmonares moderadas	ENFERMEDAD	1	0.5	1	lesión pulmonar moderar			lesiones pulmonares moderadas	lesiones pulmonares moderadas	32638347A_ES
+lesiones pulmonares causadas por la covid19	ENFERMEDAD	1	0.5	1	lesión pulmonar causar por el covid19			lesiones pulmonares causadas por la COVID-19	lesiones pulmonares causadas por la covid19	32351657_ES
+lesiones pruriticas eritematosas en las extremidades	ENFERMEDAD	1	0.5	1	lesión pruríticas eritematoso en el extremidad			lesiones pruríticas eritematosas en las extremidades	lesiones pruríticas eritematosas en las extremidades	32425356_ES
+lesiones pruriginosas en ambos talones	ENFERMEDAD	1	0.5	1	lesión pruriginoso en ambos talón			lesiones pruriginosas en ambos talones	lesiones pruriginosas en ambos talones	32294264_ES
+lesiones orofaringeas	ENFERMEDAD	1	0.5	1	lesión orofaríngeo			lesiones orofaríngeas	lesiones orofaríngeas	32593478_ES
+lesiones isquemicas hipoxicas	ENFERMEDAD	1	0.5	1	lesión isquémico hipóxico			lesiones isquémicas hipóxicas	lesiones isquémicas hipóxicas	32554425_ES
+lesiones isquemicas amplias	ENFERMEDAD	1	0.5	1	lesión isquémico amplio			lesiones isquémicas amplias	lesiones isquémicas amplias	32554425_ES
+lesiones hiperintensas difusas en el talamo cerebelo mesencefalo y sustancia gris y blanca tentorial	ENFERMEDAD	1	0.5	1	lesión hiperintenso difuso en el tálamo cerebelo mesencéfalo y sustancia gris y blanco tentorial			lesiones hiperintensas difusas en el tálamo, cerebelo, mesencéfalo y sustancia gris y blanca tentorial	lesiones hiperintensas difusas en el tálamo cerebelo mesencéfalo y sustancia gris y blanca tentorial	32651243_ES
+lesiones herpeticas orales	ENFERMEDAD	1	0.5	1	lesión herpético oral			lesiones herpéticas orales	lesiones herpéticas orales	32292054_ES
+lesiones eritematosas y las abrasiones de los labios	ENFERMEDAD	1	0.5	1	lesión eritematoso y el abrasión de el labio			lesiones eritematosas y las abrasiones de los labios	lesiones eritematosas y las abrasiones de los labios	32425356_ES
+lesiones eritematosas en el rostro y el tronco	ENFERMEDAD	1	0.5	1	lesión eritematoso en el rostro y el tronco			lesiones eritematosas en el rostro y el tronco	lesiones eritematosas en el rostro y el tronco	32425356_ES
+lesiones eritematosas en diana distribuidas por los lados dorsales y ventrales de las manos	ENFERMEDAD	1	0.5	1	lesión eritematoso en diana distribuir por el lado dorsal y ventral de el mano			lesiones eritematosas en diana distribuidas por los lados dorsales y ventrales de las manos	lesiones eritematosas en diana distribuidas por los lados dorsales y ventrales de las manos	32589314_ES
+lesiones en otras regiones de los pulmones	ENFERMEDAD	1	0.5	1	lesión en otro región de el pulmón			lesiones en otras regiones de los pulmones	lesiones en otras regiones de los pulmones	32174057_ES
+lesiones en los pulmones	ENFERMEDAD	1	0.5	1	lesión en el pulmón			lesiones en los pulmones	lesiones en los pulmones	32208010_ES
+lesiones en los pliegues crurales	ENFERMEDAD	1	0.5	1	lesión en el pliegue crural			lesiones en los pliegues crurales	lesiones en los pliegues crurales	32352487_ES
+lesiones en los dedos	ENFERMEDAD	1	0.5	1	lesión en el dedo			lesiones en los dedos	lesiones en los dedos	32292054_ES
+lesiones en escarapela atipicas	ENFERMEDAD	1	0.5	1	lesión en escarapela atípico			lesiones en escarapela atípicas	lesiones en escarapela atípicas	32617169_ES
+lesiones en ambos pulmones	ENFERMEDAD	1	0.5	1	lesión en ambos pulmón			lesiones en ambos pulmones	lesiones en ambos pulmones	32276139_ES
+lesiones de los brazos	ENFERMEDAD	1	0.5	1	lesión de el brazo			lesiones de los brazos	lesiones de los brazos	32352486_ES
+lesiones de la mano derecha que dieron positivo para staphylococcus aureus resistente a la meticilina	ENFERMEDAD	1	0.5	1	lesión de el mano derecho que dar positivo para staphylococcus aureus resistente a el meticilina			lesiones de la mano derecha que dieron positivo para Staphylococcus aureus resistente a la meticilina	lesiones de la mano derecha que dieron positivo para staphylococcus aureus resistente a la meticilina	32292054_ES
+lesiones cerebrales	ENFERMEDAD	1	0.5	1	lesión cerebral			lesiones cerebrales	lesiones cerebrales	32651243_ES
+lesiones bucales	ENFERMEDAD	1	0.5	1	lesión bucal			lesiones bucales	lesiones bucales	32425356_ES
+lesiones acras o mucosas	ENFERMEDAD	1	0.5	1	lesión acra o mucoso			lesiones acras o mucosas	lesiones acras o mucosas	32352487_ES
+lesion renal	ENFERMEDAD	1	0.5	1	lesión renal			lesión renal	lesión renal	32292867_ES
+lesion pulmonar aguda tipica de sarscov2	ENFERMEDAD	1	0.5	1	lesión pulmonar agudo típico de sarscov2			lesión pulmonar aguda típica de SARS-CoV-2	lesión pulmonar aguda típica de sarscov2	32635747_ES
+lesion isquemica	ENFERMEDAD	1	0.5	1	lesión isquémico			lesión isquémica	lesión isquémica	32562891_ES
+lesion hepatica aguda grave	ENFERMEDAD	1	0.5	1	lesión hepático agudo grave			lesión hepática aguda grave	lesión hepática aguda grave	32635747_ES
+lesion eritematosa endurecida de la pierna	ENFERMEDAD	1	0.5	1	lesión eritematoso endurecer de el pierna			lesión eritematosa endurecida de la pierna	lesión eritematosa endurecida de la pierna	32425356_ES
+lesion eritematosa endurecida de la piel abdominal	ENFERMEDAD	1	0.5	1	lesión eritematoso endurecer de el piel abdominal			lesión eritematosa endurecida de la piel abdominal	lesión eritematosa endurecida de la piel abdominal	32425356_ES
+kawasaki atipico resistente	ENFERMEDAD	1	0.5	1	kawasaki atípico resistente			Kawasaki atípico resistente	kawasaki atípico resistente	32639461_ES
+kawasaki	ENFERMEDAD	1	0.5	1	kawasaki			Kawasaki	kawasaki	32265235_ES
+isquemia periferica en los dedos de la mano	ENFERMEDAD	1	0.5	1	isquemia periférico en el dedo de el mano			isquemia periférica en los dedos de la mano	isquemia periférica en los dedos de la mano	32359711_ES
+isquemia mesenterica	ENFERMEDAD	1	0.5	1	isquemia mesentérico			isquemia mesentérica	isquemia mesentérica	32586778_ES
+isquemia intestinal generalizada	ENFERMEDAD	1	0.5	1	isquemia intestinal generalizar			isquemia intestinal generalizada	isquemia intestinal generalizada	32351657_ES
+isquemia del intestino ciego	ENFERMEDAD	1	0.5	1	isquemia de+el intestino ciego			isquemia del intestino ciego	isquemia del intestino ciego	32351657_ES
+isquemia de sustancia blanca subcortical y periventricular profunda	ENFERMEDAD	1	0.5	1	isquemia de sustancia blanco subcortical y periventricular profundo			isquemia de sustancia blanca subcortical y periventricular profunda	isquemia de sustancia blanca subcortical y periventricular profunda	32586752_ES
+isquemia de extremidades	ENFERMEDAD	1	0.5	1	isquemia de extremidad			isquemia de extremidades	isquemia de extremidades	32589931_ES
+isquemia aguda	ENFERMEDAD	1	0.5	1	isquemia agudo			isquemia aguda	isquemia aguda	32353183_ES
+isquemia	ENFERMEDAD	1	0.5	1	isquemia	52674009	C0022116	isquemia	isquemia	32351657_ES
+intoxicacion por metales pesados	ENFERMEDAD	1	0.5	1	intoxicación por metal pesar			intoxicación por metales pesados	intoxicación por metales pesados	32588185_ES
+intolerancia fetal	ENFERMEDAD	1	0.5	1	intolerancia fetal			intolerancia fetal	intolerancia fetal	32590725_ES
+intermitente	ENFERMEDAD	1	0.5	1	intermitente	7087005	C0205267	intermitente	intermitente	32618794_ES
+insuficiencia suprarrenal	ENFERMEDAD	1	0.5	1	insuficiencia suprarrenal	68588005	C0405580	insuficiencia suprarrenal	insuficiencia suprarrenal	32635747_ES
+insuficiencia sistolica fronteriza del VI	ENFERMEDAD	1	0.5	1	insuficiencia sistólico fronterizo de+el VI			insuficiencia sistólica fronteriza del VI	insuficiencia sistólica fronteriza del VI	32427161_ES
+insuficiencia respiratoria resistente	ENFERMEDAD	1	0.5	1	insuficiencia respiratorio resistente	409623005, 51395007, 297107002	C0035229, C0035229, C0035229	insuficiencia respiratoria resistente	insuficiencia respiratoria resistente	32583150B_ES
+insuficiencia respiratoria moderada	ENFERMEDAD	1	0.5	1	insuficiencia respiratorio moderar	409623005, 51395007, 297107002	C0035229, C0035229, C0035229	insuficiencia respiratoria moderada	insuficiencia respiratoria moderada	32602267_ES
+insuficiencia respiratoria hipoxica aguda	ENFERMEDAD	1	0.5	1	insuficiencia respiratorio hipóxico agudo			insuficiencia respiratoria hipóxica aguda	insuficiencia respiratoria hipóxica aguda	32292915_ES
+insuficiencia respiratoria hipoxemica grave	ENFERMEDAD	1	0.5	1	insuficiencia respiratorio hipoxémica grave			insuficiencia respiratoria hipoxémica grave	insuficiencia respiratoria hipoxémica grave	32586778_ES
+insuficiencia respiratoria hipocapnica hipoxemica	ENFERMEDAD	1	0.5	1	insuficiencia respiratorio hipocápnica hipoxémica			insuficiencia respiratoria hipocápnica hipoxémica	insuficiencia respiratoria hipocápnica hipoxémica	32399451_ES
+insuficiencia respiratoria cronica	ENFERMEDAD	1	0.5	1	insuficiencia respiratorio crónico			insuficiencia respiratoria crónica	insuficiencia respiratoria crónica	32638347A_ES
+insuficiencia respiratoria aguda hipoxica	ENFERMEDAD	1	0.5	1	insuficiencia respiratorio agudo hipóxico			insuficiencia respiratoria aguda hipóxica	insuficiencia respiratoria aguda hipóxica	32222713_ES
+insuficiencia renal terminal	ENFERMEDAD	1	0.5	1	insuficiencia renal terminal	46177005	C0022661	insuficiencia renal terminal	insuficiencia renal terminal	32222713_ES
+insuficiencia pulmonar	ENFERMEDAD	1	0.5	1	insuficiencia pulmonar	91434003	C0034088	insuficiencia pulmonar	insuficiencia pulmonar	32583150A_ES
+insuficiencia mitral y aortica	ENFERMEDAD	1	0.5	1	insuficiencia mitral y aórtico			insuficiencia mitral y aórtica	insuficiencia mitral y aórtica	32639461_ES
+insuficiencia miocardica	ENFERMEDAD	1	0.5	1	insuficiencia miocárdico			insuficiencia miocárdica	insuficiencia miocárdica	32360384_ES
+insuficiencia del segundo injerto renal	ENFERMEDAD	1	0.5	1	insuficiencia de+el 2 injerto renal			insuficiencia del segundo injerto renal	insuficiencia del segundo injerto renal	32198834_ES
+insuficiencia circulatoria	ENFERMEDAD	1	0.5	1	insuficiencia circulatorio	125119000, 27942005	C0036974, C1265580	insuficiencia circulatoria	insuficiencia circulatoria	32250095_ES
+insuficiencia cardiaca leve	ENFERMEDAD	1	0.5	1	insuficiencia cardiaco leve			insuficiencia cardíaca leve	insuficiencia cardíaca leve	32635747_ES
+insuficiencia cardiaca congestiva	ENFERMEDAD	2	1.0	1	insuficiencia cardiaco congestivo	42343007	C0018802	insuficiencia cardiaca congestiva	insuficiencia cardiaca congestiva	32363336_ES, 32622483_ES
+insuficiencia aortica ligeras	ENFERMEDAD	1	0.5	1	insuficiencia aórtico ligero			insuficiencia aórtica ligeras	insuficiencia aórtica ligeras	32631645_ES
+insuficiencia	ENFERMEDAD	1	0.5	1	insuficiencia	87828008	C0231179	insuficiencia	insuficiencia	32650881_ES
+inmunodeficiencias hereditarias	ENFERMEDAD	1	0.5	1	inmunodeficiencia hereditario			inmunodeficiencias hereditarias	inmunodeficiencias hereditarias	32619736_ES
+ingestion de lejia	ENFERMEDAD	1	0.5	1	ingestión de lejía			ingestión de lejía	ingestión de lejía	32593478_ES
+inflamatoria	ENFERMEDAD	1	0.5	1	inflamatorio			inflamatoria	inflamatoria	32650881_ES
+inflamacion multiorganica secundaria	ENFERMEDAD	1	0.5	1	inflamación multiorgánico secundario			inflamación multiorgánica secundaria	inflamación multiorgánica secundaria	32427161_ES
+infiltracion tubularintersticial de eosinofilos extensa	ENFERMEDAD	1	0.5	1	infiltración tubularintersticial de eosinófilo extenso			infiltración tubular-intersticial de eosinófilos extensa	infiltración tubularintersticial de eosinófilos extensa	32622819B_ES
+infiltracion en la musculatura vesical	ENFERMEDAD	1	0.5	1	infiltración en el musculatura vesical			infiltración en la musculatura vesical	infiltración en la musculatura vesical	32622819A_ES
+infiltracion difusa bilateral en la zona inferior	ENFERMEDAD	1	0.5	1	infiltración difuso bilateral en el zona inferior			infiltración difusa bilateral en la zona inferior	infiltración difusa bilateral en la zona inferior	32637086B_ES
+infectados de covid19	ENFERMEDAD	1	0.5	1	infectar de covid19			infectados de COVID-19	infectados de covid19	32198834_ES
+infectado de sarscov2	ENFERMEDAD	1	0.5	1	infectar de sarscov2			infectado de SARS-CoV-2	infectado de sarscov2	32208010_ES
+infecciosas de livedo	ENFERMEDAD	1	0.5	1	infeccioso de livedo			infecciosas de livedo	infecciosas de livedo	32588475_ES
+infecciones viricas bacterianas o fungicas	ENFERMEDAD	1	0.5	1	infección vírico bacteriano o fúngico			infecciones víricas, bacterianas o fúngicas	infecciones víricas bacterianas o fúngicas	32198834_ES
+infecciones urinarias	ENFERMEDAD	1	0.5	1	infección urinario			infecciones urinarias	infecciones urinarias	32360439-B_ES
+infecciones por ncov19	ENFERMEDAD	1	0.5	1	infección por ncov19			infecciones por nCoV-19	infecciones por ncov19	32196627_ES
+infecciones por mycoplasma pneumoniae	ENFERMEDAD	1	0.5	1	infección por micoplasma pneumoniae			infecciones por Mycoplasma pneumoniae	infecciones por mycoplasma pneumoniae	32584431_ES
+infecciones graves	ENFERMEDAD	1	0.5	1	infección grave			infecciones graves	infecciones graves	32636116_ES
+infecciones endemicas	ENFERMEDAD	1	0.5	1	infección endémico			infecciones endémicas	infecciones endémicas	32414534_ES
+infecciones del SNC	ENFERMEDAD	1	0.5	1	infección de+el SNC			infecciones del SNC	infecciones del SNC	32563170_ES
+infecciones asociadas a la sonda	ENFERMEDAD	1	0.5	1	infección asociar a el sonda			infecciones asociadas a la sonda	infecciones asociadas a la sonda	32359711_ES
+infeccion virica por covid19	ENFERMEDAD	1	0.5	1	infección vírico por covid19			infección vírica por COVID-19	infección vírica por covid19	32360439_ES
+infeccion virica de las vias respiratorias altas	ENFERMEDAD	1	0.5	1	infección vírico de el vía respiratorio alto			infección vírica de las vías respiratorias altas	infección vírica de las vías respiratorias altas	32282312_ES
+infeccion urinaria	ENFERMEDAD	1	0.5	1	infección urinario			infección urinaria	infección urinaria	32318729_ES
+infeccion superpuesta de E coli	ENFERMEDAD	1	0.5	1	infección superponer de E coli			infección superpuesta de E. coli	infección superpuesta de E coli	32617223_ES
+infeccion sobreanadida	ENFERMEDAD	1	0.5	1	infección sobreañadir			infección sobreañadida	infección sobreañadida	32222713_ES
+infeccion respiratoria por sarscov2	ENFERMEDAD	1	0.5	1	infección respiratorio por sarscov2			infección respiratoria por SARS-CoV-2	infección respiratoria por sarscov2	32267502_ES
+infeccion reciente por sarscov2	ENFERMEDAD	1	0.5	1	infección reciente por sarscov2			infección reciente por SARS-CoV-2	infección reciente por sarscov2	32601756_ES
+infeccion pulmonar por sarscov2	ENFERMEDAD	1	0.5	1	infección pulmonar por sarscov2			infección pulmonar por SARS-CoV-2	infección pulmonar por sarscov2	32638347B_ES
+infeccion pulmonar bilateral	ENFERMEDAD	1	0.5	1	infección pulmonar bilateral			infección pulmonar bilateral	infección pulmonar bilateral	32292053_ES
+infeccion previa por sarscov2	ENFERMEDAD	1	0.5	1	infección previo por sarscov2			infección previa por SARS-CoV-2	infección previa por sarscov2	32640066_ES
+infeccion por virus sarscov2	ENFERMEDAD	1	0.5	1	infección por virus sarscov2			infección por virus SARS-CoV-2	infección por virus sarscov2	32360384_ES
+infeccion por sindrome respiratorio agudo grave de coronavirus 2	ENFERMEDAD	1	0.5	1	infección por síndrome respiratorio agudo grave de coronavirus 2			infección por síndrome respiratorio agudo grave de coronavirus 2	infección por síndrome respiratorio agudo grave de coronavirus 2	32317275_ES
+infeccion por ncov19	ENFERMEDAD	1	0.5	1	infección por ncov19			infección por nCoV-19	infección por ncov19	32196627_ES
+infeccion por mycoplasma pneumoniae	ENFERMEDAD	1	0.5	1	infección por micoplasma pneumoniae			infección por Mycoplasma pneumoniae	infección por mycoplasma pneumoniae	32417987_ES
+infeccion por el virus del sindrome respiratorio agudo grave	ENFERMEDAD	1	0.5	1	infección por el virus de+el síndrome respiratorio agudo grave			infección por el virus del síndrome respiratorio agudo grave	infección por el virus del síndrome respiratorio agudo grave	32267140_ES
+infeccion por citomegalovirus	ENFERMEDAD	1	0.5	1	infección por citomegalovirus			infección por citomegalovirus	infección por citomegalovirus	32554621_ES
+infeccion por 2019ncov	ENFERMEDAD	1	0.5	1	infección por 2019 ncov			infección por 2019-nCoV	infección por 2019ncov	32168162_ES
+infeccion neonatal	ENFERMEDAD	1	0.5	1	infección neonatal			infección neonatal	infección neonatal	32161941_ES
+infeccion herpetica	ENFERMEDAD	1	0.5	1	infección herpético			infección herpética	infección herpética	32589314_ES
+infeccion grave por covid19	ENFERMEDAD	1	0.5	1	infección grave por covid19			infección grave por COVID-19	infección grave por covid19	32423911_ES
+infeccion grave	ENFERMEDAD	1	0.5	1	infección grave			infección grave	infección grave	32425356_ES
+infeccion extratoracica	ENFERMEDAD	1	0.5	1	infección extratorácica			infección extratorácica	infección extratorácica	32623310_ES
+infeccion extrahospitalaria por sarscov2	ENFERMEDAD	1	0.5	1	infección extrahospitalario por sarscov2			infección extrahospitalaria por SARS-CoV-2	infección extrahospitalaria por sarscov2	32412848_ES
+infeccion en los lobulos inferior y superior	ENFERMEDAD	1	0.5	1	infección en el lóbulo inferior y superior			infección en los lóbulos inferior y superior	infección en los lóbulos inferior y superior	32161941_ES
+infeccion del sistema nervioso central snc	ENFERMEDAD	1	0.5	1	infección de+el sistema nervioso central snc			infección del sistema nervioso central (SNC	infección del sistema nervioso central snc	32563170_ES
+infeccion de vias respiratorias superiores	ENFERMEDAD	1	0.5	1	infección de vía respiratorio superior			infección de vías respiratorias superiores	infección de vías respiratorias superiores	32364123_ES
+infeccion de sindrome respiratorio agudo grave de coronavirus 2	ENFERMEDAD	1	0.5	1	infección de síndrome respiratorio agudo grave de coronavirus 2			infección de síndrome respiratorio agudo grave de coronavirus 2	infección de síndrome respiratorio agudo grave de coronavirus 2	32401344_ES
+infeccion de sars	ENFERMEDAD	1	0.5	1	infección de sars			infección de SARS	infección de sars	32215898_ES
+infeccion de las vias respiratorias altas	ENFERMEDAD	1	0.5	1	infección de el vía respiratorio alto			infección de las vías respiratorias altas	infección de las vías respiratorias altas	32427774_ES
+infeccion de las partes blandas	ENFERMEDAD	1	0.5	1	infección de el parte blando			infección de las partes blandas	infección de las partes blandas	32292054_ES
+infeccion de covid19	ENFERMEDAD	1	0.5	1	infección de covid19			infección de COVID-19	infección de covid19	32641443_ES
+infeccion cronica	ENFERMEDAD	1	0.5	1	infección crónico			infección crónica	infección crónica	32292904_ES
+infeccion concurrente por CMV	ENFERMEDAD	1	0.5	1	infección concurrente por CMV			infección concurrente por CMV	infección concurrente por CMV	32607564_ES
+infeccion asintomatica por sarscov2	ENFERMEDAD	1	0.5	1	infección asintomático por sarscov2			infección asintomática por SARS-CoV-2	infección asintomática por sarscov2	32636116_ES
+infeccion agudapcr	ENFERMEDAD	1	0.5	1	infección agudapcr			infección aguda(PCR	infección agudapcr	32636116_ES
+infeccion aguda por covid19	ENFERMEDAD	1	0.5	1	infección agudo por covid19			infección aguda por COVID-19	infección aguda por covid19	32638347A_ES
+infartos hemorragicos en evolucion en los lobulos occipitoparietales y en los lobulos izquierdos temporal y frontal	ENFERMEDAD	1	0.5	1	infarto hemorrágico en evolución en el lóbulo occipitoparietal y en el lóbulo izquierdo temporal y frontal			infartos hemorrágicos en evolución en los lóbulos occipitoparietales y en los lóbulos izquierdos temporal y frontal	infartos hemorrágicos en evolución en los lóbulos occipitoparietales y en los lóbulos izquierdos temporal y frontal	32583150B_ES
+infartos en los lobulos parietal y occipital	ENFERMEDAD	1	0.5	1	infarto en el lóbulo parietal y occipital			infartos en los lóbulos parietal y occipital	infartos en los lóbulos parietal y occipital	32617903A_ES
+infartos de la zona marginal subcortical	ENFERMEDAD	1	0.5	1	infarto de el zona marginal subcortical			infartos de la zona marginal subcortical	infartos de la zona marginal subcortical	32617903B_ES
+infartos bilaterales en la arteria cerebral media y en la arteria cerebral posterior	ENFERMEDAD	1	0.5	1	infarto bilateral en el arteria cerebral medio y en el arteria cerebral posterior			infartos bilaterales en la arteria cerebral media y en la arteria cerebral posterior	infartos bilaterales en la arteria cerebral media y en la arteria cerebral posterior	32583150B_ES
+infarto venoso hemorragico	ENFERMEDAD	1	0.5	1	infarto venoso hemorrágico			infarto venoso hemorrágico	infarto venoso hemorrágico	32554423_ES
+infarto pulmonar triangular periferico	ENFERMEDAD	1	0.5	1	infarto pulmonar triangular periférico			infarto pulmonar triangular periférico	infarto pulmonar triangular periférico	32402687-B_ES
+infarto pulmonar periferico	ENFERMEDAD	1	0.5	1	infarto pulmonar periférico			infarto pulmonar periférico	infarto pulmonar periférico	32402687_ES
+infarto esplenico	ENFERMEDAD	1	0.5	1	infarto esplénico			infarto esplénico	infarto esplénico	32586778_ES
+infarto de miocardio de onda Q	ENFERMEDAD	1	0.5	1	infarto de miocardio de onda Q			infarto de miocardio de onda Q	infarto de miocardio de onda Q	32363351_ES
+infarto de miocardio	ENFERMEDAD	1	0.5	1	infarto de miocardio	22298006	C0027051	infarto de miocardio	infarto de miocardio	32363351_ES
+infarto de la arteria cerebral media	ENFERMEDAD	1	0.5	1	infarto de el arteria cerebral medio			infarto de la arteria cerebral media	infarto de la arteria cerebral media	32583150A_ES
+infarto de 305 cc en la ACM	ENFERMEDAD	1	0.5	1	infarto de 305 cc en el ACM			infarto de 305 cc en la ACM	infarto de 305 cc en la ACM	32360439-C_ES
+infarto agudo en el lobulo temporal medial	ENFERMEDAD	1	0.5	1	infarto agudo en el lóbulo temporal medial			infarto agudo en el lóbulo temporal medial	infarto agudo en el lóbulo temporal medial	32360439-D_ES
+infarto agudo de la zona de la ACM	ENFERMEDAD	1	0.5	1	infarto agudo de el zona de el ACM			infarto agudo de la zona de la ACM	infarto agudo de la zona de la ACM	32360439_ES
+inestabilidad vertebral	ENFERMEDAD	1	0.5	1	inestabilidad vertebral			inestabilidad vertebral	inestabilidad vertebral	32644205_ES
+incontinencia urinaria mixta	ENFERMEDAD	1	0.5	1	incontinencia urinario mixto	41840003	C0042024, C0312413	incontinencia urinaria mixta	incontinencia urinaria mixta	32631645_ES
+idiopatica	ENFERMEDAD	1	0.5	1	idiopático			idiopática	idiopática	32401344_ES
+ictus isquemico vertebrobasal	ENFERMEDAD	1	0.5	1	ictus isquémico vertebrobasal			ictus isquémico vertebrobasal	ictus isquémico vertebrobasal	32651243_ES
+ictus isquemico transitorio	ENFERMEDAD	1	0.5	1	ictus isquémico transitorio			ictus isquémico transitorio	ictus isquémico transitorio	32360439-D_ES
+ictus isquemico completo de la arteria cerebral	ENFERMEDAD	1	0.5	1	ictus isquémico completo de el arteria cerebral			ictus isquémico completo de la arteria cerebral	ictus isquémico completo de la arteria cerebral	32648092B_ES
+ictus cortical	ENFERMEDAD	1	0.5	1	ictus cortical			ictus cortical	ictus cortical	32426200_ES
+ictus agudo de la ACM	ENFERMEDAD	1	0.5	1	ictus agudo de el ACM			ictus agudo de la ACM	ictus agudo de la ACM	32360439-C_ES
+hipoxia progresiva	ENFERMEDAD	1	0.5	1	hipoxia progresivo			hipoxia progresiva	hipoxia progresiva	32554811_ES
+hipoxemia refractaria	ENFERMEDAD	1	0.5	1	hipoxemia refractario			hipoxemia refractaria	hipoxemia refractaria	3229222_ES
+hipoxemia progresiva	ENFERMEDAD	1	0.5	1	hipoxemia progresivo			hipoxemia progresiva	hipoxemia progresiva	32611659_ES
+hipoxemia intervellosa cronica	ENFERMEDAD	1	0.5	1	hipoxemia intervelloso crónico			hipoxemia intervellosa crónica	hipoxemia intervellosa crónica	32637327A_ES
+hipovolemia	ENFERMEDAD	1	0.5	1	hipovolemia	816082000, 28560003	C0546884	hipovolemia	hipovolemia	32399449_ES
+hipotiroidismo autoinmunitario	ENFERMEDAD	1	0.5	1	hipotiroidismo autoinmunitario	237519003	C0342158	hipotiroidismo autoinmunitario	hipotiroidismo autoinmunitario	32294340_ES
+hipotension sintomatica	ENFERMEDAD	1	0.5	1	hipotensión sintomático			hipotensión sintomática	hipotensión sintomática	32329981_ES
+hipotension ortostatica	ENFERMEDAD	1	0.5	1	hipotensión ortostático			hipotensión ortostática	hipotensión ortostática	32640066_ES
+hiposmia posvirica	ENFERMEDAD	1	0.5	1	hiposmia posvírico			hiposmia posvírica	hiposmia posvírica	32605712_ES
+hiposmia	ENFERMEDAD	1	0.5	1	hiposmia			hiposmia	hiposmia	32585767_ES
+hipogeusia	ENFERMEDAD	1	0.5	1	hipogeusia	697990000	C0151934	hipogeusia	hipogeusia	32586958_ES
+hipocinesia del VI grave	ENFERMEDAD	1	0.5	1	hipocinesia de+el VI grave			hipocinesia del VI grave	hipocinesia del VI grave	32275347_ES
+hipocinesia de los segmentos inferior e inferolateral del ventriculo	ENFERMEDAD	1	0.5	1	hipocinesia de el segmento inferior y inferolateral de+el ventrículo			hipocinesia de los segmentos inferior e inferolateral del ventrículo	hipocinesia de los segmentos inferior e inferolateral del ventrículo	32593338_ES
+hipoacusia biauricular	ENFERMEDAD	1	0.5	1	hipoacusia biauricular			hipoacusia biauricular	hipoacusia biauricular	32207255_ES
+hipertrofia miocardica	ENFERMEDAD	1	0.5	1	hipertrofia miocárdico			hipertrofia miocárdica	hipertrofia miocárdica	32427645_ES
+hipertrofia concentrica moderada	ENFERMEDAD	1	0.5	1	hipertrofia concéntrico moderar			hipertrofia concéntrica moderada	hipertrofia concéntrica moderada	3229222_ES
+hipertrofia biventricular	ENFERMEDAD	1	0.5	1	hipertrofia biventricular	266249003	C0340279	hipertrofia biventricular	hipertrofia biventricular	32423738_ES
+hipertrofia auricular	ENFERMEDAD	1	0.5	1	hipertrofia auricular	195126007	C0340278	hipertrofia auricular	hipertrofia auricular	32329981_ES
+hipertrigliceridemia	ENFERMEDAD	1	0.5	1	hipertrigliceridemia	302870006	C0020557	hipertrigliceridemia	hipertrigliceridemia	32427161_ES
+hipertermia aguda	ENFERMEDAD	1	0.5	1	hipertermia agudo			hipertermia aguda	hipertermia aguda	32609542_ES
+hipertension sistemica	ENFERMEDAD	1	0.5	1	hipertensión sistémico			hipertensión sistémica	hipertensión sistémica	32622823_ES
+hipertension pulmonar severa	ENFERMEDAD	1	0.5	1	hipertensión pulmonar severo			hipertensión pulmonar severa	hipertensión pulmonar severa	32631645_ES
+hipertension leve	ENFERMEDAD	1	0.5	1	hipertensión leve			hipertensión leve	hipertensión leve	32399950_ES
+hipertension idiopatica	ENFERMEDAD	1	0.5	1	hipertensión idiopático			hipertensión idiopática	hipertensión idiopática	32402687_ES
+hipertension grave	ENFERMEDAD	1	0.5	1	hipertensión grave			hipertensión grave	hipertensión grave	32363336_ES
+hipertension esencial	ENFERMEDAD	1	0.5	1	hipertensión esencial			hipertensión esencial	hipertensión esencial	32292867_ES
+hipertension de grado 2	ENFERMEDAD	1	0.5	1	hipertensión de grado 2			hipertensión de grado 2	hipertensión de grado 2	32073161_ES
+hipertension arterial sistemica	ENFERMEDAD	1	0.5	1	hipertensión arterial sistémico			hipertensión arterial sistémica	hipertensión arterial sistémica	32267461_ES
+hiperpotasemia	ENFERMEDAD	1	0.5	1	hiperpotasemia	14140009	C0020461	hiperpotasemia	hiperpotasemia	32635747_ES
+hiperplasia prostatica benigna	ENFERMEDAD	1	0.5	1	hiperplasia prostático benigno			hiperplasia prostática benigna	hiperplasia prostática benigna	32587121_ES
+hiperleucocitosis	ENFERMEDAD	1	0.5	1	hiperleucocitosis			hiperleucocitosis	hiperleucocitosis	32351657_ES
+hiperfibrinogenemia	ENFERMEDAD	1	0.5	1	hiperfibrinogenemia	439000005, 123791008	C0919890, C3853499	hiperfibrinogenemia	hiperfibrinogenemia	32353183_ES
+hipereosinofilia	ENFERMEDAD	1	0.5	1	hipereosinofilia			hipereosinofilia	hipereosinofilia	32622819B_ES
+hiperdensidad espontanea en las venas cerebrales profundas y en la vena cerebral magna	ENFERMEDAD	1	0.5	1	hiperdensidad espontáneo en el vena cerebral profundo y en el vena cerebral magno			hiperdensidad espontánea en las venas cerebrales profundas y en la vena cerebral magna	hiperdensidad espontánea en las venas cerebrales profundas y en la vena cerebral magna	32554423_ES
+hipercolesterolemia	ENFERMEDAD	1	0.5	1	hipercolesterolemia	13644009	C0020443	hipercolesterolemia	hipercolesterolemia	32653210_ES
+hidrosadenitis plantar idiopatica	ENFERMEDAD	1	0.5	1	hidrosadenitis plantar idiopático			hidrosadenitis plantar idiopática	hidrosadenitis plantar idiopática	32294264_ES
+hidronefrosis	ENFERMEDAD	1	0.5	1	hidronefrosis	43064006	C0020295	hidronefrosis	hidronefrosis	32318729_ES
+herpes zoster	ENFERMEDAD	1	0.5	1	herpes zóster			herpes zóster	herpes zóster	32602610_ES
+hernia inguinal	ENFERMEDAD	1	0.5	1	hernia inguinal	396232000, 44297005	C0019294, C0019294, C0401063	hernia inguinal	hernia inguinal	32612435_ES
+hepatitis virica	ENFERMEDAD	1	0.5	1	hepatitis vírico			hepatitis vírica	hepatitis vírica	32635747_ES
+hepatitis abc treponema pallidum y VIH	ENFERMEDAD	1	0.5	1	hepatitis abc treponema pallidum y VIH			hepatitis A-B-C, Treponema pallidum y VIH	hepatitis abc treponema pallidum y VIH	32584431_ES
+hepatitis C y parvovirus B19	ENFERMEDAD	1	0.5	1	hepatitis C y parvovirus B19			hepatitis C y parvovirus B19	hepatitis C y parvovirus B19	32352487_ES
+hemorragias subdurales y subaracnoideas	ENFERMEDAD	1	0.5	1	hemorragia subdural y subaracnoideo			hemorragias subdurales y subaracnoideas	hemorragias subdurales y subaracnoideas	32399450_ES
+hemorragias	ENFERMEDAD	1	0.5	1	hemorragia	131148009, 50960005	C0019080, C0019080	hemorragias	hemorragias	32401344_ES
+hemorragia vaginal	ENFERMEDAD	1	0.5	1	hemorragia vaginal	75191004	C2979982	hemorragia vaginal	hemorragia vaginal	32161941_ES
+hemorragia subaracnoidea contralateral difusa	ENFERMEDAD	1	0.5	1	hemorragia subaracnoideo contralateral difuso			hemorragia subaracnoidea contralateral difusa	hemorragia subaracnoidea contralateral difusa	32583150A_ES
+hemorragia parenquimatosa	ENFERMEDAD	1	0.5	1	hemorragia parenquimatoso			hemorragia parenquimatosa	hemorragia parenquimatosa	32554423_ES
+hemorragia gastrointestinal	ENFERMEDAD	1	0.5	1	hemorragia gastrointestinal	74474003	C0017181	hemorragia gastrointestinal	hemorragia gastrointestinal	32292915_ES
+hemorragia en el segmento apicoposterior del lobulo superior	ENFERMEDAD	1	0.5	1	hemorragia en el segmento apicoposterior de+el lóbulo superior			hemorragia en el segmento apicoposterior del lóbulo superior	hemorragia en el segmento apicoposterior del lóbulo superior	32174057_ES
+hemorragia cutanea y muscular espontanea grave	ENFERMEDAD	1	0.5	1	hemorragia cutáneo y muscular espontáneo grave			hemorragia cutánea y muscular espontánea grave	hemorragia cutánea y muscular espontánea grave	32401344_ES
+hemorragia alveolar	ENFERMEDAD	1	0.5	1	hemorragia alveolar			hemorragia alveolar	hemorragia alveolar	32622819B_ES
+hemorragia aguda	ENFERMEDAD	1	0.5	1	hemorragia agudo	8573003	C0333276	hemorragia aguda	hemorragia aguda	32648092B_ES
+hemoptisis masiva	ENFERMEDAD	1	0.5	1	hemoptisis masivo			hemoptisis masiva	hemoptisis masiva	32622819B_ES
+hemofilia A adquirida	ENFERMEDAD	1	0.5	1	hemofilia A adquirir			hemofilia A adquirida	hemofilia A adquirida	32401344_ES
+hemofilia A	ENFERMEDAD	1	0.5	1	hemofilia A			hemofilia A	hemofilia A	32631838_ES
+hemocultivos se hallo escherichia coli resistente al imipenem	ENFERMEDAD	1	0.5	1	hemocultivo se hallar escherichia coli resistente a+el imipenem			hemocultivos se halló Escherichia coli resistente al imipenem	hemocultivos se halló escherichia coli resistente al imipenem	32617223_ES
+hemocultivos hubo crecimiento de enterococcus faecium resistente a vancomicna y staphylococcus epidermidis	ENFERMEDAD	1	0.5	1	hemocultivo haber crecimiento de enterococcus faecium resistente a vancomicna y staphylococcus epidermidis			hemocultivos hubo crecimiento de Enterococcus faecium resistente a vancomicna y Staphylococcus epidermidis	hemocultivos hubo crecimiento de enterococcus faecium resistente a vancomicna y staphylococcus epidermidis	32607564_ES
+hemiplegia faciobraquiofemoral	ENFERMEDAD	1	0.5	1	hemiplegia faciobraquiofemoral			hemiplegia faciobraquiofemoral	hemiplegia faciobraquiofemoral	32648092B_ES
+hemiparesia izquierda subita	ENFERMEDAD	1	0.5	1	hemiparesia izquierdo súbito			hemiparesia izquierda súbita	hemiparesia izquierda súbita	32554423_ES
+hemiparesia izquierda	ENFERMEDAD	1	0.5	1	hemiparesia izquierdo	278287000	C0457436	hemiparesia izquierda	hemiparesia izquierda	32360439-C_ES
+hematoma en el tronco	ENFERMEDAD	1	0.5	1	hematoma en el tronco			hematoma en el tronco	hematoma en el tronco	32401344_ES
+gripe	ENFERMEDAD	1	0.5	1	gripe	6142004	C0021400	gripe	gripe	32267140_ES
+granulopatias	ENFERMEDAD	1	0.5	1	granulopatías			granulopatías	granulopatías	32622819B_ES
+glomerulopatia colapsante	ENFERMEDAD	1	0.5	1	glomerulopatía colapsante			glomerulopatía colapsante	glomerulopatía colapsante	32292867_ES
+gastroenteritis	ENFERMEDAD	1	0.5	1	gastroenteritis	25374005	C0017160	gastroenteritis	gastroenteritis	32363217_ES
+gastritis cronica	ENFERMEDAD	1	0.5	1	gastritis crónico			gastritis crónica	gastritis crónica	32208010_ES
+gangrenosas negras en las yemas de los dedos	ENFERMEDAD	1	0.5	1	gangrenoso negro en el yema de el dedo			gangrenosas negras en las yemas de los dedos	gangrenosas negras en las yemas de los dedos	32359711_ES
+gangrena seca	ENFERMEDAD	1	0.5	1	gangrena seco	67087007	C0333536	gangrena seca	gangrena seca	32589931_ES
+gangrena	ENFERMEDAD	1	0.5	1	gangrenar	36024000	C0017086	gangrena	gangrena	32359711_ES
+fractura pelvica	ENFERMEDAD	1	0.5	1	fractura pélvico			fractura pélvica	fractura pélvica	32399450_ES
+fractura	ENFERMEDAD	1	0.5	1	fracturar	72704001	C0016658	fractura	fractura	32644205_ES
+fisura palatina	ENFERMEDAD	1	0.5	1	fisura palatino	87979003	C0008925	fisura palatina	fisura palatina	32554811_ES
+fibrosis focal	ENFERMEDAD	1	0.5	1	fibrosis focal	45559001	C0521195	fibrosis focal	fibrosis focal	32650881_ES
+fibrosis de reemplazo	ENFERMEDAD	1	0.5	1	fibrosis de reemplazo			fibrosis de reemplazo	fibrosis de reemplazo	32267502_ES
+fibrilacion auricular paroxistica	ENFERMEDAD	1	0.5	1	fibrilación auricular paroxístico			fibrilación auricular paroxística	fibrilación auricular paroxística	32635747_ES
+fibrilacion auricular intermitente	ENFERMEDAD	1	0.5	1	fibrilación auricular intermitente			fibrilación auricular intermitente	fibrilación auricular intermitente	32622819A_ES
+feto intrauterino	ENFERMEDAD	1	0.5	1	feto intrauterino	738945005, 398236008	C0694756, C4521295	feto intrauterino	feto intrauterino	32119083_ES
+feto estaba en occipucio anterior	ENFERMEDAD	1	0.5	1	feto estar en occipucio anterior			feto estaba en occipucio anterior	feto estaba en occipucio anterior	32590725_ES
+fetales de parto	ENFERMEDAD	1	0.5	1	fetal de parto			fetales de parto	fetales de parto	32590725_ES
+faringitis aguda	ENFERMEDAD	1	0.5	1	faringitis agudo	27321001, 363746003	C0001344, C0001344, C0031350	faringitis aguda	faringitis aguda	32639461_ES
+faringitis	ENFERMEDAD	1	0.5	1	faringitis	37616004, 405737000	C0031350, C0031350	faringitis	faringitis	32318729_ES
+fallo multiorganico	ENFERMEDAD	1	0.5	1	fallo multiorgánico			fallo multiorgánico	fallo multiorgánico	32622483_ES
+fallecio	ENFERMEDAD	1	0.5	1	fallecer			falleció	falleció	32282871_ES
+extrauterina	ENFERMEDAD	1	0.5	1	extrauterino			extrauterina	extrauterina	32363217_ES
+extabaquismo	ENFERMEDAD	1	0.5	1	extabaquismo			ex-tabaquismo	extabaquismo	32650881_ES
+exfumador	ENFERMEDAD	1	0.5	1	exfumador	8517006	C0337671	exfumador	exfumador	32648092C_ES
+exantema virico inespecifico	ENFERMEDAD	1	0.5	1	exantema vírico inespecífico			exantema vírico inespecífico	exantema vírico inespecífico	32428291-B_ES
+exantema urticarial clasico	ENFERMEDAD	1	0.5	1	exantema urticarial clásico			exantema urticarial clásico	exantema urticarial clásico	32641443_ES
+exantema palido maculopapular	ENFERMEDAD	1	0.5	1	exantema pálido maculopapular			exantema pálido maculopapular	exantema pálido maculopapular	32427161_ES
+exantema maculopapuloso eritematoso pruritico	ENFERMEDAD	1	0.5	1	exantema maculopapuloso eritematoso prurítico			exantema maculopapuloso eritematoso prurítico	exantema maculopapuloso eritematoso prurítico	32617169_ES
+exantema eritematoso	ENFERMEDAD	1	0.5	1	exantema eritematoso			exantema eritematoso	exantema eritematoso	32640066_ES
+exantema en las extremidades inferiores	ENFERMEDAD	1	0.5	1	exantema en el extremidad inferior			exantema en las extremidades inferiores	exantema en las extremidades inferiores	32554425_ES
+exantema dorsal pruriginoso pasajero	ENFERMEDAD	1	0.5	1	exantema dorsal pruriginoso pasajero			exantema dorsal pruriginoso pasajero	exantema dorsal pruriginoso pasajero	32399950_ES
+etiologias bacterianas o viricas	ENFERMEDAD	1	0.5	1	etiología bacteriano o vírico			etiologías bacterianas o víricas	etiologías bacterianas o víricas	32611761A_ES
+estenosis focal moderada de la ACM	ENFERMEDAD	1	0.5	1	estenosis focal moderar de el ACM			estenosis focal moderada de la ACM	estenosis focal moderada de la ACM	32360439-B_ES
+estenosis epicardica	ENFERMEDAD	1	0.5	1	estenosis epicárdico			estenosis epicárdica	estenosis epicárdica	32650881_ES
+estenosis del segmento M1	ENFERMEDAD	1	0.5	1	estenosis de+el segmento M1			estenosis del segmento M1	estenosis del segmento M1	32360439-D_ES
+estenosis carotidea	ENFERMEDAD	1	0.5	1	estenosis carotídeo			estenosis carotídea	estenosis carotídea	32360439_ES
+esteatosis hepatica	ENFERMEDAD	1	0.5	1	esteatosis hepático			esteatosis hepática	esteatosis hepática	32653960_ES
+estado potencialmente mortal	ENFERMEDAD	1	0.5	1	estado potencialmente mortal			estado potencialmente mortal	estado potencialmente mortal	32427645_ES
+estado epileptico resistente	ENFERMEDAD	1	0.5	1	estado epiléptico resistente			estado epiléptico resistente	estado epiléptico resistente	32554423_ES
+estado epileptico no convulsivo	ENFERMEDAD	1	0.5	1	estado epiléptico no convulsivo			estado epiléptico no convulsivo	estado epiléptico no convulsivo	32583150B_ES
+espongiosis con paraqueratosis focal epidermica	ENFERMEDAD	1	0.5	1	espongiosis con paraqueratosis focal epidérmico			espongiosis con paraqueratosis focal epidérmica	espongiosis con paraqueratosis focal epidérmica	32352486_ES
+espondiloartrosis avanzada	ENFERMEDAD	1	0.5	1	espondiloartrosis avanzar			espondiloartrosis avanzada	espondiloartrosis avanzada	32631645_ES
+esplenomegalia	ENFERMEDAD	1	0.5	1	esplenomegalia	16294009	C0038002	esplenomegalia	esplenomegalia	32292053_ES
+esclerosis multiple recidivante	ENFERMEDAD	1	0.5	1	esclerosis múltiple recidivante			esclerosis múltiple recidivante	esclerosis múltiple recidivante	32644205_ES
+escarlatina	ENFERMEDAD	1	0.5	1	escarlatina	30242009	C0036285	escarlatina	escarlatina	32639461_ES
+erupcion urticarial generalizada	ENFERMEDAD	1	0.5	1	erupción urticarial generalizar			erupción urticarial generalizada	erupción urticarial generalizada	32641443_ES
+erupcion de placas eritematosas pruriginosas	ENFERMEDAD	1	0.5	1	erupción de placa eritematoso pruriginoso			erupción de placas eritematosas pruriginosas	erupción de placas eritematosas pruriginosas	32294273_ES
+eritema polimorfo grave	ENFERMEDAD	1	0.5	1	eritema polimorfo grave	36715001	C0014742	eritema polimorfo grave	eritema polimorfo grave	32589314_ES
+equimosis cutanea	ENFERMEDAD	1	0.5	1	equimosis cutáneo			equimosis cutánea	equimosis cutánea	32277408_ES
+epistaxis en las extremidades inferiores	ENFERMEDAD	1	0.5	1	epistaxis en el extremidad inferior			epistaxis en las extremidades inferiores	epistaxis en las extremidades inferiores	32294340_ES
+epileptico no convulsivo	ENFERMEDAD	1	0.5	1	epiléptico no convulsivo			epiléptico no convulsivo	epiléptico no convulsivo	32589794_ES
+epilepsia	ENFERMEDAD	1	0.5	1	epilepsia	84757009	C0014544	epilepsia	epilepsia	32563170_ES
+enlentecimiento psicomotor	ENFERMEDAD	1	0.5	1	enlentecimiento psicomotor			enlentecimiento psicomotor	enlentecimiento psicomotor	32563170_ES
+enfisema reducido en el lobulo inferior	ENFERMEDAD	1	0.5	1	enfisema reducir en el lóbulo inferior			enfisema reducido en el lóbulo inferior	enfisema reducido en el lóbulo inferior	32161941_ES
+enfisema pulmonar	ENFERMEDAD	1	0.5	1	enfisema pulmonar	87433001	C0034067	enfisema pulmonar	enfisema pulmonar	32222713_ES
+enfisema mediastinico	ENFERMEDAD	1	0.5	1	enfisema mediastínico			enfisema mediastínico	enfisema mediastínico	32207255_ES
+enfermedades viricas	ENFERMEDAD	1	0.5	1	enfermedad vírico			enfermedades víricas	enfermedades víricas	32363217_ES
+enfermedades psiquiatricas	ENFERMEDAD	1	0.5	1	enfermedad psiquiátrico			enfermedades psiquiátricas	enfermedades psiquiátricas	32593478_ES
+enfermedades cardiovasculares	ENFERMEDAD	1	0.5	1	enfermedad cardiovascular			enfermedades cardiovasculares	enfermedades cardiovasculares	32415334_ES
+enfermedades autoinmunitarias	ENFERMEDAD	1	0.5	1	enfermedad autoinmunitario	85828009	C0004364	enfermedades autoinmunitarias	enfermedades autoinmunitarias	32631838_ES
+enfermedad virica	ENFERMEDAD	1	0.5	1	enfermedad vírico			enfermedad vírica	enfermedad vírica	32641443_ES
+enfermedad venosa cronica	ENFERMEDAD	1	0.5	1	enfermedad venoso crónico			enfermedad venosa crónica	enfermedad venosa crónica	32631646_ES
+enfermedad respiratoria aguda por coronavirus	ENFERMEDAD	1	0.5	1	enfermedad respiratorio agudo por coronavirus			enfermedad respiratoria aguda por coronavirus	enfermedad respiratoria aguda por coronavirus	32631646_ES
+enfermedad renal cronica G3a A3	ENFERMEDAD	1	0.5	1	enfermedad renal crónico G3a A3			enfermedad renal crónica G3a A3	enfermedad renal crónica G3a A3	32622483_ES
+enfermedad renal cronica	ENFERMEDAD	1	0.5	1	enfermedad renal crónico			enfermedad renal crónica	enfermedad renal crónica	32631645_ES
+enfermedad pulmonar intersticial	ENFERMEDAD	1	0.5	1	enfermedad pulmonar intersticial	233703007	C0206062	enfermedad pulmonar intersticial	enfermedad pulmonar intersticial	32631838_ES
+enfermedad por covid19	ENFERMEDAD	1	0.5	1	enfermedad por covid19			enfermedad por COVID-19	enfermedad por covid19	32586752_ES
+enfermedad mieloproliferativa	ENFERMEDAD	1	0.5	1	enfermedad mieloproliferativo	20921005, 128925001	C0027022, C0027022, C1292778	enfermedad mieloproliferativa	enfermedad mieloproliferativa	32622819B_ES
+enfermedad linfoproliferativa postrasplante	ENFERMEDAD	1	0.5	1	enfermedad linfoproliferativo postrasplante	84631004	C0024314	enfermedad linfoproliferativa postrasplante	enfermedad linfoproliferativa postrasplante	32198834_ES
+enfermedad del coronavirus 2019	ENFERMEDAD	1	0.5	1	enfermedad de+el coronavirus 2019			enfermedad del coronavirus 2019	enfermedad del coronavirus 2019	32401344_ES
+enfermedad de parkinson	ENFERMEDAD	1	0.5	1	enfermedad de parkinson	49049000	C0030567	enfermedad de Parkinson	enfermedad de parkinson	32622819A_ES
+enfermedad de kawasaki clasica	ENFERMEDAD	1	0.5	1	enfermedad de kawasaki clásico			enfermedad de Kawasaki clásica	enfermedad de kawasaki clásica	32427161_ES
+enfermedad de kawasaki	ENFERMEDAD	1	0.5	1	enfermedad de kawasaki	75053002	C0026691	enfermedad de Kawasaki	enfermedad de kawasaki	32265235_ES
+enfermedad de crohn grave	ENFERMEDAD	1	0.5	1	enfermedad de crohn grave	34000006	C0010346	enfermedad de Crohn grave	enfermedad de crohn grave	32294258_ES
+enfermedad de crohn	ENFERMEDAD	1	0.5	1	enfermedad de crohn	34000006	C0010346	enfermedad de Crohn	enfermedad de crohn	32294258_ES
+enfermedad de alzheimer	ENFERMEDAD	1	0.5	1	enfermedad de alzheimer	26929004	C0002395	enfermedad de Alzheimer	enfermedad de alzheimer	32638347B_ES
+enfermedad critica	ENFERMEDAD	1	0.5	1	enfermedad crítica			enfermedad crítica	enfermedad crítica	32620682_ES
+enfermedad cerebrovascular isquemica de pequeno vaso	ENFERMEDAD	1	0.5	1	enfermedad cerebrovascular isquémico de pequeño vaso			enfermedad cerebrovascular isquémica de pequeño vaso	enfermedad cerebrovascular isquémica de pequeño vaso	32631645_ES
+enfermedad cerebrovascular	ENFERMEDAD	1	0.5	1	enfermedad cerebrovascular	62914000	C0007820	enfermedad cerebrovascular	enfermedad cerebrovascular	32293714_ES
+enfermedad asociada a covid19	ENFERMEDAD	1	0.5	1	enfermedad asociar a covid19			enfermedad asociada a COVID-19	enfermedad asociada a covid19	32352486_ES
+encefalopatia posterior reversible	ENFERMEDAD	1	0.5	1	encefalopatía posterior reversible			encefalopatía posterior reversible	encefalopatía posterior reversible	32586752_ES
+encefalitis inmunitaria	ENFERMEDAD	1	0.5	1	encefalitis inmunitario			encefalitis inmunitaria	encefalitis inmunitaria	32418288_ES
+encefalitis del LCR	ENFERMEDAD	1	0.5	1	encefalitis de+el LCR			encefalitis del LCR	encefalitis del LCR	32292054_ES
+en la arteria coronaria	ENFERMEDAD	1	0.5	1	en el arteria coronario	41801008, 181294004	C0205042, C1269008	en la arteria coronaria	en la arteria coronaria	32639461_ES
+embolo pulmonar segmentario	ENFERMEDAD	1	0.5	1	émbolo pulmonar segmentario			émbolo pulmonar segmentario	émbolo pulmonar segmentario	32617903B_ES
+embolias pulmonares segmentarias	ENFERMEDAD	1	0.5	1	embolia pulmonar segmentario			embolias pulmonares segmentarias	embolias pulmonares segmentarias	32648092A_ES
+embolia pulmonar lobular proximal bilateral	ENFERMEDAD	1	0.5	1	embolia pulmonar lobular proximal bilateral			embolia pulmonar lobular proximal bilateral	embolia pulmonar lobular proximal bilateral	32638347B_ES
+embolia pulmonar aguda	ENFERMEDAD	1	0.5	1	embolia pulmonar agudo	706870000	C2882221	embolia pulmonar aguda	embolia pulmonar aguda	32360384_ES
+embarazos	ENFERMEDAD	1	0.5	1	embarazo	289908002	C0032961	embarazos	embarazos	32292054_ES
+embarazada secundigesta	ENFERMEDAD	1	0.5	1	embarazar secundigesta			embarazada secundigesta	embarazada secundigesta	32614251_ES
+edema cerebral	ENFERMEDAD	1	0.5	1	edema cerebral	2032001	C0006114, C1527311	edema cerebral	edema cerebral	32583150A_ES
+duplicidad renal	ENFERMEDAD	1	0.5	1	duplicidad renal			duplicidad renal	duplicidad renal	32318729_ES
+dispepsia	ENFERMEDAD	1	0.5	1	dispepsia	87548005, 162031009	C0013395, C0013395, C0221512, C1282765	dispepsia	dispepsia	32360439_ES
+disnea subita	ENFERMEDAD	1	0.5	1	disnea súbito			disnea súbita	disnea súbita	32247642_ES
+disnea aguda	ENFERMEDAD	1	0.5	1	disnea agudo			disnea aguda	disnea aguda	32352486_ES
+disfuncion sistolica biventricular	ENFERMEDAD	1	0.5	1	disfunción sistólico biventricular			disfunción sistólica biventricular	disfunción sistólica biventricular	32427645_ES
+disfuncion respiratoria	ENFERMEDAD	1	0.5	1	disfunción respiratorio			disfunción respiratoria	disfunción respiratoria	32215898_ES
+disfuncion esfinteriana	ENFERMEDAD	1	0.5	1	disfunción esfinteriano			disfunción esfinteriana	disfunción esfinteriana	32601756_ES
+disfuncion del ventriculo	ENFERMEDAD	1	0.5	1	disfunción de+el ventrículo			disfunción del ventrículo	disfunción del ventrículo	32292915_ES
+disfuncion biventricular grave	ENFERMEDAD	1	0.5	1	disfunción biventricular grave			disfunción biventricular grave	disfunción biventricular grave	3229222_ES
+disfagia leve	ENFERMEDAD	1	0.5	1	disfagia leve			disfagia leve	disfagia leve	32623310_ES
+discopatias a nivel lumbar	ENFERMEDAD	1	0.5	1	discopatías a nivel lumbar			discopatías a nivel lumbar	discopatías a nivel lumbar	32631645_ES
+discinesia miocardica difusa	ENFERMEDAD	1	0.5	1	discinesia miocárdico difuso			discinesia miocárdica difusa	discinesia miocárdica difusa	32277408_ES
+disartria grave	ENFERMEDAD	1	0.5	1	disartria grave			disartria grave	disartria grave	32586958_ES
+dilataciones bronquiectasicas cisticas y tubulares en las estructuras bronquiales del lobulo superior del pulmon	ENFERMEDAD	1	0.5	1	dilatación bronquiectásicas cístico y tubular en el estructura bronquial de+el lóbulo superior de+el pulmón			dilataciones bronquiectásicas císticas y tubulares en las estructuras bronquiales del lóbulo superior del pulmón	dilataciones bronquiectásicas císticas y tubulares en las estructuras bronquiales del lóbulo superior del pulmón	32612435_ES
+dilatacion bilateral de los rinones	ENFERMEDAD	1	0.5	1	dilatación bilateral de el riñón			dilatación bilateral de los riñones	dilatación bilateral de los riñones	32636116_ES
+diarrea intermitente	ENFERMEDAD	1	0.5	1	diarrea intermitente			diarrea intermitente	diarrea intermitente	32222713_ES
+diarrea hemorragica	ENFERMEDAD	1	0.5	1	diarrea hemorrágico			diarrea hemorrágica	diarrea hemorrágica	32245909_ES
+diarrea	ENFERMEDAD	1	0.5	1	diarrea	62315008	C0011991	diarrea	diarrea	32364123_ES
+diabetica	ENFERMEDAD	1	0.5	1	diabético			diabética	diabética	32622483_ES
+diabetes mellitus tipo2	ENFERMEDAD	1	0.5	1	diabetes mellitus tipo2	44054006	C0011860	diabetes mellitus tipo2	diabetes mellitus tipo2	32631645_ES
+diabetes mellitus tipo 2	ENFERMEDAD	1	0.5	1	diabetes mellitus tipo 2	44054006	C0011860	diabetes mellitus tipo 2	diabetes mellitus tipo 2	32622483_ES
+diabetes mellitus de tipo II	ENFERMEDAD	1	0.5	1	diabetes mellitus de tipo II			diabetes mellitus de tipo II	diabetes mellitus de tipo II	32427774-B_ES
+diabetes gestacional	ENFERMEDAD	1	0.5	1	diabetes gestacional	11687002	C0085207	diabetes gestacional	diabetes gestacional	32363336_ES
+diabetes de tipo 1 inmunitaria	ENFERMEDAD	1	0.5	1	diabetes de tipo 1 inmunitario			diabetes de tipo 1 inmunitaria	diabetes de tipo 1 inmunitaria	32653960_ES
+diabetes de tipo 1	ENFERMEDAD	1	0.5	1	diabetes de tipo 1	405751000	C1320657	diabetes de tipo 1	diabetes de tipo 1	32653960_ES
+desplazamiento mediastinico	ENFERMEDAD	1	0.5	1	desplazamiento mediastínico			desplazamiento mediastínico	desplazamiento mediastínico	32317275_ES
+desmielinizacion periferica	ENFERMEDAD	1	0.5	1	desmielinización periférico			desmielinización periférica	desmielinización periférica	32399694­­_ES
+deshidratacion moderada	ENFERMEDAD	1	0.5	1	deshidratación moderar			deshidratación moderada	deshidratación moderada	32640066_ES
+desgarro vesical	ENFERMEDAD	1	0.5	1	desgarro vesical			desgarro vesical	desgarro vesical	32399450_ES
+descompensacion cardiorrespiratoria	ENFERMEDAD	1	0.5	1	descompensación cardiorrespiratoria			descompensación cardiorrespiratoria	descompensación cardiorrespiratoria	32638347B_ES
+desaturacion subita	ENFERMEDAD	1	0.5	1	desaturación súbito			desaturación súbita	desaturación súbita	32399950_ES
+derrame pleural y epicardico y atelectasia	ENFERMEDAD	1	0.5	1	derrame pleural y epicárdico y atelectasia			derrame pleural y epicárdico y atelectasia	derrame pleural y epicárdico y atelectasia	32635747_ES
+derrame pleural subsegmentario	ENFERMEDAD	1	0.5	1	derrame pleural subsegmentario			derrame pleural subsegmentario	derrame pleural subsegmentario	32399449-B_ES
+derrame pleural en el torax	ENFERMEDAD	1	0.5	1	derrame pleural en el tórax			derrame pleural en el tórax	derrame pleural en el tórax	32207255_ES
+derrame pleural bilateral	ENFERMEDAD	1	0.5	1	derrame pleural bilateral	425802001	C0747635	derrame pleural bilateral	derrame pleural bilateral	32607304_Es
+derrame pericardico perimetral moderado	ENFERMEDAD	1	0.5	1	derrame pericárdico perimetral moderar			derrame pericárdico perimetral moderado	derrame pericárdico perimetral moderado	32635747_ES
+dermatosis neutrofilica	ENFERMEDAD	1	0.5	1	dermatosis neutrofílico			dermatosis neutrofílica	dermatosis neutrofílica	32294264_ES
+dermatosis inflamatorias	ENFERMEDAD	1	0.5	1	dermatosis inflamatorio	703938007	C3875321	dermatosis inflamatorias	dermatosis inflamatorias	32585767_ES
+dermatosis exfoliativa	ENFERMEDAD	1	0.5	1	dermatosis exfoliativo			dermatosis exfoliativa	dermatosis exfoliativa	32617169_ES
+dermatitis atopica	ENFERMEDAD	1	0.5	1	dermatitis atópico			dermatitis atópica	dermatitis atópica	32606105_ES
+depresion	ENFERMEDAD	1	0.5	1	depresión			depresión	depresión	32586752_ES
+delirio extravagante	ENFERMEDAD	1	0.5	1	delirio extravagante			delirio extravagante	delirio extravagante	32639089_ES
+delirio confusional	ENFERMEDAD	1	0.5	1	delirio confusional			delirio confusional	delirio confusional	32586752_ES
+del enfermo eutiroideo	ENFERMEDAD	1	0.5	1	de+el enfermo eutiroideo	237542005	C0015190	del enfermo eutiroideo	del enfermo eutiroideo	32639064_ES
+deficit de atencion	ENFERMEDAD	1	0.5	1	déficit de atención			déficit de atención	déficit de atención	32637266B_ES
+deficiencia alimentaria	ENFERMEDAD	1	0.5	1	deficiencia alimentario	190656001	C0342922	deficiencia alimentaria	deficiencia alimentaria	32073161_ES
+de tormenta de citocinas	ENFERMEDAD	1	0.5	1	de tormenta de citocinas			de tormenta de citocinas	de tormenta de citocinas	32618794_ES
+de la sexta vertebra toracica	ENFERMEDAD	1	0.5	1	de el 6 vértebra torácico			de la sexta vértebra torácica	de la sexta vértebra torácica	32644205_ES
+cuadro celulitico cervical	ENFERMEDAD	1	0.5	1	cuadro celulítico cervical			cuadro celulítico cervical	cuadro celulítico cervical	32427645_ES
+cuadro cardiaco	ENFERMEDAD	1	0.5	1	cuadro cardíaco			cuadro cardíaco	cuadro cardíaco	32363351_ES
+cuadro agudo	ENFERMEDAD	1	0.5	1	cuadro agudo			cuadro agudo	cuadro agudo	32611659_ES
+crisis tonicoclonica generalizada	ENFERMEDAD	1	0.5	1	crisis tónico-clónico generalizar			crisis tonicoclónica generalizada	crisis tonicoclónica generalizada	32563170_ES
+crisis motora de primer foco	ENFERMEDAD	1	0.5	1	crisis motor de 1 foco			crisis motora de primer foco	crisis motora de primer foco	32417987_ES
+crisis inflamatoria masiva	ENFERMEDAD	1	0.5	1	crisis inflamatorio masivo			crisis inflamatoria masiva	crisis inflamatoria masiva	32427645_ES
+crisis epileptica	ENFERMEDAD	1	0.5	1	crisis epiléptico			crisis epiléptica	crisis epiléptica	32563170_ES
+crisis de citocinas asociada a covid19	ENFERMEDAD	1	0.5	1	crisis de citocinas asociar a covid19			crisis de citocinas asociada a COVID-19	crisis de citocinas asociada a covid19	32427161_ES
+crisis de citocinas	ENFERMEDAD	1	0.5	1	crisis de citocinas			crisis de citocinas	crisis de citocinas	32427161_ES
+crisis caracterizada por movimientos clonicos en el brazo	ENFERMEDAD	1	0.5	1	crisis caracterizar por movimiento clónico en el brazo			crisis caracterizada por movimientos clónicos en el brazo	crisis caracterizada por movimientos clónicos en el brazo	32417987_ES
+covid19 subclinica	ENFERMEDAD	1	0.5	1	covid19 subclínico			COVID-19 subclínica	covid19 subclínica	32614251_ES
+covid19 grave	ENFERMEDAD	1	0.5	1	covid19 grave			COVID-19 grave	covid19 grave	32276139_B_ES
+covid19 en la zona epidemica	ENFERMEDAD	1	0.5	1	covid19 en el zona epidémico			COVID-19 en la zona epidémica	covid19 en la zona epidémica	32428291-B_ES
+corioamnionitis	ENFERMEDAD	1	0.5	1	corioamnionitis	11612004	C0008495	corioamnionitis	corioamnionitis	32637327A_ES
+consolidacion pleural en los lobulos inferiores de ambos pulmones	ENFERMEDAD	1	0.5	1	consolidación pleural en el lóbulo inferior de ambos pulmón			consolidación pleural en los lóbulos inferiores de ambos pulmones	consolidación pleural en los lóbulos inferiores de ambos pulmones	32612435_ES
+consolidacion parenquimatosa	ENFERMEDAD	1	0.5	1	consolidación parenquimatoso			consolidación parenquimatosa	consolidación parenquimatosa	32637327B_ES
+consolidacion multifocal en ambos campos pulmonares	ENFERMEDAD	1	0.5	1	consolidación multifocal en ambos campo pulmonar			consolidación multifocal en ambos campos pulmonares	consolidación multifocal en ambos campos pulmonares	32282027_ES
+consolidacion mixta segmentaria	ENFERMEDAD	1	0.5	1	consolidación mixto segmentario			consolidación mixta segmentaria	consolidación mixta segmentaria	32266524_ES
+consolidacion focal en la parte superior del pulmon	ENFERMEDAD	1	0.5	1	consolidación focal en el parte superior de+el pulmón			consolidación focal en la parte superior del pulmón	consolidación focal en la parte superior del pulmón	32617223_ES
+consolidacion en parte del lobulo inferior del pulmon	ENFERMEDAD	1	0.5	1	consolidación en parte de+el lóbulo inferior de+el pulmón			consolidación en parte del lóbulo inferior del pulmón	consolidación en parte del lóbulo inferior del pulmón	32292053_ES
+consolidacion en el pulmon	ENFERMEDAD	1	0.5	1	consolidación en el pulmón			consolidación en el pulmón	consolidación en el pulmón	32611659_ES
+consolidacion en el lobulo superior	ENFERMEDAD	1	0.5	1	consolidación en el lóbulo superior			consolidación en el lóbulo superior	consolidación en el lóbulo superior	32320556_ES
+consolidacion en diferentes regiones de todo el pulmon	ENFERMEDAD	1	0.5	1	consolidación en diferente región de todo el pulmón			consolidación en diferentes regiones de todo el pulmón	consolidación en diferentes regiones de todo el pulmón	32637086A_ES
+consolidacion anular en el lobulo superior	ENFERMEDAD	1	0.5	1	consolidación anular en el lóbulo superior			consolidación anular en el lóbulo superior	consolidación anular en el lóbulo superior	32637086B_ES
+conjuntivitis en el ojo	ENFERMEDAD	1	0.5	1	conjuntivitis en el ojo			conjuntivitis en el ojo	conjuntivitis en el ojo	32198834_ES
+condensacion pulmonar	ENFERMEDAD	1	0.5	1	condensación pulmonar			condensación pulmonar	condensación pulmonar	32638347B_ES
+condensacion perihiliar	ENFERMEDAD	1	0.5	1	condensación perihiliar			condensación perihiliar	condensación perihiliar	32196627_ES
+comunicacion interventricular	ENFERMEDAD	1	0.5	1	comunicación interventricular			comunicación interventricular	comunicación interventricular	32606105_ES
+coma arreactivo	ENFERMEDAD	1	0.5	1	coma arreactivo			coma arreactivo	coma arreactivo	32651243_ES
+colitis ulcerosa grave	ENFERMEDAD	1	0.5	1	colitis ulceroso grave	64766004	C0009324, C2919828	colitis ulcerosa grave	colitis ulcerosa grave	32554621_ES
+colapso parcial del lobulo superior	ENFERMEDAD	1	0.5	1	colapso parcial de+el lóbulo superior			colapso parcial del lóbulo superior	colapso parcial del lóbulo superior	32320556_ES
+coinfecciones bacterianas o fungicas	ENFERMEDAD	1	0.5	1	coinfección bacteriano o fúngico			coinfecciones bacterianas o fúngicas	coinfecciones bacterianas o fúngicas	32554811_ES
+coinfecciones	ENFERMEDAD	1	0.5	1	coinfección			coinfecciones	coinfecciones	32602267_ES
+coagulopatias	ENFERMEDAD	1	0.5	1	coagulopatía			coagulopatías	coagulopatías	32161941_ES
+coagulacion intravascular generalizada	ENFERMEDAD	1	0.5	1	coagulación intravascular generalizar			coagulación intravascular generalizada	coagulación intravascular generalizada	32277408_ES
+claustrofobia	ENFERMEDAD	1	0.5	1	claustrofobia	247850006, 19887002	C0008909, C0008909	claustrofobia	claustrofobia	32085846_ES
+choque termico	ENFERMEDAD	1	0.5	1	choque térmico			choque térmico	choque térmico	32639461_ES
+choque resistente	ENFERMEDAD	1	0.5	1	choque resistente			choque resistente	choque resistente	32638890_ES
+choque mixto	ENFERMEDAD	1	0.5	1	choque mixto			choque mixto	choque mixto	32586778_ES
+cetosis	ENFERMEDAD	1	0.5	1	cetosis	2538008	C0022638	cetosis	cetosis	32653960_ES
+celulitis	ENFERMEDAD	1	0.5	1	celulitis	128045006, 385627004, 74276003	C0007642, C0007642, C0007642, C0031557	celulitis	celulitis	32427645_ES
+catatonia	ENFERMEDAD	1	0.5	1	catatonia			catatonia	catatonia	32605766_ES
+cataratas en ambos ojos	ENFERMEDAD	1	0.5	1	catarata en ambos ojo			cataratas en ambos ojos	cataratas en ambos ojos	32631645_ES
+cardiopatia hipertensiva	ENFERMEDAD	1	0.5	1	cardiopatía hipertensivo			cardiopatía hipertensiva	cardiopatía hipertensiva	32631646_ES
+cardiomiopatia	ENFERMEDAD	1	0.5	1	cardiomiopatía			cardiomiopatía	cardiomiopatía	32363351_ES
+cardioembolica	ENFERMEDAD	1	0.5	1	cardioembólica			cardioembólica	cardioembólica	32583150B_ES
+carcinoma urotelial de vejiga	ENFERMEDAD	1	0.5	1	carcinoma urotelial de vejiga			carcinoma urotelial de vejiga	carcinoma urotelial de vejiga	32622819A_ES
+carcinoma renal sarcomatoide de celulas claras metastasico	ENFERMEDAD	1	0.5	1	carcinoma renal sarcomatoide de célula claro metastásico			carcinoma renal sarcomatoide de células claras metastásico	carcinoma renal sarcomatoide de células claras metastásico	32247642_ES
+carcinoma de celulas escamosas hipofaringeo	ENFERMEDAD	1	0.5	1	carcinoma de célula escamoso hipofaríngeo			carcinoma de células escamosas hipofaríngeo	carcinoma de células escamosas hipofaríngeo	32620682_ES
+cancer de prostata	ENFERMEDAD	1	0.5	1	cáncer de próstata			cáncer de próstata	cáncer de próstata	32276139_B_ES
+cancer de mama	ENFERMEDAD	1	0.5	1	cáncer de mama			cáncer de mama	cáncer de mama	32637327A_ES
+bypass gastrico	ENFERMEDAD	1	0.5	1	bypass gástrico			bypass gástrico	bypass gástrico	32653960_ES
+brote epidemico local de coronavirus	ENFERMEDAD	1	0.5	1	brote epidémico local de coronavirus			brote epidémico local de coronavirus	brote epidémico local de coronavirus	32267502_ES
+bronquitis cronica	ENFERMEDAD	1	0.5	1	bronquitis crónico			bronquitis crónica	bronquitis crónica	32622819A_ES
+bronquiolitis leve	ENFERMEDAD	1	0.5	1	bronquiolitis leve	4120002	C0006271	bronquiolitis leve	bronquiolitis leve	32606105_ES
+bronquiolitis adenovirica	ENFERMEDAD	1	0.5	1	bronquiolitis adenovírico			bronquiolitis adenovírica	bronquiolitis adenovírica	32606105_ES
+bronquiectasia cistica	ENFERMEDAD	1	0.5	1	bronquiectasia cístico			bronquiectasia cística	bronquiectasia cística	32612435_ES
+bradicardia irreversibles	ENFERMEDAD	1	0.5	1	bradicardia irreversible			bradicardia irreversibles	bradicardia irreversibles	32638890_ES
+bradicardia	ENFERMEDAD	1	0.5	1	bradicardia	48867003	C0428977	bradicardia	bradicardia	32329981_ES
+bloqueo fascicular anterior	ENFERMEDAD	1	0.5	1	bloqueo fascicular anterior	37760005	C0264912	bloqueo fascicular anterior	bloqueo fascicular anterior	32650881_ES
+bloqueo de la rama derecha del haz de His	ENFERMEDAD	1	0.5	1	bloquear de el rama derecho de+el haz de his			bloqueo de la rama derecha del haz de His	bloqueo de la rama derecha del haz de His	32399449-B_ES
+bicitopenia	ENFERMEDAD	1	0.5	1	bicitopenia			bicitopenia	bicitopenia	32554425_ES
+bebedora	ENFERMEDAD	1	0.5	1	bebedor			bebedora	bebedora	32426200_ES
+bacterianas fungicas o viricas	ENFERMEDAD	1	0.5	1	bacteriano fúngico o vírico			bacterianas, fúngicas o víricas	bacterianas fúngicas o víricas	32636116_ES
+bacteremia por E coli	ENFERMEDAD	1	0.5	1	bacteremia por E coli			bacteremia por E. coli	bacteremia por E coli	32617223_ES
+atrofia muscular difusa	ENFERMEDAD	1	0.5	1	atrofia muscular difuso	88092000	C0026846	atrofia muscular difusa	atrofia muscular difusa	32619798_ES
+atrofia del musculo recto externo	ENFERMEDAD	1	0.5	1	atrofia de+el músculo recto externo			atrofia del músculo recto externo	atrofia del músculo recto externo	32592761_ES
+ateroesclerosis aortica	ENFERMEDAD	1	0.5	1	ateroesclerosis aórtico			ateroesclerosis aórtica	ateroesclerosis aórtica	32424482_ES
+ateroesclerosis	ENFERMEDAD	1	0.5	1	ateroesclerosis	38716007	C0004153	ateroesclerosis	ateroesclerosis	32353183-B_ES
+atelectasia subsegmentaria	ENFERMEDAD	1	0.5	1	atelectasia subsegmentario			atelectasia subsegmentaria	atelectasia subsegmentaria	32292867_ES
+atelectasia por compresion	ENFERMEDAD	1	0.5	1	atelectasia por compresión			atelectasia por compresión	atelectasia por compresión	32609542_ES
+aspergilosis	ENFERMEDAD	1	0.5	1	aspergilosis	65553006	C0004030	aspergilosis	aspergilosis	32198834_ES
+asma leve intermitente	ENFERMEDAD	1	0.5	1	asma leve intermitente	427679007	C1960045	asma leve intermitente	asma leve intermitente	32412848_ES
+asma infantil	ENFERMEDAD	1	0.5	1	asma infantil	233678006	C0264408	asma infantil	asma infantil	32423911_ES
+asma grave	ENFERMEDAD	1	0.5	1	asma grave	370221004	C0581126	asma grave	asma grave	32553608­_A_ES
+ascitis	ENFERMEDAD	1	0.5	1	ascitis	13124004, 389026000	C0003962, C0003962	ascitis	ascitis	32639461_ES
+artrosis	ENFERMEDAD	1	0.5	1	artrosis	80843008, 267888004, 396275006	C0029408, C0029408, C0029408	artrosis	artrosis	32631646_ES
+artropatia degenerativa cervical	ENFERMEDAD	1	0.5	1	artropatía degenerativo cervical			artropatía degenerativa cervical	artropatía degenerativa cervical	3229222_ES
+artritis reumatoide seropositiva	ENFERMEDAD	1	0.5	1	artritis reumatoide seropositivo	239791005	C0409651	artritis reumatoide seropositiva	artritis reumatoide seropositiva	32631645_ES
+artritis poliarticular	ENFERMEDAD	1	0.5	1	artritis poliarticular			artritis poliarticular	artritis poliarticular	32427161_ES
+artritis	ENFERMEDAD	1	0.5	1	artritis	372091005, 3723001	C0003864, C0003864	artritis	artritis	32294258_ES
+arteriopatia periferica	ENFERMEDAD	1	0.5	1	arteriopatía periférico			arteriopatía periférica	arteriopatía periférica	32352486_ES
+arteriopatia coronaria trivascular	ENFERMEDAD	1	0.5	1	arteriopatía coronario trivascular			arteriopatía coronaria trivascular	arteriopatía coronaria trivascular	32586778_ES
+arteriopatia coronaria obstructiva	ENFERMEDAD	1	0.5	1	arteriopatía coronario obstructivo			arteriopatía coronaria obstructiva	arteriopatía coronaria obstructiva	32329981_ES
+apnea del sueno	ENFERMEDAD	1	0.5	1	apnea de+el sueño			apnea del sueño	apnea del sueño	32553608­B_ES
+aplastamientos vertebrales d10d12	ENFERMEDAD	1	0.5	1	aplastamiento vertebral d10d12			aplastamientos vertebrales D10-D12	aplastamientos vertebrales d10d12	32631645_ES
+apendicitis aguda	ENFERMEDAD	1	0.5	1	apendicitis agudo	85189001	C0085693	apendicitis aguda	apendicitis aguda	32427161_ES
+aortitis autoinmunitaria de la aorta abdominal	ENFERMEDAD	1	0.5	1	aortitis autoinmunitario de el aorta abdominal			aortitis autoinmunitaria de la aorta abdominal	aortitis autoinmunitaria de la aorta abdominal	32622819A_ES
+anosmia completa	ENFERMEDAD	1	0.5	1	anosmia completo			anosmia completa	anosmia completa	32605712_ES
+anosmia aguda	ENFERMEDAD	1	0.5	1	anosmia agudo			anosmia aguda	anosmia aguda	32267483_ES
+anomalias sospechosas en la medula espinal	ENFERMEDAD	1	0.5	1	anomalía sospechoso en el médula espinal			anomalías sospechosas en la médula espinal	anomalías sospechosas en la médula espinal	32586958_ES
+anomalias pulmonares	ENFERMEDAD	1	0.5	1	anomalía pulmonar			anomalías pulmonares	anomalías pulmonares	32165205_ES
+anomalias microvasculares	ENFERMEDAD	1	0.5	1	anomalía microvasculares			anomalías microvasculares	anomalías microvasculares	32267502_ES
+anomalias electroliticas	ENFERMEDAD	1	0.5	1	anomalía electrolítico			anomalías electrolíticas	anomalías electrolíticas	32588185_ES
+anomalias de las extremidades superiores	ENFERMEDAD	1	0.5	1	anomalía de el extremidad superior			anomalías de las extremidades superiores	anomalías de las extremidades superiores	32617903B_ES
+anomalias cardiopulmonares agudas	ENFERMEDAD	1	0.5	1	anomalía cardiopulmonar agudo			anomalías cardiopulmonares agudas	anomalías cardiopulmonares agudas	32605766_ES
+anomalias agudas intracraneales	ENFERMEDAD	1	0.5	1	anomalía agudo intracraneal			anomalías agudas intracraneales	anomalías agudas intracraneales	32605766_ES
+anomalia intracraneal aguda	ENFERMEDAD	1	0.5	1	anomalía intracraneal agudo			anomalía intracraneal aguda	anomalía intracraneal aguda	32617903A_ES
+anomalia en el tabique auricular	ENFERMEDAD	1	0.5	1	anomalía en el tabique auricular			anomalía en el tabique auricular	anomalía en el tabique auricular	32554811_ES
+angina vasoespastica	ENFERMEDAD	1	0.5	1	angina vasoespástica			angina vasoespástica	angina vasoespástica	32611659_ES
+aneurisma coronario	ENFERMEDAD	1	0.5	1	aneurisma coronario			aneurisma coronario	aneurisma coronario	32639461_ES
+aneurisma	ENFERMEDAD	1	0.5	1	aneurisma	85659009, 432119003	C0002940, C0002940	aneurisma	aneurisma	32265235_ES
+anemia normocitica leve	ENFERMEDAD	1	0.5	1	anemia normocítico leve			anemia normocítica leve	anemia normocítica leve	32554621_ES
+anemia grave	ENFERMEDAD	1	0.5	1	anemia grave			anemia grave	anemia grave	32245909_ES
+anemia de trastorno cronico	ENFERMEDAD	1	0.5	1	anemia de trastorno crónico			anemia de trastorno crónico	anemia de trastorno crónico	32631645_ES
+anemia aplasica grave	ENFERMEDAD	1	0.5	1	anemia aplásico grave			anemia aplásica grave	anemia aplásica grave	32636116_ES
+ampollas cutaneas	ENFERMEDAD	1	0.5	1	ampolla cutáneo			ampollas cutáneas	ampollas cutáneas	32589931_ES
+alzheimer	ENFERMEDAD	1	0.5	1	alzheimer			Alzheimer	alzheimer	32612465A_ES
+alucinacion auditiva	ENFERMEDAD	1	0.5	1	alucinación auditivo			alucinación auditiva	alucinación auditiva	32593478_ES
+alteraciones isquemicas en la region irrigada por la arteria cerebral	ENFERMEDAD	1	0.5	1	alteración isquémico en el región irrigar por el arteria cerebral			alteraciones isquémicas en la región irrigada por la arteria cerebral	alteraciones isquémicas en la región irrigada por la arteria cerebral	32426200_ES
+alergica a la penicilina	ENFERMEDAD	1	0.5	1	alérgico a el penicilina			alérgica a la penicilina	alérgica a la penicilina	32161941_ES
+alergia a medios de contraste yodados	ENFERMEDAD	1	0.5	1	alergia a medio de contraste yodar			alergia a medios de contraste yodados	alergia a medios de contraste yodados	32623310_ES
+alergia a los frutos secos	ENFERMEDAD	1	0.5	1	alergia a el fruto seco			alergia a los frutos secos	alergia a los frutos secos	32641443_ES
+alergia a betalactamicos	ENFERMEDAD	1	0.5	1	alergia a betalactámico			alergia a betalactámicos	alergia a betalactámicos	32638347A_ES
+alcoholismo	ENFERMEDAD	1	0.5	1	alcoholismo	7200002	C0001973	alcoholismo	alcoholismo	32073161_ES
+alcalosis respiratoria	ENFERMEDAD	1	0.5	1	alcalosis respiratorio	111378004	C0002064	alcalosis respiratoria	alcalosis respiratoria	32363336-B_ES
+alargamiento del QT	ENFERMEDAD	1	0.5	1	alargamiento de+el QT			alargamiento del QT	alargamiento del QT	32363351_ES
+aguda	ENFERMEDAD	1	0.5	1	agudo			aguda	aguda	32650881_ES
+afecciones respiratorias	ENFERMEDAD	1	0.5	1	afección respiratorio			afecciones respiratorias	afecciones respiratorias	32196627_ES
+afecciones cardiopulmonares agudas	ENFERMEDAD	1	0.5	1	afección cardiopulmonar agudo			afecciones cardiopulmonares agudas	afecciones cardiopulmonares agudas	32605766_ES
+afeccion aguda	ENFERMEDAD	1	0.5	1	afección agudo			afección aguda	afección aguda	32205138_ES
+afasia anomica	ENFERMEDAD	1	0.5	1	afasia anómico			afasia anómica	afasia anómica	32360439-D_ES
+adenopatias mediastinicas	ENFERMEDAD	1	0.5	1	adenopatía mediastínico			adenopatías mediastínicas	adenopatías mediastínicas	32208010_ES
+adenopatia en el lado derecho del cuello	ENFERMEDAD	1	0.5	1	adenopatía en el lado derecho de+el cuello			adenopatía en el lado derecho del cuello	adenopatía en el lado derecho del cuello	32427645_ES
+adenocarcinoma pulmonar	ENFERMEDAD	1	0.5	1	adenocarcinoma pulmonar			adenocarcinoma pulmonar	adenocarcinoma pulmonar	32165205_ES
+adenocarcinoma en el pulmon	ENFERMEDAD	1	0.5	1	adenocarcinoma en el pulmón			adenocarcinoma en el pulmón	adenocarcinoma en el pulmón	32165205_ES
+acidosis transitoria	ENFERMEDAD	1	0.5	1	acidosis transitorio			acidosis transitoria	acidosis transitoria	32363217_ES
+acidosis respiratoria	ENFERMEDAD	1	0.5	1	acidosis respiratorio	12326000	C0001127	acidosis respiratoria	acidosis respiratoria	32638347A_ES
+acidosis metabolica grave	ENFERMEDAD	1	0.5	1	acidosis metabólico grave			acidosis metabólica grave	acidosis metabólica grave	32275347_ES
+acidosis metabolica	ENFERMEDAD	1	0.5	1	acidosis metabólico			acidosis metabólica	acidosis metabólica	32363336-B_ES
+absceso pulmonar diametro interno 43 mm en el lobulo inferior	ENFERMEDAD	1	0.5	1	absceso pulmonar diámetro interno 43 mm en el lóbulo inferior			absceso pulmonar (diámetro interno 43 mm) en el lóbulo inferior	absceso pulmonar diámetro interno 43 mm en el lóbulo inferior	32623310_ES
+absceso en el conducto parotideo	ENFERMEDAD	1	0.5	1	absceso en el conducto parotídeo			absceso en el conducto parotídeo	absceso en el conducto parotídeo	32631770_ES
+absceso de las glandulas salivales y neoplasia	ENFERMEDAD	1	0.5	1	absceso de el glándula salival y neoplasia			absceso de las glándulas salivales y neoplasia	absceso de las glándulas salivales y neoplasia	32631770_ES
+abrasiones en los labios y mucosa bucal	ENFERMEDAD	1	0.5	1	abrasión en el labio y mucosa bucal			abrasiones en los labios y mucosa bucal	abrasiones en los labios y mucosa bucal	32425356_ES
+abrasion del labio inferior	ENFERMEDAD	1	0.5	1	abrasión de+el labio inferior			abrasión del labio inferior	abrasión del labio inferior	32593478_ES
+aborto	ENFERMEDAD	1	0.5	1	aborto	299025000, 70317007	C0156543, C1281512	aborto	aborto	32161941_ES
+TVP bilateral	ENFERMEDAD	1	0.5	1	TVP bilateral			TVP bilateral	TVP bilateral	32631646_ES
+TCA superior	ENFERMEDAD	1	0.5	1	TCA superior			TCA superior	TCA superior	32589931_ES
+SNC	ENFERMEDAD	1	0.5	1	SNC			SNC	SNC	32639461_ES
+SGB asociado a covid19	ENFERMEDAD	1	0.5	1	SGB asociar a covid19			SGB asociado a COVID-19	SGB asociado a covid19	32653906_ES
+HAA	ENFERMEDAD	1	0.5	1	HAA			HAA	HAA	32401344_ES
+ERC	ENFERMEDAD	1	0.5	1	ERC			ERC	ERC	32631645_ES
