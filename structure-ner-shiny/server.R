@@ -27,7 +27,7 @@ server <- function(input, output, session){
 		
 		output$summary <- renderTable(cbind('num of edges'=as.integer(gsize(G)),
 											'num of nodes'=as.integer(gorder(G)),
-											'num of connected components'=as.integer(length(as.integer(gorder(G))))
+											'num of connected components'=as.integer(length(unique(components(G))))
 									), caption = "Network summary", caption.placement = getOption("xtable.caption.placement", "top"))
 		
 		output$summary_comm <- renderTable(cbind('num of communities'=as.integer(length(unique(cluster_louvain(G)$membership)))))
