@@ -10,14 +10,43 @@ ui <- fluidPage(
 		
 		sidebarLayout(position = "left",
 			sidebarPanel(
+				fluidRow(
+					actionButton("plot", "Plot network"),
+					actionButton("refresh", "Refresh session")
+					),
+				h2("Network visualization panel"),
 				uiOutput("weight"),
 				checkboxGroupInput("checkLabel", "Select labels:", choices = lst, selected = c(
 					"SEXO-SUJETO-ASISTENCIA", "SINTOMA", "ENFERMEDAD", "PROTEINAS", "ENTIDAD-OBSERVABLE"))
 				),
 
 		mainPanel(
-			actionButton("plot", "Plot network"),
-			visNetworkOutput("network")
+			tableOutput("summary"),
+			visNetworkOutput("network"),
+			br(),
+			tabsetPanel(type = "tabs",
+                tabPanel("Node ranking", fluidRow(
+                  	column(4,
+                  		h4("Centrality measures"),
+      					radioButtons("node_stats", "",
+                    		choices = c("Degree centrality" = "degree_centrality",
+                    		"Page Rank" = "page_rank",
+                    		"Betweenness centrality" = "betweenness_centrality",
+                    		"None" = "none"), selected = "betweenness_centrality")
+      				),
+      				column(8,
+                  		br(),
+                  		downloadLink("download_rank"),
+                  		tableOutput("ranked_nodes")
+                  	)
+                )),
+                tabPanel("Communities", fluidRow(
+                  	br(),
+                  	downloadLink("download_comm"),
+                  	tableOutput("summary_comm"),
+                  	visNetworkOutput("network2"))
+                )
+      		)
 		)
 	)
 )
