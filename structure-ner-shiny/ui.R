@@ -25,6 +25,8 @@ ui <- fluidPage(
 			visNetworkOutput("network"),
 			br(),
 			tabsetPanel(type = "tabs",
+                tabPanel("Co-occurrence",
+                  tableOutput("co_occurrences")),
                 tabPanel("Node ranking", fluidRow(
                   	column(4,
                   		h4("Centrality measures"),

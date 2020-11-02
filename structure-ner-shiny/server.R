@@ -18,7 +18,8 @@ server <- function(input, output, session){
 		req(input$weight)
 		req(input$checkLabel)
 		
-		edges <- edges[edges$value>input$weight,]
+		edges <- edges[edges$count_co>=input$weight,]
+		colnames(edges)[6] <- 'value'
 		nodes <- nodes[nodes$group%in%input$checkLabel,]
 		edges <- edges[edges$from%in%nodes$id & edges$to%in%nodes$id,]
 		nodes <- nodes[nodes$id%in%unique(c(as.character(unique(edges$from)),as.character(unique(edges$to)))),]
@@ -26,8 +27,7 @@ server <- function(input, output, session){
 		G <- graph_from_data_frame(edges, directed=FALSE, vertices=nodes$id)
 		
 		output$summary <- renderTable(cbind('num of edges'=as.integer(gsize(G)),
-											'num of nodes'=as.integer(gorder(G)),
-											'num of connected components'=as.integer(length(unique(components(G))))
+											'num of nodes'=as.integer(gorder(G))
 									), caption = "Network summary", caption.placement = getOption("xtable.caption.placement", "top"))
 		
 		output$summary_comm <- renderTable(cbind('num of communities'=as.integer(length(unique(cluster_louvain(G)$membership)))))
@@ -69,10 +69,10 @@ server <- function(input, output, session){
 		#slider edge weight
 	  	output$weight <- renderUI({
 	  		sliderInput("weight",
-	                  	"Select the minimum number of co-mentioning documents:",
+	                  	"Filter by co-occurrence count:",
 	                  	min = 1,
-	                  	max = 20,
-					  	value = 15,
+	                  	max = 100,
+					  	value = 40,
 					  	step = 1)
 		})
 
@@ -135,6 +135,15 @@ server <- function(input, output, session){
     							content = function(file) {
       								write.csv(detect_comm(), file, row.names = FALSE)
     							})
+
+	  	#Co-occurrences
+	  	output$co_occurrences <- renderTable({
+	  		lst <- pass_the_graph()
+	  		edges <- lst$edges
+	  		colnames(edges) <- c("word1","word2","count word1","count word 2","count of co-occurrences","PMI")
+	  		edges[order(edges$PMI, decreasing=T),]
+	  	})
+
 
 	  	# refresh button
 	  	observeEvent(input$refresh, {
